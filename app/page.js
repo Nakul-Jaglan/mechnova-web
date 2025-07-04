@@ -20,9 +20,9 @@ export default function Home() {
         <Hero/>
         <Segment/>
         <About/>
-        <Social/>
-        <Industries/>
         <Products/>
+        <Industries/>
+        <Social/>
         <Testimonials/>
         <Faqs/>
       </main>

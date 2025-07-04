@@ -93,7 +93,7 @@ function Products() {
                     />
                 </div>
                 <div className="text-center">
-                    <div className="font-semibold text-xl text-gray-900 group-hover:text-blue-700 mb-1">
+                    <div className="font-semibold text-xl text-gray-900 group-hover:text-[#0072ce] mb-1">
                     {prod.name}
                     </div>
                     <div className="text-base text-gray-500">{prod.category}</div>
