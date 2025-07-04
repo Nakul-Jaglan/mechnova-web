@@ -18,7 +18,9 @@ function Header() {
               height={50}
             />
           </Link>
-          <h1 className="text-3xl">Mechnova</h1>
+          <Link href="/" >
+            <h1 className="text-3xl">Mechnova</h1>
+          </Link>
         </div>
         {/* Hamburger for mobile */}
         <button
@@ -31,27 +33,27 @@ function Header() {
         {/* Desktop nav */}
         <nav className="hidden md:block">
           <ul className="flex space-x-4 text-xl">
-            <li><Link href="/" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-lg cursor-pointer">Home</Link></li>
-            <li><Link href="/about" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-lg cursor-pointer">About Us</Link></li>
-            <li><Link href="/products" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-lg cursor-pointer">Products</Link></li>
-            <li><Link href="/dealer" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-lg cursor-pointer">Become Dealer</Link></li>
-            <li><Link href="/contact" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-lg cursor-pointer">Contact Us</Link></li>
+            <li><Link href="/" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Home</Link></li>
+            <li><Link href="/about" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">About Us</Link></li>
+            <li><Link href="/products" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Products</Link></li>
+            <li><Link href="/dealer" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Become Dealer</Link></li>
+            <li><Link href="/contact" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Contact Us</Link></li>
           </ul>
         </nav>
         <div className="text-xl flex flex-row items-center space-x-4">
           <Link href={"tel:+919667515523"} className="hover:text-[#3394E6] flex items-center space-x-2">
-            <FaPhoneAlt />
+            <FaPhoneAlt className="text-white sm:text-black p-2 sm:p-0 text-4xl sm:text-xl rounded-full sm:rounded-none bg-[#0072ce] sm:bg-transparent" />
             <span className="hidden md:inline">+91 96675 15523</span>
           </Link>
           <Link href="/contact">
-            <button className="px-4 py-2 bg-[#3394E6] text-white rounded hover:bg-[#005FA3]">
+            <button className="px-4 py-2 bg-[#3394E6] text-white rounded hidden sm:inline hover:bg-[#005FA3]">
               Book a Call
             </button>
           </Link>
         </div>
         {/* Mobile nav overlay */}
         {open && (
-          <div className="fixed inset-0 z-40 bg-black bg-opacity-40 md:hidden" onClick={() => setOpen(false)}></div>
+          <div className="fixed inset-0 z-40 bg-black/90 md:hidden" onClick={() => setOpen(false)}></div>
         )}
         <nav
           className={`fixed top-0 right-0 z-50 h-full w-64 bg-white shadow-lg transform transition-transform duration-300 md:hidden ${open ? "translate-x-0" : "translate-x-full"}`}
@@ -62,7 +64,7 @@ function Header() {
             onClick={() => setOpen(false)}
             aria-label="Close navigation menu"
           >
-            ×
+            x
           </button>
           <ul className="flex flex-col mt-20 space-y-6 text-xl px-8">
             <li><Link href="/" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>Home</Link></li>
