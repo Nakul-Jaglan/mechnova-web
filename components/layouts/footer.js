@@ -10,7 +10,7 @@ function Footer() {
         <div className="text-center md:text-left">
 
             <Link href="/" className="flex items-center space-x-2 mb-4">
-                <Image src="/logo.png" alt="MechNova Logo" className="w-80 h-12" />
+                <Image src="/logo.png" alt="MechNova Logo" width={280} height={40} />
             </Link>
             {/* <h2 className="text-2xl font-bold mb-2">MechNova</h2> */}
             <p className="text-gray-800 max-w-xs">Empowering innovation in mechanical engineering. Join us in shaping the future.</p>

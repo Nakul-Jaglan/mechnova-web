@@ -22,6 +22,11 @@ const nextConfig = {
         hostname: 'mechnovamachines.com',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.pexels.com',
+        pathname: '/**',
+      }
     ],
   },
 };
