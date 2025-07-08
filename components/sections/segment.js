@@ -40,7 +40,7 @@ function Segment() {
   ];
 
   return (
-    <section className="w-full py-8 bg-[#0072ce]">
+    <section className="w-full py-8 bg-[#0072ce]" id="segments">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-gray-100">
           {t('home.segments.title')}
@@ -51,7 +51,7 @@ function Segment() {
               key={i}
               className="bg-gray-200 rounded-2xl shadow-lg overflow-hidden flex flex-col hover:scale-[1.05] transition-transform duration-300 cursor-pointer"
             >
-                <Link href={segments[i].link}>
+                <Link href='#segments'>
                     <div className="relative h-96 w-full">
                         <Image
                         src={seg.image}
