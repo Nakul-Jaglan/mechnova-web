@@ -1,23 +1,28 @@
 import Image from "next/image";
+import { useTranslation } from "@/lib/useTranslation";
 
 function About() {
+  const { t } = useTranslation();
   return (
     <section className="w-full py-16 bg-white">
       <div className="container mx-auto px-4 flex flex-col-reverse md:flex-row items-center gap-12">
         <div className="w-full md:w-1/2">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">Why <span className="font-semibold text-blue-700">Mechnova ?</span></h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">{t('home.about.title')} <span className="text-[#0072ce]"> Mechnova?</span></h2>
          
+          <p className="text-gray-700 text-lg font-semibold mb-4">
+            {t('home.about.reason1')}
+          </p>
+          
           <p className="text-gray-700 text-lg mb-4">
-           Because not everyone needs premium machines.
+            {t('home.about.reason2')}
           </p>
-     <p className="text-gray-700 text-lg mb-4">
-          Some just need the job done — with a product that starts on time, runs smoothly, and doesn’t break the bank.
+
+          <p className="text-gray-700 text-lg mb-4">
+            {t('home.about.reason3')}
           </p>
-     <p className="text-gray-700 text-lg mb-4">
-         Mechnova focuses on entry-level reliability: engines that start clean, trimmers that don’t stall, pumps that do the job — all at lower cost than overbuilt brands.
-          </p>
-     <p className="text-gray-700 text-lg mb-4">
-        No frills. Just real function, at the right price.
+          
+          <p className="text-gray-700 text-lg font-semibold mb-4">
+            {t('home.about.reason4')}
           </p>
         </div>
         <div className="w-full md:w-1/2 flex justify-center">

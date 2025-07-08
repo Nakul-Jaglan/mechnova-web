@@ -1,40 +1,41 @@
 import Image from "next/image";
-
-const industries = [
-	{
-		title: "Agriculture & Farming",
-		desc: "Reliable machines for irrigation, crop maintenance, and field prep—from gasoline engines to motor pumps and sprayers.",
-		image: "/mechnova/banner/Agriculture.webp",
-	},
-	{
-		title: "Forestry & Landscaping",
-		desc: "Powerful brush cutters and chainsaws for clearing, pruning, and land management—ideal for tough terrain and precision work.",
-		image: "/mechnova/banner/Forestry.webp",
-	},
-	{
-		title: "Agroindustrial Enterprises",
-		desc: "High-performance generators and pumps built to support long operational hours and rural electrification for farms and agro-units.",
-		image: "https://plus.unsplash.com/premium_photo-1661811847476-3ea28469f856?q=80&w=607&auto=format&fit=crop",
-	},
-	{
-		title: "Domestic & Home Use",
-		desc: "Compact tools like electric pressure washers and blowers—perfect for gardening, cleaning, and light maintenance at home.",
-		image: "/mechnova/banner/Domestic.webp",
-	},
-	{
-		title: "Greenhouses & Warehouses",
-		desc: "Fumigation tools designed for large coverage areas, helping protect crops and stored goods efficiently and safely.",
-		image: "/mechnova/banner/diesel.webp",
-	},
-	
-];
+import { useTranslation } from "@/lib/useTranslation";
 
 function Industries() {
+	const { t } = useTranslation();
+	const industries = [
+		{
+			title: t("home.industries.agriculture.title"),
+			desc: t("home.industries.agriculture.description"),
+			image: "/mechnova/banner/Agriculture.webp",
+		},
+		{
+			title: t("home.industries.forestry.title"),
+			desc: t("home.industries.forestry.description"),
+			image: "/mechnova/banner/Forestry.webp",
+		},
+		{
+			title: t("home.industries.agroindustrial.title"),
+			desc: t("home.industries.agroindustrial.description"),
+			image: "/mechnova/banner/Agroindustrial.webp",
+		},
+		{
+			title: t("home.industries.domestic.title"),
+			desc: t("home.industries.domestic.description"),
+			image: "/mechnova/banner/Domestic.webp",
+		},
+		{
+			title: t("home.industries.greenhouses.title"),
+			desc: t("home.industries.greenhouses.description"),
+			image: "/mechnova/banner/diesel.webp",
+		}
+	];
+
 	return (
-		<section className="w-full py-16 bg-gradient-to-br from-green-50 to-blue-50">
+		<section className="w-full py-16 bg-white">
 			<div className="container mx-auto px-4">
 				<h2 className="text-4xl md:text-5xl font-bold text-center mb-10">
-					Industries We Serve
+					{t("home.industries.title")}
 				</h2>
 				<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
 					{industries.map((ind, i) => (

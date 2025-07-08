@@ -3,9 +3,12 @@ import Image from "next/image";
 import Link from "next/link";
 import { FaPhoneAlt, FaBars } from "react-icons/fa";
 import { useState } from "react";
+import LanguageDropdown from "@/components/LanguageDropdown";
+import { useTranslation } from "@/lib/useTranslation";
 
 function Header() {
   const [open, setOpen] = useState(false);
+  const { t } = useTranslation();
   return (
     <>
       <div className="flex items-center justify-between p-4 bg-[#E6F2FB] text-gray-900 relative">
@@ -33,11 +36,11 @@ function Header() {
         {/* Desktop nav */}
         <nav className="hidden md:block">
           <ul className="flex space-x-4 text-xl">
-            <li><Link href="/" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Home</Link></li>
-            <li><Link href="/about" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">About Us</Link></li>
-            <li><Link href="/products" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Products</Link></li>
-            <li><Link href="/dealer" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Become Dealer</Link></li>
-            <li><Link href="/contact" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">Contact Us</Link></li>
+            <li><Link href="/" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">{t('header.home')}</Link></li>
+            <li><Link href="/about" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">{t('header.about')}</Link></li>
+            <li><Link href="/products" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">{t('header.products')}</Link></li>
+            <li><Link href="/dealer" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">{t('header.dealer')}</Link></li>
+            <li><Link href="/contact" className="hover:border-[#3394E6] hover:bg-[#3394E6] hover:text-white p-2 rounded-md cursor-pointer">{t('header.contact')}</Link></li>
           </ul>
         </nav>
         <div className="text-xl flex flex-row items-center space-x-4">
@@ -45,11 +48,10 @@ function Header() {
             <FaPhoneAlt className="text-white sm:text-black p-2 sm:p-0 text-4xl sm:text-xl rounded-full sm:rounded-none bg-[#0072ce] sm:bg-transparent" />
             <span className="hidden md:inline">+91 96675 15523</span>
           </Link>
-          <Link href="/contact">
-            <button className="px-4 py-2 bg-[#3394E6] text-white rounded hidden sm:inline hover:bg-[#005FA3]">
-              Book a Call
-            </button>
-          </Link>
+          {/* Language Dropdown for desktop */}
+          <div className="hidden sm:inline">
+            <LanguageDropdown />
+          </div>
         </div>
         {/* Mobile nav overlay */}
         {open && (
@@ -67,13 +69,16 @@ function Header() {
             x
           </button>
           <ul className="flex flex-col mt-20 space-y-6 text-xl px-8">
-            <li><Link href="/" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>Home</Link></li>
-            <li><Link href="/about" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>About Us</Link></li>
-            <li><Link href="/products" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>Products</Link></li>
-            <li><Link href="/dealer" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>Become Dealer</Link></li>
-            <li><Link href="/contact" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>Contact Us</Link></li>
+            <li><Link href="/" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.home')}</Link></li>
+            <li><Link href="/about" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.about')}</Link></li>
+            <li><Link href="/products" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.products')}</Link></li>
+            <li><Link href="/dealer" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.dealer')}</Link></li>
+            <li><Link href="/contact" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.contact')}</Link></li>
             <li><Link href={"tel:+919667515523"} className="hover:text-[#3394E6] flex items-center space-x-2" onClick={() => setOpen(false)}><FaPhoneAlt /> <span>+91 96675 15523</span></Link></li>
-            <li><Link href="/contact" onClick={() => setOpen(false)}><button className="w-full px-4 py-2 bg-[#3394E6] text-white rounded hover:bg-[#005FA3]">Book a Call</button></Link></li>
+            <li>
+              {/* Language Dropdown for mobile */}
+              <LanguageDropdown />
+            </li>
           </ul>
         </nav>
       </div>

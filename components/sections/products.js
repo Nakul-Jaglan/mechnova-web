@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import homeProducts from "../../data/homeProducts.json";
 import { useEffect, useRef } from "react";
+import { useTranslation } from "@/lib/useTranslation";
 
 function chunkProducts(data, chunkSize) {
   // Returns an array of arrays, each containing one product from each category
@@ -22,6 +23,7 @@ function chunkProducts(data, chunkSize) {
 }
 
 function Products() {
+  const { t } = useTranslation();
   const chunks = chunkProducts(homeProducts, 1);
   const flatProducts = chunks.flat();
   const repeatedProducts = [...flatProducts, ...flatProducts, ...flatProducts];
@@ -70,7 +72,7 @@ function Products() {
   return (
     <section className="w-full py-8 bg-[#0072ce]">
       <div className="container mx-auto ">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-white">Our Top Products</h2>
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-white">{t('home.products.title')}</h2>
         <div
           ref={sliderRef}
           className="overflow-x-hidden overflow-y-hidden scrollbar-hide flex gap-6"
@@ -105,7 +107,7 @@ function Products() {
       <div className="flex justify-center mt-8">
         <Link href="/products">
           <button className="px-8 py-3 bg-white text-[#0072ce] font-semibold rounded-full hover:scale-105 shadow transition-all text-xl border border-blue-100 cursor-pointer">
-            Explore All Products
+            {t('home.products.exploreAll')}
           </button>
         </Link>
       </div>

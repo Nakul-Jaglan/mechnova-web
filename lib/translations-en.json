@@ -1,0 +1,201 @@
+{
+  "comingSoon": {
+    "title": "Coming Soon",
+    "description": "We're working hard to launch our new website. Stay tuned for something amazing from Mechnova!",
+    "urgentInquiry": "For urgent inquiries, contact us at",
+    "switchLanguage": "Español"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "dealer": "Become a Dealer"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "tagline": "Driving innovation in mechanical engineering. Join us to shape the future.",
+    "followUs": "Follow Us",
+    "allRightsReserved": "All rights reserved."
+  },
+  "home": {
+    "welcome": "Welcome to Mechnova",
+    "heroDescription": "Mechnova delivers practical outdoor equipment made for homeowners, small farms, and retail buyers who want tools that work — without paying for extras they’ll never need.",
+    "about":{
+      "title": "Why",
+      "reason1": "Because not everyone needs premium machines.",
+      "reason2": "Some just need the job done — with a product that starts on time, runs smoothly, and doesn’t break the bank.",
+      "reason3": "Mechnova focuses on entry-level reliability: engines that start clean, trimmers that don’t stall, pumps that do the job — all at lower cost than overbuilt brands.",
+      "reason4": "No frills. Just real function, at the right price."
+    },
+    "aboutSection": {
+      "title": "About Us",
+      "description1": "At Mechnova, we are passionate about powering progress in agriculture, gardening, and industry through reliable, innovative, and affordable machinery. Backed by years of experience in international trade and engineering excellence, we bring to market a diverse portfolio of machines including brush cutters, chainsaws, sprayers, engines, generators, pumps, and more—designed to meet the evolving needs of modern users.",
+      "description2": "We work closely with importers, wholesalers, and retailers to provide not just machines, but full-fledged business support—ensuring high-quality products, strong warranties, marketing assistance, and unmatched after-sales service. Whether it's a small garden or a large-scale agro-industrial operation, Mechnova is your trusted partner for performance and reliability."
+    },
+    "segments": {
+      "title": "Our Segments",
+      "gardeningForestry": {
+        "title": "Gardening & Forestry",
+        "description": "Handle tough landscaping and forest maintenance tasks with our robust equipment. Key products: gasoline brush cutters, chainsaws, electric lawn mowers, earth augers. High performance, precision, and ease of use for pros and farm owners."
+      },
+      "fumigation": {
+        "title": "Fumigation",
+        "description": "Protect crops and spaces with reliable fumigation tools. Gasoline backpack sprayers with brass pump and cordless backpack sprayers for wide coverage and easy application."
+      },
+      "diesel": {
+        "title": "Diesel Machines",
+        "description": "Powerful machines for demanding applications, especially off-grid. Diesel generators, engines, and motor pumps for irrigation, construction, and backup power."
+      },
+      "domestic": {
+        "title": "Domestic",
+        "description": "Simple, compact tools for everyday home and garden tasks. Electric pressure washers and gasoline vacuum blower for small gardens, vehicles, and light-duty work."
+      },
+      "agroIndustrial": {
+        "title": "Agro Industrial",
+        "description": "High-performance solutions for farms and agri-enterprises. Gasoline engines, motor pumps, and inverter generators for long-hour usage and rural electrification."
+      }
+    },
+    "products": {
+      "title": "Our Top Products",
+      "exploreAll": "Explore All Products"
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "agriculture": {
+        "title": "Agriculture & Farming",
+        "description": "Reliable machines for irrigation, crop maintenance, and field prep—from gasoline engines to motor pumps and sprayers."
+      },
+      "forestry": {
+        "title": "Forestry & Landscaping",
+        "description": "Powerful brush cutters and chainsaws for clearing, pruning, and land management—ideal for tough terrain and precision work."
+      },
+      "agroindustrial": {
+        "title": "Agroindustrial Enterprises",
+        "description": "High-performance generators and pumps built to support long operational hours and rural electrification for farms and agro-units."
+      },
+      "domestic": {
+        "title": "Domestic & Home Use",
+        "description": "Compact tools like electric pressure washers and blowers—perfect for gardening, cleaning, and light maintenance at home."
+      },
+      "greenhouses": {
+        "title": "Greenhouses & Warehouses",
+        "description": "Fumigation tools designed for large coverage areas, helping protect crops and stored goods efficiently and safely."
+      }
+    },
+    "social": {
+      "title": "Digital Platforms",
+      "description": "Stay connected with our latest updates, behind-the-scenes moments, and community highlights across our social media platforms."
+    },
+    "testimonials": {
+      "title": "What Our Customers Say"
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "What types of machines does Mechnova offer?",
+          "answer": "Mechnova offers a wide range of equipment including brush cutters, chainsaws, sprayers, generators, engines, water pumps, and domestic tools like pressure washers and vacuum blowers. These machines are suited for agricultural, forestry, fumigation, industrial, and household applications."
+        },
+        {
+          "question": "Who can benefit from Mechnova's products?",
+          "answer": "Our machines are designed for a broad range of users including farmers, landscapers, warehouse operators, agri-enterprises, construction professionals, and even homeowners seeking compact, low-maintenance tools."
+        },
+        {
+          "question": "What makes Mechnova machines reliable?",
+          "answer": "Mechnova machines are engineered for high performance, durability, and ease of use. We support our products with strong warranties, thorough quality checks, and unmatched after-sales service to ensure long-term customer satisfaction."
+        },
+        {
+          "question": "Do you provide support to distributors and resellers?",
+          "answer": "Yes, Mechnova works closely with importers, wholesalers, and retailers. We provide business support including marketing assistance, technical documentation, and reliable product supply to help our partners grow confidently."
+        },
+        {
+          "question": "What is Mechnova's mission?",
+          "answer": "Our mission is to empower communities globally with efficient, affordable, and high-quality machinery that enhances productivity across agriculture, gardening, fumigation, and domestic needs—all while building lasting partnerships."
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "About",
+    "companyName": "Mechnova",
+    "heroDescription": "Mechnova is dedicated to powering progress in agriculture, gardening, and industry with reliable, innovative, and affordable machinery. Our mission is to empower communities and businesses worldwide with equipment that enhances productivity and sustainability.",
+    "exploreProducts": "Explore Our Products",
+    "ourStory": "Our Story",
+    "storyParagraph1": "Backed by years of experience in international trade and engineering, Mechnova brings a diverse portfolio of machines to market—including brush cutters, chainsaws, sprayers, engines, generators, pumps, and more. Our products are designed to meet the evolving needs of modern users, from small gardens to large-scale agro-industrial operations.",
+    "storyParagraph2": "We work closely with importers, wholesalers, and retailers to provide not just machines, but full-fledged business support—ensuring high-quality products, strong warranties, marketing assistance, and unmatched after-sales service.",
+    "features": {
+      "performance": "High-performance, durable, and easy-to-use equipment",
+      "satisfaction": "Strong focus on customer satisfaction and support",
+      "innovation": "Commitment to innovation and sustainability",
+      "trusted": "Trusted by professionals and homeowners worldwide"
+    },
+    "mission": "Mission",
+    "missionText": "To empower global communities with high-quality, affordable, and efficient machines that enhance productivity in agriculture, gardening, fumigation, and domestic applications—while building strong, long-term partnerships with our distribution network.",
+    "vision": "Vision",
+    "visionText": "To revolutionize the way people work with land and machines by making powerful, easy-to-use, and reliable equipment accessible to everyone—from farmers to homeowners. We envision a world where productivity, sustainability, and progress go hand in hand, driven by innovation and trust in every Mechnova machine.",
+    "whyChoose": "Why Choose Mechnova?",
+    "quality": {
+      "title": "Unmatched Quality",
+      "description": "Every machine is engineered for durability, performance, and ease of use—ensuring you get the best value for your investment."
+    },
+    "support": {
+      "title": "Comprehensive Support",
+      "description": "From strong warranties to marketing and after-sales service, we support our partners and customers at every step."
+    },
+    "innovation": {
+      "title": "Driven by Innovation",
+      "description": "We constantly evolve our product range to meet the changing needs of agriculture, gardening, and industry worldwide."
+    },
+    "cta": "Ready to power your progress with Mechnova?",
+    "ctaButton": "Contact Us Today"
+  },
+  "contact": {
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Us a Message",
+    "contactInfo": "Contact Information",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "company": "Company",
+    "requirement": "Requirement",
+    "productInterest": "Quantity",
+    "city": "City",
+    "country": "Country",
+    "designation": "Designation",
+    "subject": "Subject",
+    "message": "Message",
+    "sendButton": "Send Message",
+    "requirements": {
+      "buyer": "Buyer",
+      "dealer": "Dealer",
+      "generalEnquiry": "General Enquiry"
+    },
+    "thankYou": "Thank You!",
+    "thankYouMessage": "Your message has been received. Our team will get in touch with you soon.",
+    "redirectMessage": "You will be redirected to the home page shortly.",
+    "close": "Close"
+  },
+  "dealer": {
+    "title": "Become a Dealer",
+    "formTitle": "Dealer Inquiry Form",
+    "companyName": "Company Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "address": "Address",
+    "postalCode": "Postal Code",
+    "city": "City",
+    "country": "Country",
+    "currentBrands": "Current Brands",
+    "consentText": "You understand that when you click on submit, Mechnova and its affiliated entities will use your personal data to respond to your inquiry or request. We are committed to protecting your privacy and will always handle your personal data in accordance with our Privacy Policy. You can find more information about how we collect, use, and share your data, your rights, and how to contact us in our full Privacy Policy. You may withdraw your consent to receive marketing communications from us at any time by clicking the unsubscribe link in our emails or by reaching out to us directly.",
+    "submit": "Submit",
+    "thankYou": "Thank You!",
+    "thankYouMessage": "Your inquiry has been received. Our team will get in touch with you soon.",
+    "redirectMessage": "You will be redirected to the home page shortly.",
+    "close": "Close"
+  }
+}

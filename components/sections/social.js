@@ -1,6 +1,7 @@
 'use client'
 import React, { useState, useEffect, useRef } from 'react'
 import { motion } from 'framer-motion'
+import { useTranslation } from "@/lib/useTranslation"
 
 // FloatingArrow component for horizontal arrows
 const FloatingArrow = ({ direction, className = "", sizeClass = "w-20 h-2" }) => {
@@ -271,6 +272,7 @@ const SocialSlider = ({ posts }) => {
 }
 
 function Social() {
+  const { t } = useTranslation();
   const [isVisible, setIsVisible] = useState(false)
   const sectionRef = useRef(null)
 
@@ -486,7 +488,7 @@ function Social() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-4xl md:text-5xl font-bold text-center text-white px-6"
             >
-              Digital Platforms
+              {t('home.social.title')}
             </motion.h2>
             {/* Right Arrow */}
             {/* <div className="absolute right-0 translate-x-full items-center sm:flex hidden" style={{ marginLeft: '10px', maxWidth: 'calc(100vw/8)' }}>
@@ -517,7 +519,7 @@ function Social() {
           className="text-center mt-12"
         >
           <p className="text-lg text-gray-300 max-w-3xl mx-auto">
-            Stay connected with our latest updates, behind-the-scenes moments, and community highlights across our social media platforms.
+            {t('home.social.description')}
           </p>
         </motion.div>
       </div>

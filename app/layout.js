@@ -1,5 +1,6 @@
 import { Exo_2 } from "next/font/google";
 import "./globals.css";
+import { TranslationProvider } from "@/lib/useTranslation";
 
 const exo2 = Exo_2({
   variable: "--font-exo-2",
@@ -68,17 +69,9 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#0072ce" />
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="apple-touch-icon" href="/letter.png" />
-        <link rel="canonical" href="https://mechnovamachines.com" />
-        <meta name="google-site-verification" content="YOUR_GOOGLE_SITE_VERIFICATION_CODE" />
-      </head>
-      <body className={`${exo2.variable} antialiased`}>
-        {children}
+    <html lang="en" className={exo2.variable}>
+      <body>
+        <TranslationProvider>{children}</TranslationProvider>
       </body>
     </html>
   );

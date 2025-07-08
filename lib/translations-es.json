@@ -1,0 +1,231 @@
+{
+  "comingSoon": {
+    "title": "Próximamente",
+    "description": "Estamos trabajando arduamente para lanzar nuestro nuevo sitio web. ¡Esté atento a algo increíble de Mechnova!",
+    "urgentInquiry": "Para consultas urgentes, contáctenos en",
+    "switchLanguage": "English"
+  },
+  "header": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "products": "Productos",
+    "contact": "Contacto",
+    "dealer": "Ser Distribuidor"
+  },
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "phone": "Teléfono",
+    "email": "Correo Electrónico",
+    "address": "Dirección",
+    "tagline": "Impulsando la innovación en ingeniería mecánica. Únase a nosotros para dar forma al futuro.",
+    "followUs": "Síguenos",
+    "allRightsReserved": "Todos los derechos reservados."
+  },
+  "home": {
+    "welcome": "Bienvenido a Mechnova",
+    "heroDescription": "Mechnova ofrece equipos prácticos para exteriores diseñados para propietarios, pequeñas granjas y compradores minoristas que quieren herramientas que funcionen, sin pagar por extras innecesarios.",
+    "hero": {
+      "title": "Bienvenido a Mechnova",
+      "subtitle": "Mechnova ofrece equipos prácticos para exteriores diseñados para propietarios, pequeñas granjas y compradores minoristas que quieren herramientas que funcionen, sin pagar por extras innecesarios."
+    },
+    "aboutSection": {
+      "title": "Acerca de Nosotros",
+      "description1": "En Mechnova, nos apasiona impulsar el progreso en agricultura, jardinería e industria a través de maquinaria confiable, innovadora y asequible. Respaldados por años de experiencia en comercio internacional y excelencia en ingeniería, traemos al mercado un portafolio diverso de máquinas incluyendo desbrozadoras, motosierras, fumigadoras, motores, generadores, bombas y más—diseñadas para satisfacer las necesidades evolutivas de usuarios modernos.",
+      "description2": "Trabajamos estrechamente con importadores, mayoristas y minoristas para proporcionar no solo máquinas, sino soporte empresarial integral—asegurando productos de alta calidad, garantías sólidas, asistencia de marketing y servicio postventa incomparable. Ya sea un pequeño jardín o una operación agroindustrial a gran escala, Mechnova es su socio de confianza para rendimiento y confiabilidad."
+    },
+    "about": {
+      "title": "¿Por Qué",
+      "reason1": "Porque no todos necesitan máquinas premium.",
+      "reason2": "Algunos solo necesitan hacer el trabajo, con un producto que arranca a tiempo, funciona sin problemas y no cuesta una fortuna.",
+      "reason3": "Mechnova se enfoca en la confiabilidad básica: motores que arrancan bien, desbrozadoras que no se detienen, bombas que cumplen — todo a menor costo que las marcas sobreconstruidas.",
+      "reason4": "Sin lujos. Solo funcionalidad real, al precio justo."
+    },
+    "segments": {
+      "title": "Nuestros Segmentos",
+      "gardeningForestry": {
+        "title": "Jardinería y Silvicultura",
+        "description": "Maneje tareas de paisajismo y mantenimiento forestal difíciles con nuestro equipo robusto. Productos clave: desbrozadoras a gasolina, motosierras, cortacéspedes eléctricos, barrenas de tierra. Alto rendimiento, precisión y facilidad de uso para profesionales y propietarios de granjas."
+      },
+      "fumigation": {
+        "title": "Fumigación",
+        "description": "Proteja cultivos y espacios con herramientas de fumigación confiables. Fumigadoras de mochila a gasolina con bomba de latón y fumigadoras de mochila inalámbricas para amplia cobertura y fácil aplicación."
+      },
+      "diesel": {
+        "title": "Máquinas Diesel",
+        "description": "Máquinas potentes para aplicaciones exigentes, especialmente fuera de la red. Generadores diesel, motores y motobombas para irrigación, construcción y energía de respaldo."
+      },
+      "domestic": {
+        "title": "Doméstico",
+        "description": "Herramientas simples y compactas para tareas cotidianas del hogar y jardín. Lavadoras de presión eléctricas y aspiradoras sopladoras a gasolina para jardines pequeños, vehículos y trabajo ligero."
+      },
+      "agroIndustrial": {
+        "title": "Agro Industrial",
+        "description": "Soluciones de alto rendimiento para granjas y agro-empresas. Motores a gasolina, motobombas y generadores inversores para uso de largas horas y electrificación rural."
+      }
+    },
+    "industries": {
+      "title": "Industrias que Servimos",
+      "agriculture": {
+        "title": "Agricultura y Ganadería",
+        "description": "Máquinas confiables para irrigación, mantenimiento de cultivos y preparación de campos—desde motores a gasolina hasta motobombas y fumigadoras."
+      },
+      "forestry": {
+        "title": "Silvicultura y Paisajismo",
+        "description": "Desbrozadoras y motosierras potentes para limpieza, poda y manejo de tierras—ideales para terreno difícil y trabajo de precisión."
+      },
+      "agroindustrial": {
+        "title": "Empresas Agroindustriales",
+        "description": "Generadores y bombas de alto rendimiento construidos para soportar largas horas operacionales y electrificación rural para granjas y unidades agro."
+      },
+      "domestic": {
+        "title": "Uso Doméstico y del Hogar",
+        "description": "Herramientas compactas como lavadoras de presión eléctricas y sopladoras—perfectas para jardinería, limpieza y mantenimiento ligero en casa."
+      },
+      "greenhouses": {
+        "title": "Invernaderos y Almacenes",
+        "description": "Herramientas de fumigación diseñadas para áreas de gran cobertura, ayudando a proteger cultivos y bienes almacenados de manera eficiente y segura."
+      },
+      "construction": {
+        "title": "Construcción y Operaciones Fuera de la Red",
+        "description": "Generadores diesel robustos y bombas de agua que entregan rendimiento consistente en sitios de trabajo exigentes y áreas remotas."
+      }
+    },
+    "industriesHome": {
+      "title": "Industrias que Servimos",
+      "agriculture": {
+        "title": "Agricultura y Ganadería",
+        "desc": "Máquinas confiables para riego, mantenimiento de cultivos y preparación de campos—desde motores a gasolina hasta motobombas y fumigadoras."
+      },
+      "forestry": {
+        "title": "Silvicultura y Paisajismo",
+        "desc": "Desbrozadoras y motosierras potentes para limpieza, poda y manejo de tierras—ideales para terrenos difíciles y trabajos de precisión."
+      },
+      "agroindustrial": {
+        "title": "Empresas Agroindustriales",
+        "desc": "Generadores y bombas de alto rendimiento diseñados para largas jornadas y electrificación rural en granjas y unidades agroindustriales."
+      },
+      "domestic": {
+        "title": "Uso Doméstico y del Hogar",
+        "desc": "Herramientas compactas como lavadoras de presión eléctricas y sopladoras—perfectas para jardinería, limpieza y mantenimiento ligero en casa."
+      },
+      "greenhouses": {
+        "title": "Invernaderos y Almacenes",
+        "desc": "Herramientas de fumigación diseñadas para áreas de gran cobertura, ayudando a proteger cultivos y bienes almacenados de manera eficiente y segura."
+      }
+    },
+    "social": {
+      "title": "Plataformas Digitales",
+      "description": "Manténgase conectado con nuestras últimas actualizaciones, momentos detrás de escena y destacados de la comunidad a través de nuestras plataformas de redes sociales."
+    },
+    "testimonials": {
+      "title": "Lo que Dicen Nuestros Clientes"
+    },
+    "testimonialsHome": {
+      "title": "Lo que Dicen Nuestros Clientes"
+    },
+    "faqs": {
+      "title": "Preguntas Frecuentes",
+      "questions": [
+        {
+          "question": "¿Qué tipos de máquinas ofrece Mechnova?",
+          "answer": "Mechnova ofrece una amplia gama de equipos incluyendo desbrozadoras, motosierras, fumigadoras, generadores, motores, bombas de agua y herramientas domésticas como lavadoras de presión y aspiradoras sopladoras. Estas máquinas son adecuadas para aplicaciones agrícolas, forestales, de fumigación, industriales y domésticas."
+        },
+        {
+          "question": "¿Quién puede beneficiarse de los productos de Mechnova?",
+          "answer": "Nuestras máquinas están diseñadas para una amplia gama de usuarios incluyendo agricultores, paisajistas, operadores de almacenes, agro-empresas, profesionales de la construcción e incluso propietarios de viviendas que buscan herramientas compactas y de bajo mantenimiento."
+        },
+        {
+          "question": "¿Qué hace que las máquinas Mechnova sean confiables?",
+          "answer": "Las máquinas Mechnova están diseñadas para alto rendimiento, durabilidad y facilidad de uso. Respaldamos nuestros productos con garantías sólidas, controles de calidad exhaustivos y servicio postventa incomparable para asegurar la satisfacción del cliente a largo plazo."
+        },
+        {
+          "question": "¿Proporcionan soporte a distribuidores y revendedores?",
+          "answer": "Sí, Mechnova trabaja estrechamente con importadores, mayoristas y minoristas. Proporcionamos soporte empresarial incluyendo asistencia de marketing, documentación técnica y suministro confiable de productos para ayudar a nuestros socios a crecer con confianza."
+        },
+        {
+          "question": "¿Cuál es la misión de Mechnova?",
+          "answer": "Nuestra misión es empoderar a las comunidades globalmente con maquinaria eficiente, asequible y de alta calidad que mejore la productividad en agricultura, jardinería, fumigación y necesidades domésticas—todo mientras construimos asociaciones duraderas."
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "Acerca de",
+    "companyName": "Mechnova",
+    "heroDescription": "Mechnova se dedica a impulsar el progreso en agricultura, jardinería e industria con maquinaria confiable, innovadora y asequible. Nuestra misión es empoderar a comunidades y empresas en todo el mundo con equipos que mejoran la productividad y sostenibilidad.",
+    "exploreProducts": "Explore Nuestros Productos",
+    "ourStory": "Nuestra Historia",
+    "storyParagraph1": "Respaldados por años de experiencia en comercio internacional e ingeniería, Mechnova trae al mercado un portafolio diverso de máquinas—incluyendo desbrozadoras, motosierras, fumigadoras, motores, generadores, bombas y más. Nuestros productos están diseñados para satisfacer las necesidades evolutivas de usuarios modernos, desde pequeños jardines hasta operaciones agroindustriales a gran escala.",
+    "storyParagraph2": "Trabajamos estrechamente con importadores, mayoristas y minoristas para proporcionar no solo máquinas, sino soporte empresarial integral—asegurando productos de alta calidad, garantías sólidas, asistencia de marketing y servicio postventa incomparable.",
+    "features": {
+      "performance": "Equipos de alto rendimiento, duraderos y fáciles de usar",
+      "satisfaction": "Fuerte enfoque en la satisfacción y soporte al cliente",
+      "innovation": "Compromiso con la innovación y sostenibilidad",
+      "trusted": "Confiados por profesionales y propietarios de viviendas en todo el mundo"
+    },
+    "mission": "Misión",
+    "missionText": "Empoderar a las comunidades globales con máquinas de alta calidad, asequibles y eficientes que mejoren la productividad en agricultura, jardinería, fumigación y aplicaciones domésticas—mientras construimos asociaciones sólidas y a largo plazo con nuestra red de distribución.",
+    "vision": "Visión",
+    "visionText": "Revolucionar la forma en que las personas trabajan con la tierra y las máquinas haciendo que equipos potentes, fáciles de usar y confiables sean accesibles para todos—desde agricultores hasta propietarios de viviendas. Visualizamos un mundo donde la productividad, sostenibilidad y progreso van de la mano, impulsados por la innovación y confianza en cada máquina Mechnova.",
+    "whyChoose": "¿Por Qué Elegir Mechnova?",
+    "quality": {
+      "title": "Calidad Inigualable",
+      "description": "Cada máquina está diseñada para durabilidad, rendimiento y facilidad de uso—asegurando que obtenga el mejor valor para su inversión."
+    },
+    "support": {
+      "title": "Soporte Integral",
+      "description": "Desde garantías sólidas hasta marketing y servicio postventa, apoyamos a nuestros socios y clientes en cada paso."
+    },
+    "innovation": {
+      "title": "Impulsado por la Innovación",
+      "description": "Evolucionamos constantemente nuestra gama de productos para satisfacer las necesidades cambiantes de la agricultura, jardinería e industria en todo el mundo."
+    },
+    "cta": "¿Listo para impulsar su progreso con Mechnova?",
+    "ctaButton": "Contáctenos Hoy"
+  },
+  "contact": {
+    "getInTouch": "Ponte en Contacto",
+    "sendMessage": "Envíanos un Mensaje",
+    "contactInfo": "Información de Contacto",
+    "fullName": "Nombre Completo",
+    "email": "Dirección de Correo",
+    "phone": "Número de Teléfono",
+    "company": "Empresa",
+    "requirement": "Requerimiento",
+    "productInterest": "Interés en Producto",
+    "city": "Ciudad",
+    "country": "País",
+    "designation": "Designación",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "sendButton": "Enviar Mensaje",
+    "requirements": {
+      "buyer": "Comprador",
+      "dealer": "Distribuidor",
+      "generalEnquiry": "Consulta General"
+    },
+    "thankYou": "¡Gracias!",
+    "thankYouMessage": "Su mensaje ha sido recibido. Nuestro equipo se pondrá en contacto con usted pronto.",
+    "redirectMessage": "Será redirigido a la página de inicio en breve.",
+    "close": "Cerrar"
+  },
+  "dealer": {
+    "title": "Ser Distribuidor",
+    "formTitle": "Formulario de Consulta de Distribuidor",
+    "companyName": "Nombre de la Empresa",
+    "email": "Correo Electrónico",
+    "phoneNumber": "Número de Teléfono",
+    "address": "Dirección",
+    "postalCode": "Código Postal",
+    "city": "Ciudad",
+    "country": "País",
+    "currentBrands": "Marcas Actuales",
+    "consentText": "Usted entiende que al hacer clic en enviar, Mechnova y sus entidades afiliadas utilizarán sus datos personales para responder a su consulta o solicitud. Estamos comprometidos a proteger su privacidad y siempre manejaremos sus datos personales de acuerdo con nuestra Política de Privacidad. Puede encontrar más información sobre cómo recopilamos, usamos y compartimos sus datos, sus derechos y cómo contactarnos en nuestra Política de Privacidad completa. Puede retirar su consentimiento para recibir comunicaciones de marketing de nosotros en cualquier momento haciendo clic en el enlace de cancelar suscripción en nuestros correos electrónicos o contactándonos directamente.",
+    "submit": "Enviar",
+    "thankYou": "¡Gracias!",
+    "thankYouMessage": "Su consulta ha sido recibida. Nuestro equipo se pondrá en contacto con usted pronto.",
+    "redirectMessage": "Será redirigido a la página de inicio en breve.",
+    "close": "Cerrar"
+  }
+}
