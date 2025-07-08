@@ -4,12 +4,12 @@ const industries = [
 	{
 		title: "Agriculture & Farming",
 		desc: "Reliable machines for irrigation, crop maintenance, and field prep—from gasoline engines to motor pumps and sprayers.",
-		image: "https://images.unsplash.com/flagged/photo-1573722398482-f0853718ba49?q=80&w=581&auto=format&fit=crop",
+		image: "/mechnova/banner/Agriculture.webp",
 	},
 	{
 		title: "Forestry & Landscaping",
 		desc: "Powerful brush cutters and chainsaws for clearing, pruning, and land management—ideal for tough terrain and precision work.",
-		image: "https://plus.unsplash.com/premium_photo-1661939048709-4b778b9f5d2c?q=80&w=580&auto=format&fit=crop",
+		image: "/mechnova/banner/Forestry.webp",
 	},
 	{
 		title: "Agroindustrial Enterprises",
@@ -19,18 +19,14 @@ const industries = [
 	{
 		title: "Domestic & Home Use",
 		desc: "Compact tools like electric pressure washers and blowers—perfect for gardening, cleaning, and light maintenance at home.",
-		image: "https://plus.unsplash.com/premium_photo-1742884841249-87657739c659?q=80&w=528&auto=format&fit=crop",
+		image: "/mechnova/banner/Domestic.webp",
 	},
 	{
 		title: "Greenhouses & Warehouses",
 		desc: "Fumigation tools designed for large coverage areas, helping protect crops and stored goods efficiently and safely.",
-		image: "https://images.unsplash.com/photo-1627674358849-41ac471e5df5?q=80&w=537&auto=format&fit=crop",
+		image: "/mechnova/banner/diesel.webp",
 	},
-	{
-		title: "Construction & Off-Grid Operations",
-		desc: "Robust diesel generators and water pumps that deliver consistent performance in demanding work sites and remote areas.",
-		image: "https://images.unsplash.com/photo-1643308012242-704341800ef3?q=80&w=580&auto=format&fit=crop",
-	},
+	
 ];
 
 function Industries() {
