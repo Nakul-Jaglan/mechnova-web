@@ -1,16 +1,36 @@
 [
   {
-    "category": "BrushCutter",
+    "category": "Brushcutter",
     "products": [
       {
-        "name": "BC-430 Pro",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-BC36.webp",
-        "link": "/products/brushcutter-430"
+        "name": "BBC26DA",
+        "image": "/mechnova/products/brushcutter/BBC26DA.webp",
+        "link": "/products/brushcutter/BBC26DA"
       },
       {
-        "name": "BC-520 Max",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-ET-BC53.webp",
-        "link": "/products/brushcutter-520"
+        "name": "BBC26MTA",
+        "image": "/mechnova/products/brushcutter/BBC26MTA.webp",
+        "link": "/products/brushcutter/BBC26MTA"
+      },
+      {
+        "name": "BBC33DA",
+        "image": "/mechnova/products/brushcutter/BBC33DA.webp",
+        "link": "/products/brushcutter/BBC33DA"
+      },
+      {
+        "name": "BBC43A",
+        "image": "/mechnova/products/brushcutter/BBC43A.webp",
+        "link": "/products/brushcutter/BBC43A"
+      },
+      {
+        "name": "BBC52A",
+        "image": "/mechnova/products/brushcutter/BBC52A.webp",
+        "link": "/products/brushcutter/BBC52A"
+      },
+      {
+        "name": "BBCE1000DA",
+        "image": "/mechnova/products/brushcutter/BBCE1000DA.webp",
+        "link": "/products/brushcutter/BBCE1000DA"
       }
     ]
   },
@@ -18,59 +38,24 @@
     "category": "Chainsaw",
     "products": [
       {
-        "name": "CS-580 Power",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-CS55.webp",
-        "link": "/products/chainsaw-580"
-      },
-      {
-        "name": "CS-620 Pro",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-CS65.webp",
-        "link": "/products/chainsaw-620"
+        "name": "BCS25A-10SN",
+        "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+        "link": "/products/chainsaw/BCS25A-10SN"
       }
     ]
   },
   {
-    "category": "Engines",
+    "category": "Blower",
     "products": [
       {
-        "name": "GE-168F",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-GE-3.0HP.webp",
-        "link": "/products/engine-168f"
+        "name": "BB26A",
+        "image": "/mechnova/products/blower/BB26A.webp",
+        "link": "/products/blower/BB26A"
       },
       {
-        "name": "GE-188F",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-GE-7.0HP.webp",
-        "link": "/products/engine-188f"
-      }
-    ]
-  },
-  {
-    "category": "Waterpump",
-    "products": [
-      {
-        "name": "WP-80X",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-WP4.0-272.webp",
-        "link": "/products/waterpump-80x"
-      },
-      {
-        "name": "WP-50Z",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-WP6.0-420.webp",
-        "link": "/products/waterpump-50z"
-      }
-    ]
-  },
-  {
-    "category": "Generator",
-    "products": [
-      {
-        "name": "GN-2500i",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-GG-3.7KW.webp",
-        "link": "/products/generator-2500i"
-      },
-      {
-        "name": "GN-3500E",
-        "image": "https://bonhoeffermachines.com/en/public/machines/BON-P-GG-13.5KW.webp",
-        "link": "/products/generator-3500e"
+        "name": "BB43BA",
+        "image": "/mechnova/products/blower/BB43BA.webp",
+        "link": "/products/blower/BB43BA"
       }
     ]
   }
