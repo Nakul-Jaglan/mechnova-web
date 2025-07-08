@@ -44,7 +44,7 @@ function Testimonials() {
               </div>
               <StarRating value={item.stars} />
               <div className="font-semibold text-lg text-gray-900 mb-1">{item.name}</div>
-              <div className="text-xs text-blue-700 mb-2">{item.country}</div>
+              <div className="text-xs text-[#0072ce] mb-2">{item.country}</div>
               <div className="text-gray-700 text-base">“{item.message}”</div>
             </div>
           ))}

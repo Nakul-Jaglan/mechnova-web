@@ -18,12 +18,12 @@
     "phone": "Teléfono",
     "email": "Correo Electrónico",
     "address": "Dirección",
-    "tagline": "Impulsando la innovación en ingeniería mecánica. Únase a nosotros para dar forma al futuro.",
+    "tagline": "Máquinas que se sienten como en casa. A un precio que apenas notarás.",
     "followUs": "Síguenos",
     "allRightsReserved": "Todos los derechos reservados."
   },
   "home": {
-    "welcome": "Bienvenido a Mechnova",
+    "welcome": "Bienvenido a",
     "heroDescription": "Mechnova ofrece equipos prácticos para exteriores diseñados para propietarios, pequeñas granjas y compradores minoristas que quieren herramientas que funcionen, sin pagar por extras innecesarios.",
     "hero": {
       "title": "Bienvenido a Mechnova",
@@ -106,11 +106,11 @@
         "desc": "Generadores y bombas de alto rendimiento diseñados para largas jornadas y electrificación rural en granjas y unidades agroindustriales."
       },
       "domestic": {
-        "title": "Uso Doméstico y del Hogar",
+        "title": "Uso Doméstico",
         "desc": "Herramientas compactas como lavadoras de presión eléctricas y sopladoras—perfectas para jardinería, limpieza y mantenimiento ligero en casa."
       },
       "greenhouses": {
-        "title": "Invernaderos y Almacenes",
+        "title": "Energía y Servicios Públicos",
         "desc": "Herramientas de fumigación diseñadas para áreas de gran cobertura, ayudando a proteger cultivos y bienes almacenados de manera eficiente y segura."
       }
     },

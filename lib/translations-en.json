@@ -18,12 +18,12 @@
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
-    "tagline": "Driving innovation in mechanical engineering. Join us to shape the future.",
+    "tagline": "Machine that feel right at home. At a price you barely notice",
     "followUs": "Follow Us",
     "allRightsReserved": "All rights reserved."
   },
   "home": {
-    "welcome": "Welcome to Mechnova",
+    "welcome": "Welcome to",
     "heroDescription": "Mechnova delivers practical outdoor equipment made for homeowners, small farms, and retail buyers who want tools that work — without paying for extras they’ll never need.",
     "about":{
       "title": "Why",
@@ -79,11 +79,11 @@
         "description": "High-performance generators and pumps built to support long operational hours and rural electrification for farms and agro-units."
       },
       "domestic": {
-        "title": "Domestic & Home Use",
+        "title": "Domestic Use",
         "description": "Compact tools like electric pressure washers and blowers—perfect for gardening, cleaning, and light maintenance at home."
       },
       "greenhouses": {
-        "title": "Greenhouses & Warehouses",
+        "title": "Power & Utilities",
         "description": "Fumigation tools designed for large coverage areas, helping protect crops and stored goods efficiently and safely."
       }
     },

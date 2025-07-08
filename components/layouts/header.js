@@ -15,15 +15,15 @@ function Header() {
         <div className="flex flex-row items-center space-x-4">
           <Link href="/" >
             <Image
-              src="/letter.png"
+              src="/logo.png"
               alt="Mechnova Logo"
-              width={50}
+              width={200}
               height={50}
             />
           </Link>
-          <Link href="/" >
+          {/* <Link href="/" >
             <h1 className="text-3xl">Mechnova</h1>
-          </Link>
+          </Link> */}
         </div>
         {/* Hamburger for mobile */}
         <button

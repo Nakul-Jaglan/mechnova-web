@@ -54,7 +54,7 @@ function AboutPage() {
                     <div className="w-full md:w-1/2 flex justify-center">
                         <div className="relative w-96 h-96 rounded-2xl overflow-hidden shadow-lg">
                         <Image
-                            src="https://images.pexels.com/photos/29479847/pexels-photo-29479847.jpeg"
+                            src="/mechnova/banner/Forestry.webp"
                             alt="Mechnova Team"
                             fill
                             className="object-cover object-top"

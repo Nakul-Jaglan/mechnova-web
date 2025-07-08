@@ -70,7 +70,7 @@ function Products() {
   }
 
   return (
-    <section className="w-full py-8 bg-[#0072ce]">
+    <section className="w-full py-8 bg-[#0072ce]" id="products">
       <div className="container mx-auto ">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-white">{t('home.products.title')}</h2>
         <div
@@ -80,7 +80,7 @@ function Products() {
         >
           {repeatedProducts.map((prod, idx) => (
             <Link
-              href={prod.link}
+              href='#products'
               key={prod.name + idx}
               className="group bg-gray-50 rounded-xl shadow-md p-4 flex flex-col items-center min-w-[14rem] overflow-hidden hover:scale-110 transition-transform duration-300 cursor-pointer border border-gray-100"
               onMouseEnter={handleMouseEnter}

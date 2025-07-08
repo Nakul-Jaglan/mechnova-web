@@ -28,7 +28,7 @@ function About() {
         <div className="w-full md:w-1/2 flex justify-center">
           <div className="relative w-100 h-100 rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/about.webp"
+              src="/mechnova/banner/Forestry.webp"
               alt="About Mechnova"
               fill
               className="object-contain bg-gray-100"

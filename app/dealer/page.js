@@ -40,30 +40,26 @@ function DealerPage() {
       <header>
         <Header />
       </header>
-      <main>
+      <main className='bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff]'>
         <section className="relative w-full h-96 flex items-center justify-center overflow-hidden mb-10">
           <Image
             width={1400}
             height={400}
             priority
-            src="/dealer.webp"
+            src="/mechnova/banner/banner-m.webp"
             alt="Become a Dealer Hero"
             className="object-cover object-center"
           />
         </section>
           
         <div className="flex justify-between items-center w-full max-w-4xl mx-auto px-4 mb-10">
-          <div className="flex-1"></div>
           <h1 className="flex-1 text-center text-4xl md:text-5xl font-bold text-[#0072ce] drop-shadow-lg">
             {t('dealer.title')}
           </h1>
-          <div className="flex-1 flex justify-end">
-            {/* LanguageSwitcher removed */}
-          </div>
         </div>
         
-        <section className="container mx-auto px-4 max-w-2xl mb-16">
-          <div className="bg-[#E6F2FB] rounded-2xl shadow-xl p-8 flex flex-col justify-center items-start">
+        <section className="container mx-auto px-4 max-w-2xl pb-10">
+          <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col justify-center items-start">
             <h2 className="text-2xl font-bold text-[#0072ce] mb-2">{t('dealer.formTitle')}</h2>
             <form ref={formRef} className="flex flex-col gap-5 w-full" onSubmit={handleSubmit}>
               <div className="w-full">
