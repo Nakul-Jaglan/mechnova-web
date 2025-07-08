@@ -62,37 +62,39 @@ function DealerPage() {
           <div className="bg-white rounded-2xl shadow-xl p-8 flex flex-col justify-center items-start">
             <h2 className="text-2xl font-bold text-[#0072ce] mb-2">{t('dealer.formTitle')}</h2>
             <form ref={formRef} className="flex flex-col gap-5 w-full" onSubmit={handleSubmit}>
-              <div className="w-full">
-                <label htmlFor="company" className="block text-gray-700 font-semibold mb-1">{t('dealer.companyName')}*</label>
-                <input type="text" id="company" name="company" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="email" className="block text-gray-700 font-semibold mb-1">{t('dealer.email')}*</label>
-                <input type="email" id="email" name="email" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="phone" className="block text-gray-700 font-semibold mb-1">{t('dealer.phoneNumber')}*</label>
-                <input type="tel" id="phone" name="phone" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="address" className="block text-gray-700 font-semibold mb-1">{t('dealer.address')}*</label>
-                <input type="text" id="address" name="address" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="postal" className="block text-gray-700 font-semibold mb-1">{t('dealer.postalCode')}*</label>
-                <input type="text" id="postal" name="postal" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="city" className="block text-gray-700 font-semibold mb-1">{t('dealer.city')}*</label>
-                <input type="text" id="city" name="city" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="country" className="block text-gray-700 font-semibold mb-1">{t('dealer.country')}*</label>
-                <input type="text" id="country" name="country" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
-              </div>
-              <div className="w-full">
-                <label htmlFor="brands" className="block text-gray-700 font-semibold mb-1">{t('dealer.currentBrands')}</label>
-                <input type="text" id="brands" name="brands" className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+              <div className='grid grid-cols-1 md:grid-cols-2 gap-4 w-full'>
+                <div className="w-full">
+                  <label htmlFor="company" className="block text-gray-700 font-semibold mb-1">{t('dealer.companyName')}*</label>
+                  <input type="text" id="company" name="company" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="email" className="block text-gray-700 font-semibold mb-1">{t('dealer.email')}*</label>
+                  <input type="email" id="email" name="email" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="phone" className="block text-gray-700 font-semibold mb-1">{t('dealer.phoneNumber')}*</label>
+                  <input type="tel" id="phone" name="phone" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="address" className="block text-gray-700 font-semibold mb-1">{t('dealer.address')}*</label>
+                  <input type="text" id="address" name="address" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="postal" className="block text-gray-700 font-semibold mb-1">{t('dealer.postalCode')}*</label>
+                  <input type="text" id="postal" name="postal" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="city" className="block text-gray-700 font-semibold mb-1">{t('dealer.city')}*</label>
+                  <input type="text" id="city" name="city" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="country" className="block text-gray-700 font-semibold mb-1">{t('dealer.country')}*</label>
+                  <input type="text" id="country" name="country" required className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
+                <div className="w-full">
+                  <label htmlFor="brands" className="block text-gray-700 font-semibold mb-1">{t('dealer.currentBrands')}</label>
+                  <input type="text" id="brands" name="brands" className="w-full px-4 py-2 rounded border border-gray-300 focus:border-[#0072ce] focus:outline-none" />
+                </div>
               </div>
               <div className="flex items-start gap-2 mt-2">
                 <input type="checkbox" id="consent" name="consent" required className="mt-1" />

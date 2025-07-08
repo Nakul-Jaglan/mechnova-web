@@ -105,7 +105,7 @@ function Products() {
         </div>
       </div>
       <div className="flex justify-center mt-8">
-        <Link href="/products">
+        <Link href="#products">
           <button className="px-8 py-3 bg-white text-[#0072ce] font-semibold rounded-full hover:scale-105 shadow transition-all text-xl border border-blue-100 cursor-pointer">
             {t('home.products.exploreAll')}
           </button>

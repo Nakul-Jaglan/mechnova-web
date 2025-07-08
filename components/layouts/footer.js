@@ -20,7 +20,7 @@ function Footer() {
         <div>
             <nav className="flex flex-row md:flex-row gap-4 md:gap-8 text-lg">
                 <Link href="/about" className="hover:text-[#005FA3] transition">{t('header.about')}</Link>
-                <Link href="/products" className="hover:text-[#005FA3] transition">{t('header.products')}</Link>
+                {/* <Link href="/products" className="hover:text-[#005FA3] transition">{t('header.products')}</Link> */}
                 <Link href="/dealer" className="hover:text-[#005FA3] transition">{t('header.dealer')}</Link>
                 <Link href="/contact" className="hover:text-[#005FA3] transition">{t('header.contact')}</Link>
             </nav>
