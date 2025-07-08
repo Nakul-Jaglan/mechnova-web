@@ -5,7 +5,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useTranslation } from '@/lib/useTranslation'
 
-function aboutPage() {
+function AboutPage() {
   const { t } = useTranslation();
 
   return (
@@ -151,4 +151,4 @@ function aboutPage() {
   )
 }
 
-export default aboutPage
+export default AboutPage
