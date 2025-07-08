@@ -119,7 +119,51 @@
       "description": "Manténgase conectado con nuestras últimas actualizaciones, momentos detrás de escena y destacados de la comunidad a través de nuestras plataformas de redes sociales."
     },
     "testimonials": {
-      "title": "Lo que Dicen Nuestros Clientes"
+      "title": "Lo que Dicen Nuestros Clientes",
+      "data": [
+        {
+          "stars": 5.0,
+          "name": "Luis Fernando",
+          "country": "Colombia",
+          "image": "/testimonials/test1.jpeg",
+          "message": "Hemos estado usando las bombas de agua Mechnova para el riego de nuestra finca cafetera y el rendimiento ha sido sobresaliente. Es confiable incluso durante largas jornadas. Definitivamente vale la inversión."
+        },
+        {
+          "stars": 4.5,
+          "name": "Ana Gabriela Torres",
+          "country": "México",
+          "image": "/testimonials/test2.jpeg",
+          "message": "La fumigadora de mochila es fácil de usar y cubre mucho terreno. Solo desearía que la batería durara un poco más, pero en general es una gran máquina para invernaderos."
+        },
+        {
+          "stars": 4.7,
+          "name": "Ramesh Iyer",
+          "country": "India",
+          "image": "/testimonials/test3.jpeg",
+          "message": "Compré una desbrozadora Mechnova para mi finca en Tamil Nadu. Corta el pasto grueso como mantequilla. El motor es suave y es más ligera que otras marcas que he probado."
+        },
+        {
+          "stars": 4.3,
+          "name": "Mariana López",
+          "country": "Perú",
+          "image": "/testimonials/test4.jpeg",
+          "message": "La motosierra es sólida y el servicio al cliente me ayudó a conseguir repuestos fácilmente. Hubo una ligera demora en la entrega, pero el rendimiento de la máquina lo compensó."
+        },
+        {
+          "stars": 5.0,
+          "name": "Diego Mendez",
+          "country": "Guatemala",
+          "image": "/testimonials/test5.jpeg",
+          "message": "Muy impresionado con la potencia del generador diésel de Mechnova. Lo usamos tanto para la finca como para respaldo en casa y no nos ha fallado ni una vez. ¡Silencioso y eficiente!"
+        },
+        {
+          "stars": 4.6,
+          "name": "Kavita Sharma",
+          "country": "India",
+          "image": "/testimonials/test6.jpeg",
+          "message": "El soplador de jardín que compré es compacto y hace el trabajo sin complicaciones. El empaque podría mejorar, pero la funcionalidad es excelente."
+        }
+      ]
     },
     "testimonialsHome": {
       "title": "Lo que Dicen Nuestros Clientes"

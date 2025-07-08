@@ -92,7 +92,51 @@
       "description": "Stay connected with our latest updates, behind-the-scenes moments, and community highlights across our social media platforms."
     },
     "testimonials": {
-      "title": "What Our Customers Say"
+      "title": "What Our Customers Say",
+      "data": [
+        {
+          "stars": 5.0,
+          "name": "Luis Fernando",
+          "country": "Colombia",
+          "image": "/testimonials/test1.jpeg",
+          "message": "We've been using Mechnova water pumps for our coffee farm irrigation, and the performance has been outstanding. It's reliable even during long-hour usage. Definitely worth the investment."
+        },
+        {
+          "stars": 4.5,
+          "name": "Ana Gabriela Torres",
+          "country": "Mexico",
+          "image": "/testimonials/test2.jpeg",
+          "message": "The backpack sprayer is easy to use and covers a lot of ground. Only wish the battery lasted slightly longer, but overall it's a great machine for greenhouse work."
+        },
+        {
+          "stars": 4.7,
+          "name": "Ramesh Iyer",
+          "country": "India",
+          "image": "/testimonials/test3.jpeg",
+          "message": "I bought a Mechnova brush cutter for my farm in Tamil Nadu. It cuts through thick grass like butter. The engine is smooth, and it's lighter than other brands I've tried."
+        },
+        {
+          "stars": 4.3,
+          "name": "Mariana López",
+          "country": "Peru",
+          "image": "/testimonials/test4.jpeg",
+          "message": "The chainsaw is solid, and customer service helped me get replacement parts easily. Slight delay in delivery, but machine performance made up for it."
+        },
+        {
+          "stars": 5.0,
+          "name": "Diego Mendez",
+          "country": "Guatemala",
+          "image": "/testimonials/test5.jpeg",
+          "message": "Very impressed with the power of Mechnova's diesel generator. We use it for both farm and home backup, and it hasn't failed us once. Quiet and efficient!"
+        },
+        {
+          "stars": 4.6,
+          "name": "Kavita Sharma",
+          "country": "India",
+          "image": "/testimonials/test6.jpeg",
+          "message": "The vacuum blower I purchased for my garden is compact and gets the job done without any fuss. Packaging could be better, but functionality is top-notch."
+        }
+      ]
     },
     "faqs": {
       "title": "Frequently Asked Questions",
