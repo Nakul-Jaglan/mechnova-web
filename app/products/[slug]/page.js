@@ -2,7 +2,7 @@
 
 import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
-import modelData from "../modelData.json";
+import modelData from "./modelData.json";
 import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
