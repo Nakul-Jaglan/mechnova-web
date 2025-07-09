@@ -82,11 +82,11 @@ function Products() {
             <Link
               href='#products'
               key={prod.name + idx}
-              className="group bg-gray-50 rounded-xl shadow-md p-4 flex flex-col items-center min-w-[14rem] overflow-hidden hover:scale-110 transition-transform duration-300 cursor-pointer border border-gray-100"
+              className="group bg-gray-100 rounded-xl shadow-md p-4 flex flex-col items-center min-w-[14rem] overflow-hidden hover:scale-95 transition-transform duration-300 cursor-pointer border border-gray-100"
               onMouseEnter={handleMouseEnter}
               onMouseLeave={handleMouseLeave}
             >
-                <div className="relative w-full h-56 mb-3 rounded-lg overflow-hidden bg-white">
+                <div className="relative w-full h-56 mb-3 rounded-lg overflow-hidden ">
                     <Image
                     src={prod.image}
                     alt={prod.name}

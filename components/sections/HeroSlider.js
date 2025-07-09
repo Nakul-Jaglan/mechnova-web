@@ -14,7 +14,7 @@ export default function HeroSlider() {
   const sliderRef = useRef(null);
   const indexRef = useRef(0);
   // Duplicate images for infinite effect
-  const infiniteImages = [...images, ...images, ...images, ...images, ...images, ...images];
+  const infiniteImages = [...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images];
   const total = infiniteImages.length;
   const visibleCount = images.length;
 

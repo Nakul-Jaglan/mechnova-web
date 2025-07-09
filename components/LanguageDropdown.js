@@ -25,11 +25,11 @@ export default function LanguageDropdown({ className = '' }) {
         aria-haspopup="listbox"
         aria-expanded={open}
       >
-        {locale === 'en' ? 'English' : 'Español'}
+        {locale === 'en' ? 'EN' : 'ES'}
         <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg>
       </button>
       {open && (
-        <ul className="absolute right-0 mt-2 w-32 bg-white border border-gray-200 rounded-lg shadow-lg z-50" role="listbox">
+        <ul className="absolute pb-1 left-0 mt-2 w-21 bg-white border border-gray-200 rounded-lg shadow-lg z-50" role="listbox">
           <li>
             <button
               className={`w-full text-left px-4 py-2 hover:bg-[#e6f2fb] ${locale === 'en' ? 'font-bold text-[#0072ce]' : ''}`}
@@ -37,7 +37,7 @@ export default function LanguageDropdown({ className = '' }) {
               role="option"
               aria-selected={locale === 'en'}
             >
-              English
+              EN
             </button>
           </li>
           <li>
@@ -47,7 +47,7 @@ export default function LanguageDropdown({ className = '' }) {
               role="option"
               aria-selected={locale === 'es'}
             >
-              Español
+              ES
             </button>
           </li>
         </ul>

@@ -1,0 +1,336 @@
+{
+    "chainsaw":{
+        "id": "1",
+        "name": "Motosierra",
+        "description": "Motosierras profesionales para cortar y podar",
+        "category": "gardening-forestry",
+        "hero_image": "/mechnova/products/chainsaw/hero-chainsaw.webp",
+        "models": [
+            {
+                "code": "BCS25A-10SN",
+                "name": "MOTOSIERRA GASOLINA",
+                "id": "1", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Motor : Gasolina, 2 tiempos, 25CC\nPotencia Máxima: 1.0CV\nBarra guía : 10\"\nCadena: 3/8\" x .050\"\nCapacidad tanque combustible : ml\nCapacidad tanque de aceite : ml\nMáxima revolución : por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
+            },
+            {
+                "code": "BCS42A-16SN",
+                "name": "MOTOSIERRA GASOLINA",
+                "id": "2", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Motor : Gasolina, 2 tiempos, 42CC\nPotencia Máxima: 2.1CV\nBarra guía : 16\"\nCadena: 3/8\" x .050\"\nCapacidad tanque combustible : 300 ml\nCapacidad tanque de aceite : 210 ml\nMáxima revolución : 13000 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
+            },
+            {
+                "code": "BCS53A-18SN",
+                "name": "MOTOSIERRA GASOLINA",
+                "id": "3", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Motor : Gasolina, 2 tiempos, 50,8CC\nPotencia Máxima: 2,8CV\nBarra guía : 18\"\nCadena: .325\"Capacidad tanque combustible : 550 ml\nCapacidad tanque de aceite : 260 ml\nMáxima revolución : 12500 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
+            },
+            {
+                "code": "BCS58A-20SN",
+                "name": "MOTOSIERRA GASOLINA",
+                "id": "4", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Motor : Gasolina, 2 tiempos, 54CC\nPotencia Máxima: 3,2CV\nBarra guía : 18\"\nCadena: .325\"\nCapacidad tanque combustible : 550 ml\nCapacidad tanque de aceite : 260 ml\nMáxima revolución : 12500 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
+            },
+            {
+                "code": "BCSE1500A-16SN-1",
+                "name": "MOTOSIERRA ELÉCTRICA",
+                "id": "5", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 1500W\nBarra guia: 16\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 15m/s"
+            },
+            {
+                "code": "BCSE1500A-16SN-2",
+                "name": "MOTOSIERRA ELÉCTRICA",
+                "id": "6", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Motor: Eléctrico, 220V, 50/60Hz\nPotencia Máxima: 1500W\nBarra guia: 16\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
+            }
+        ]
+    },
+
+    "hedge-trimmer":{
+        "id": "2",
+        "name": "Cortasetos",
+        "category": "gardening-forestry",
+        "description": "Cortasetos profesionales para jardinería y paisajismo",
+        "hero_image": "/mechnova/products/hedge-trimmer/hero-hedge-trimmer.webp",
+        "models": []
+    },
+
+    "blower":{
+        "id": "3",
+        "name": "Soplador",
+        "category": "gardening-forestry",
+        "description": "Potentes sopladores para limpieza",
+        "hero_image": "/mechnova/products/blower/hero-blower.webp",
+        "models": [
+            {
+                "code": "BB26A",
+                "name": "SOPLADOR GASOLINA",
+                "id": "1", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/blower/BB26A.webp",
+                "specifications": "Motor : 25,4CC Gasolina, 2 Tempos\nPotencia Máxima : 1,0CV @ 7500Rpm\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,45 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nVolumen De Ar : 0,17M³/S Ou 612M³/Hora"
+            },
+            {
+                "code": "BB43BA",
+                "name": "SOPLADOR DE MOCHILA GASOLINA",
+                "id": "2", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/blower/BB43BA.webp",
+                "specifications": "Motor : 42,7Cc, A Gasolina, 2 Tempos\nPotencia Máxima: 1,7CV @ 6500Rpm\nVolumen De Aire : 0,28M³/S Ou 1008 M³/Hora\nTipo De Carburador : Diafragma\nCapacidad Del Depósito : 1 Litro\nControle De Aceleração : No Punho"
+            }
+        ]
+    },
+
+    "earth-auger":{
+        "id": "4",
+        "name": "Barreno de Tierra",
+        "category": "gardening-forestry",
+        "description": "Barrenas de tierra para perforación de hoyos",
+        "hero_image": "/mechnova/products/earth-auger/hero-earth-auger.webp",
+        "models":[]
+    },
+
+    "lawn-mower":{
+        "id": "5",
+        "name": "Cortacésped",
+        "category": "gardening-forestry",
+        "description": "Cortacéspedes profesionales para mantenimiento de césped",
+        "hero_image": "/mechnova/products/lawn-mower/hero-lawn-mower.webp",
+        "models": [
+            {
+                "code": "BLME320RA-1",
+                "name": "CORTACÉSPED ELÉCTRICO",
+                "id": "1", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/lawn-mower/BLME320RA-1.webp",
+                "specifications": "Tipo De Accionamiento : Manual\nVoltage: 110V - 50/60Hz\nMotor eléctrico de 1200W potencia máxima\nFunción De Descarga : Trasera con Pick-Up\nMango :Normal\nCubierta Delantera : No"
+            },
+            {
+                "code": "BLME320RA-2",
+                "name": "CORTACÉSPED ELÉCTRICO",
+                "id": "2", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/lawn-mower/BLME320RA-2.webp",
+                "specifications": "Tipo De Accionamiento : Manual\nVoltage: 220V - 50/60Hz\nMotor eléctrico de 1200W potencia máxima\nFunción De Descarga : Trasera con Pick-Up\nMango :Normal\nCubierta Delantera : No"
+            },
+            {
+                "code": "BLM530RA",
+                "name": "CORTACÉSPED GASOLINA",
+                "id": "3", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/lawn-mower/BLM530RTA.webp",
+                "specifications": "Motor : 166 Cc Gasolina\nAnchura De Corte : 21\"\nAltura De Corte : 30-80 Mm (6 opciones de Ajuste Central)\nOpciones De Salida: Salida Trasera, Recogedor, Salida Lateral Y Reciclador 4 in 1\nCapacidad Del Recogedor: 70 Litros\nTipo De Propulsión: Manual\nManillar : Manillar Engomado\nRuedas : Delanteras De 8\" Y Traseras De 10\""
+            },
+            {
+                "code": "BLM530RTA",
+                "name": "CORTACÉSPED GASOLINA",
+                "id": "4", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/lawn-mower/BLM530RTA.webp",
+                "specifications": "Motor : 166 Cc Gasolina\nAnchura De Corte : 21\"\nAltura De Corte : 20-80 Mm (8 Opcciones De Ajuste Central)\nOpciones De Salida: Salida Trasera, Recogedor, Salida Lateral Y Reciclador\nCapacidad Del Recogedor: 70 Litros\nTipo De Propulsión: Autopropulsada\nManillar : Manillar Engomado\nRuedas : Delanteras De 8\" Y Traseras De 10\""
+            }
+        ]
+    },
+
+    "brushcutter":{
+        "id": "6",
+        "name": "Desbrozadora",
+        "category": "gardening-forestry",
+        "description": "Desbrozadoras profesionales para manejo de vegetación",
+        "hero_image": "/mechnova/products/brushcutter/hero-brushcutter.webp",
+        "models": [
+            {
+                "code": "BBC26DA",
+                "name": "DESBROZADORA GASOLINA",
+                "id": "1", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/brushcutter/BBC26DA.webp",
+                "specifications": "Motor : Gasolina, 2 Tiempos, 25,4CC\nPotencia Máxima: 1,0 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,7 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 mm\nManillar D"
+            },
+            {
+                "code": "BBC33DA",
+                "name": "DESBROZADORA GASOLINA",
+                "id": "2", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/brushcutter/BBC33DA.webp",
+                "specifications": "Motor : Gasolina, 2 Tiempos, 33,0CC\nPotencia Máxima: 1,3 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,7 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 mm\nManillar D"
+            },
+            {
+                "code": "BBC43A",
+                "name": "DESBROZADORA GASOLINA",
+                "id": "3", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/brushcutter/BBC43A.webp",
+                "specifications": "Motor : Gasolina, 2 Tiempos, 42,7Cc\nPotencia Máxima: 1,7 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,8 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 Mm\nManillar Ergonómico Dividido"
+            },
+            {
+                "code": "BBC52A",
+                "name": "DESBROZADORA GASOLINA",
+                "id": "4", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/brushcutter/BBC52A.webp",
+                "specifications": "Motor : Gasolina, 2 Tiempos, 51,6Cc\nPotencia Máxima: 2,0 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,8 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 Mm\nManillar Ergonómico Dividido"
+            },
+            {
+                "code": "BBC26MTA",
+                "name": "DESBROZADORA MULTI FUNCIÓN GASOLINA",
+                "id": "5", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/brushcutter/BBC26MTA.webp",
+                "specifications": "Motor : Gasolina, 2 Tiempos, 26Cc\nPotencia Máxima: 1,0 CV\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,7 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 Mm\nManillar Ergonómico en D"
+            },
+            {
+                "code": "BBCE1000DA",
+                "name": "DESBROZADORA ELÉCTRICA",
+                "id": "6", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/brushcutter/BBCE1000DA.webp",
+                "specifications": "Motor : Eléctrico 220V, 60Hz\nPotencia Máxima: 1,0 kW\nManillar lop D\nTubo em acero, bipartido"
+            }
+        ]
+    },
+
+    "multi-tool":{
+        "id": "7",
+        "name": "Multi Herramienta",
+        "category": "gardening-forestry",
+        "description": "Herramienta multifuncional para jardinería",
+        "hero_image": "/mechnova/products/multi-tool/hero-multi-tool.webp",
+        "models": []
+    },
+
+    "knapsack-sprayer":{
+        "id": "1",
+        "name": "Pulverizador de Mochila",
+        "category": "fumigation",
+        "description": "Pulverizadores profesionales para fumigación y control de plagas",
+        "hero_image": "/mechnova/products/fumigation/hero-sprayer.webp",
+        "models": [
+            {
+                "code": "BS26BA",
+                "name": "PULVERIZADOR DE MOCHILA CON BOMBA DE LATÓN GASOLINA",
+                "id": "1", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/fumigation/BS26BA.webp",
+                "specifications": "Motor : 25,4CC Gasolina, 2 tempos\nPotencia Máxima: 1.0CV\nCapacidad del depósito: 0,6 litros\nCapacidad tanque : 25 litros\nPresión trabajo : 215-355 PSI\nVolumen de pulverización : 5-8 (Litros / min)\nTipo de bomba : Bomba de émbolo de alta presión\nMaterial de la bomba : Latón\nSistema de arranque : Retráctil"
+            },
+            {
+                "code": "BSBE18VBA-20",
+                "name": "PULVERIZADOR DE MOCHILA INALAMBRICO",
+                "id": "2", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/fumigation/BSBE18VBA-20.webp",
+                "specifications": "Bateria : 18V Lithium-Ion - 4.0Ah\nCargador: 110~220V\nCapacidad tanque : 20 litros\nVolumen de pulverización : 2,8 (Litros / min)\nTipo de bomba : Bomba Automatica"
+            }
+        ]
+    },
+
+    "diesel-generator":{
+        "id": "1",
+        "name": "Generador Diesel",
+        "category": "diesel-machines",
+        "description": "Generadores diesel para aplicaciones industriales y comerciales",
+        "hero_image": "/mechnova/products/diesel-generator/hero-diesel-generator.webp",
+        "models": []
+    },
+
+    "diesel-engine":{
+        "id": "2",
+        "name": "Motor Diesel",
+        "category": "diesel-machines",
+        "description": "Motores diesel potentes y confiables para aplicaciones de alta demanda",
+        "hero_image": "/mechnova/products/diesel-engine/hero-diesel-engine.webp",
+        "models": [
+            {
+                "code": "BDE50A",
+                "name": "MOTOR DE DIESEL",
+                "id": "1", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/electric-motors/BEE10HA-DS60.webp",
+                "specifications": "Motor : 211cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 70 mm\nPotencia nominal: 2.8kW / 3,75CV\nPotencia máxima : 3,3kW / 4,5CV\nCapacidad tanque combustible : 2,5 Litros\nCapacidad deposito aceite : 750 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
+            },
+            {
+                "code": "BDE70A",
+                "name": "MOTOR DE DIESEL",
+                "id": "2", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/electric-motors/BEE10HA-DS60.webp",
+                "specifications": "Motor : 296cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 78 mm\nPotencia nominal: 4.0kW / 5,4CV\nPotencia máxima : 4,8kW / 6,5CV\nCapacidad tanque combustible : 3,5 Litros\nCapacidad deposito aceite : 1100 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
+            },
+            {
+                "code": "BDE100A",
+                "name": "MOTOR DE DIESEL",
+                "id": "3", 
+                "warranty": "12 Meses",
+                "image": "/mechnova/products/electric-motors/BEE10HA-DS60.webp",
+                "specifications": "Motor : 456cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 88 mm\nPotencia nominal: 6.9kW / 9,3CV\nPotencia máxima : 7,8kW / 10,5CV\nCapacidad tanque combustible : 5,5 Litros\nCapacidad deposito aceite : 1650 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
+            }
+        ]
+    },
+
+    "electric-motor":{
+        "id": "1",
+        "name": "Motor Eléctrico",
+        "category": "domestic",
+        "description": "Motores eléctricos para uso doméstico e industrial",
+        "hero_image": "/mechnova/products/electric-motors/hero-electric-motor.webp",
+        "models": []
+    },
+
+    "pressure-washer":{
+        "id": "2",
+        "name": "Hidrolavadora",
+        "category": "domestic",
+        "description": "Hidrolavadoras para limpieza de alta presión",
+        "hero_image": "/mechnova/products/pressure-washer/hero-pressure-washer.webp",
+        "models": []
+    },
+
+    "gasoline-tiller":{
+        "id": "1",
+        "name": "Cultivador Gasolina",
+        "category": "agro-industrial",
+        "description": "Cultivadores de gasolina para preparación de suelos",
+        "hero_image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp",
+        "models": []
+    },
+
+    "gasoline-water-pump":{
+        "id": "2",
+        "name": "Bomba de Agua Gasolina",
+        "category": "agro-industrial",
+        "description": "Bombas de agua a gasolina para riego y drenaje",
+        "hero_image": "/mechnova/products/gasoline-water-pump/hero-gasoline-water-pump.webp",
+        "models": []
+    },
+
+    "gasoline-engine":{
+        "id": "3",
+        "name": "Motor Gasolina",
+        "category": "agro-industrial",
+        "description": "Motores de gasolina para aplicaciones agrícolas e industriales",
+        "hero_image": "/mechnova/products/gasoline-engine/hero-gasoline-engine.webp",
+        "models": []
+    },
+
+    "gasoline-generator":{
+        "id": "4",
+        "name": "Generador Gasolina",
+        "category": "agro-industrial",
+        "description": "Generadores de gasolina para uso doméstico e industrial",
+        "hero_image": "/mechnova/products/gasoline-generator/hero-gasoline-generator.webp",
+        "models": []
+    }
+
+}
