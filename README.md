@@ -100,10 +100,10 @@ frontend/
 
 ## 👨‍💻 Developer
 
-- Developed with ❤️ by **[Nakul]**(mailto:jaglan.nakul@gmail.com)
+- Developed with ❤️ by [**Nakul**](mailto:jaglan.nakul@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="/logo.png" alt="Mechnova Machines Logo" width="120" />
+  <img src="https://www.mechnovamachines.com/logo.png" alt="Mechnova Machines Logo" width="120" />
 </p>
