@@ -20,7 +20,7 @@
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "2", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCS42A-16SN.webp",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
                 "specifications": "Motor : Gasolina, 2 tiempos, 42CC\nPotencia Máxima: 2.1CV\nBarra guía : 16\"\nCadena: 3/8\" x .050\"\nCapacidad tanque combustible : 300 ml\nCapacidad tanque de aceite : 210 ml\nMáxima revolución : 13000 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
@@ -28,7 +28,7 @@
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "3", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCS53A-18SN.webp",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
                 "specifications": "Motor : Gasolina, 2 tiempos, 50,8CC\nPotencia Máxima: 2,8CV\nBarra guía : 18\"\nCadena: .325\"Capacidad tanque combustible : 550 ml\nCapacidad tanque de aceite : 260 ml\nMáxima revolución : 12500 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
@@ -36,7 +36,7 @@
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "4", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCS58A-20SN.webp",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
                 "specifications": "Motor : Gasolina, 2 tiempos, 54CC\nPotencia Máxima: 3,2CV\nBarra guía : 18\"\nCadena: .325\"\nCapacidad tanque combustible : 550 ml\nCapacidad tanque de aceite : 260 ml\nMáxima revolución : 12500 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
@@ -44,7 +44,7 @@
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "5", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-1.webp",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
                 "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 1500W\nBarra guia: 16\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 15m/s"
             },
             {
@@ -52,7 +52,7 @@
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "6", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-2.webp",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
                 "specifications": "Motor: Eléctrico, 220V, 50/60Hz\nPotencia Máxima: 1500W\nBarra guia: 16\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
@@ -60,7 +60,7 @@
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "7", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCSE1800A-18SN-1.webp",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
                 "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 2000W\nBarra guia: 18\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
@@ -68,7 +68,7 @@
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "8", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCSE2000A-18SN-2.webp",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
                 "specifications": "Motor: Eléctrico, 220V, 60Hz\nPotencia Máxima: 2000W\nBarra guia: 18\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
@@ -76,7 +76,7 @@
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "9", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/chainsaw/BCSE2500A-20SN-2.webp",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
                 "specifications": "Motor: Eléctrico, 220V, 60Hz\nPotencia Máxima: 2500W\nBarra guia: 20\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
@@ -84,7 +84,7 @@
                 "name": "MOTOPODA ELÉCTRICA",
                 "id": "10",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/electric-pole-pruner/BPP750A-8SN-1.webp",
+                "image": "/mechnova/products/chainsaw/BPPE750A-8SN.webp",
                 "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 750W\nBarra guia: 8\"\nCapacidad tanque de aceite: 80 ml\nLongitud total de 2m hasta 2,8m"
             },
             {
@@ -92,7 +92,7 @@
                 "name": "MOTOPODA ELÉCTRICA",
                 "id": "11",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/electric-pole-pruner/BPP750A-8SN-2.webp",
+                "image": "/mechnova/products/chainsaw/BPPE750A-8SN.webp",
                 "specifications": "Motor: Eléctrico, 220V, 50/60Hz\nPotencia Máxima: 750W\nBarra guia: 8\"\nCapacidad tanque de aceite: 80 ml\nLongitud total de 2m hasta 2,8m"
             }
         ]
@@ -378,7 +378,7 @@
                 "name": "GENERADOR DIESEL",
                 "id": "2", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/diesel-generator/BD1.7ASD-50.webp",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
                 "specifications": "Potencia maxima: 1.7 kVA\nPotencia nominal: 1.5 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 50Hz\nMotor: 211cc, 5HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 10 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 750 ml"
             },
             {
@@ -386,7 +386,7 @@
                 "name": "GENERADOR DIESEL",
                 "id": "3", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/diesel-generator/BDG4.2ASD-60.webp",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
                 "specifications": "Potencia maxima: 4.2 kVA\nPotencia nominal: 3.8 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 60Hz\nMotor: 406cc, 10HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 8 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             },
             {
@@ -394,7 +394,7 @@
                 "name": "GENERADOR DIESEL",
                 "id": "4", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/diesel-generator/BDG3.6ASD-50.webp",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
                 "specifications": "Potencia maxima: 3.6 kVA\nPotencia nominal: 3.4 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 50Hz\nMotor: 406cc, 10HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 8 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             },
             {
@@ -402,7 +402,7 @@
                 "name": "GENERADOR DIESEL",
                 "id": "5", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/diesel-generator/BDG6.0ASD-60.webp",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
                 "specifications": "Potencia maxima: 6.0 kVA\nPotencia nominal: 5.5 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 60Hz\nMotor: 456cc, 13HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 6 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             },
             {
@@ -410,7 +410,7 @@
                 "name": "GENERADOR DIESEL",
                 "id": "6", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/diesel-generator/BDG5.5ASD-50.webp",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
                 "specifications": "Potencia maxima: 5.5 kVA\nPotencia nominal: 5.0 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 50Hz\nMotor: 456cc, 13HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 6 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             }
         ]
@@ -422,14 +422,14 @@
         "category": "diesel-machines",
         "description": "Motores diesel potentes y confiables para aplicaciones de alta demanda",
         "hero_image": "/mechnova/products/diesel-engine/hero-diesel-engine.webp",
-        "error_image": "/mechnova/products/electric-motors/BDE50A.webp",
+        "error_image": "/mechnova/products/diesel-engine/BDE50A.webp",
         "models": [
             {
                 "code": "BDE50A",
                 "name": "MOTOR DE DIESEL",
                 "id": "1", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/electric-motors/BDE50A.webp",
+                "image": "/mechnova/products/diesel-engine/BDE50A.webp",
                 "specifications": "Motor : 211cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 70 mm\nPotencia nominal: 2.8kW / 3,75CV\nPotencia máxima : 3,3kW / 4,5CV\nCapacidad tanque combustible : 2,5 Litros\nCapacidad deposito aceite : 750 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
             },
             {
@@ -437,7 +437,7 @@
                 "name": "MOTOR DE DIESEL",
                 "id": "2", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/electric-motors/BDE70A.webp",
+                "image": "/mechnova/products/diesel-engine/BDE70A.webp",
                 "specifications": "Motor : 296cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 78 mm\nPotencia nominal: 4.0kW / 5,4CV\nPotencia máxima : 4,8kW / 6,5CV\nCapacidad tanque combustible : 3,5 Litros\nCapacidad deposito aceite : 1100 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
             },
             {
@@ -445,7 +445,7 @@
                 "name": "MOTOR DE DIESEL",
                 "id": "3", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/electric-motors/BDE100A.webp",
+                "image": "/mechnova/products/diesel-engine/BDE100A.webp",
                 "specifications": "Motor : 456cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 88 mm\nPotencia nominal: 6.9kW / 9,3CV\nPotencia máxima : 7,8kW / 10,5CV\nCapacidad tanque combustible : 5,5 Litros\nCapacidad deposito aceite : 1650 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
             },
             {
@@ -453,7 +453,7 @@
                 "name": "MOTOR DE DIESEL",
                 "id": "3", 
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/electric-motors/BDE100EA.webp",
+                "image": "/mechnova/products/diesel-engine/BDE100EA.webp",
                 "specifications": "Motor : 456cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 88 mm\nPotencia nominal: 6.9kW / 9,3CV\nPotencia máxima : 7,8kW / 10,5CV\nCapacidad tanque combustible : 5,5 Litros\nCapacidad deposito aceite : 1650 ml\nSistema de arranque : Electrica / Manual Retráctil\nArranque Electrico"
             }
         ]
@@ -669,7 +669,7 @@
         "category": "agro-industrial",
         "description": "Bombas de agua a gasolina para riego y drenaje",
         "hero_image": "/mechnova/products/gasoline-water-pump/hero-gasoline-water-pump.webp",
-        "error_image": "/mechnova/products/gasoline-water-pump/BWP1x1STA.webp",
+        "error_image": "/mechnova/products/gasoline-water-pump/waterpump.webp",
         "models": [
             {
                 "code": "BWP1x1STA",
@@ -762,7 +762,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "2",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG1.2AS2-60.webp",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
                 "specifications": "Potencia máxima : 1,2 KW\nPotencia nominal : 1,1 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -770,7 +770,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "3",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG1.0AS1-50.webp",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
                 "specifications": "Potencia máxima : 1,0 KW\nPotencia nominal : 0,9 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -778,7 +778,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "4",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG1.0AS2-50.webp",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
                 "specifications": "Potencia máxima : 1,0 KW\nPotencia nominal : 0,9 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -794,7 +794,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "6",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG3.0AS2-60.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 3,0 KW\nPotencia nominal : 2,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -802,7 +802,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "7",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG2.7AS1-50.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 2,7 KW\nPotencia nominal : 2,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -810,7 +810,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "8",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG2.7AS2-50.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 2,7 KW\nPotencia nominal : 2,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -818,7 +818,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "9",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG6.5AS1-60.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 6,5 KW\nPotencia nominal : 6,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             },
             {
@@ -826,7 +826,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "10",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG6.5AS2-60.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 6,5 KW\nPotencia nominal : 6,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             },
             {
@@ -834,7 +834,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "11",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG5.8AS1-50.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 5,8 KW\nPotencia nominal : 5,4 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             },
             {
@@ -842,7 +842,7 @@
                 "name": "GENERADOR DE GASOLINA",
                 "id": "12",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-generator/BG5.8AS2-50.webp",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
                 "specifications": "Potencia máxima : 5,8 KW\nPotencia nominal : 5,4 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             }
         ]
@@ -853,15 +853,15 @@
         "name": "Generador de Gasolina Inverter",
         "category": "agro-industrial",
         "description": "Generadores inverter de gasolina para energía estable y eficiente.",
-        "hero_image": "/mechnova/products/gasoline-inverter-generator/hero-gasoline-inverter-generator.webp",
-        "error_image": "/mechnova/products/gasoline-inverter-generator/BG2.2AiS1-60.webp",
+        "hero_image": "/mechnova/products/gasoline-inverter/hero-gasoline-inverter.webp",
+        "error_image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
         "models": [
             {
                 "code": "BG2.2AiS1-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "1",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.2AiS1-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -869,7 +869,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "2",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.2AiS2-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -877,7 +877,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "3",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.2AiS1-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -885,7 +885,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "4",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.2AiS2-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -893,7 +893,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "5",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.7AiS1-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -901,7 +901,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "6",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.7AiS2-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -909,7 +909,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "7",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.7AiS1-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -917,7 +917,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "8",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.7AiS2-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
@@ -925,7 +925,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "9",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.0AiSS1-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -933,7 +933,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "10",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.0AiSS2-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -941,7 +941,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "11",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.0AiSS1-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -949,7 +949,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "12",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG2.0AiSS2-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -957,7 +957,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "13",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.3AiSS1-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -965,7 +965,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "14",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.3AiSS2-60.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -973,7 +973,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "15",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.3AiSS1-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
@@ -981,7 +981,7 @@
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "16",
                 "warranty": "12 Meses",
-                "image": "/mechnova/products/gasoline-inverter-generator/BG3.3AiSS2-50.webp",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             }
         ]

@@ -37,7 +37,7 @@ function DetailPage() {
         {/* Hero banner */}
         <div className="w-full h-64 md:h-80 relative mb-8">
           <Image
-            src={product.hero_image}
+            src="/mechnova/banner/banner-m.webp"
             alt={product.name}
             fill
             className="object-cover object-center"
@@ -62,7 +62,7 @@ function DetailPage() {
                   className={`flex flex-col md:flex-row items-center md:items-stretch gap-6 md:gap-12 ${idx % 2 === 1 ? "md:flex-row-reverse" : ""}`}
                 >
                   {/* Model image */}
-                  <div className="flex-shrink-0 w-full md:w-1/3 flex justify-center items-center">
+                  <div className="flex-shrink-0 w-full h-full md:w-1/3 flex justify-center items-center">
                     <img
                       src={model.image}
                       alt={model.name}
