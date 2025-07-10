@@ -64,6 +64,10 @@
         "description": "Soluciones de alto rendimiento para granjas y agro-empresas. Motores a gasolina, motobombas y generadores inversores para uso de largas horas y electrificación rural."
       }
     },
+    "products": {
+      "title": "Nuestros productos estrella",
+      "exploreAll": "Explorar todos los Productos"
+    },
     "industries": {
       "title": "Industrias que Servimos",
       "agriculture": {
