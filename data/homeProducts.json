@@ -1,61 +1,61 @@
 [
   {
-    "category": "Brushcutter",
+    "category": "Desbrozadora",
     "products": [
       {
         "name": "BBC26DA",
         "image": "/mechnova/products/brushcutter/BBC26DA.webp",
-        "link": "/products/brushcutter/BBC26DA"
+        "link": "/products/brushcutter"
       },
       {
         "name": "BBC26MTA",
         "image": "/mechnova/products/brushcutter/BBC26MTA.webp",
-        "link": "/products/brushcutter/BBC26MTA"
+        "link": "/products/brushcutter"
       },
       {
         "name": "BBC33DA",
         "image": "/mechnova/products/brushcutter/BBC33DA.webp",
-        "link": "/products/brushcutter/BBC33DA"
+        "link": "/products/brushcutter"
       },
       {
         "name": "BBC43A",
         "image": "/mechnova/products/brushcutter/BBC43A.webp",
-        "link": "/products/brushcutter/BBC43A"
+        "link": "/products/brushcutter"
       },
       {
         "name": "BBC52A",
         "image": "/mechnova/products/brushcutter/BBC52A.webp",
-        "link": "/products/brushcutter/BBC52A"
+        "link": "/products/brushcutter"
       },
       {
         "name": "BBCE1000DA",
         "image": "/mechnova/products/brushcutter/BBCE1000DA.webp",
-        "link": "/products/brushcutter/BBCE1000DA"
+        "link": "/products/brushcutter"
       }
     ]
   },
   {
-    "category": "Chainsaw",
+    "category": "Motosierra",
     "products": [
       {
         "name": "BCS25A-10SN",
         "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
-        "link": "/products/chainsaw/BCS25A-10SN"
+        "link": "/products/chainsaw"
       }
     ]
   },
   {
-    "category": "Blower",
+    "category": "Soplador",
     "products": [
       {
         "name": "BB26A",
         "image": "/mechnova/products/blower/BB26A.webp",
-        "link": "/products/blower/BB26A"
+        "link": "/products/blower"
       },
       {
         "name": "BB43BA",
         "image": "/mechnova/products/blower/BB43BA.webp",
-        "link": "/products/blower/BB43BA"
+        "link": "/products/blower"
       }
     ]
   }

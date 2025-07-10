@@ -18,7 +18,7 @@ function DetailPage() {
           <Header />
         </header>
         <main className="min-h-[60vh] flex flex-col items-center justify-center">
-          <h2 className="text-2xl font-bold mb-4">Producto no encontrado</h2>
+          <h2 className="text-4xl font-bold mb-4">Producto no encontrado</h2>
           <Link href="/products" className="text-blue-600 underline">Volver a productos</Link>
         </main>
         <footer>
@@ -33,7 +33,7 @@ function DetailPage() {
       <header>
         <Header />
       </header>
-      <main className="bg-white pb-12">
+      <main className="bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] pb-12">
         {/* Hero banner */}
         <div className="w-full h-64 md:h-80 relative mb-8">
           <Image
@@ -43,13 +43,13 @@ function DetailPage() {
             className="object-cover object-center"
             priority
           />
-          <div className="absolute inset-0 bg-black/40 flex flex-col justify-end p-8">
-            <h1 className="text-3xl md:text-5xl font-bold text-white drop-shadow-lg">{product.name}</h1>
-          </div>
+        </div>
+        <div className="flex justify-center p-2">
+          <h1 className="text-3xl md:text-5xl font-semibold text-[#0072ce] drop-shadow-lg">{product.name}</h1>
         </div>
         {/* Product description */}
         <div className="max-w-3xl mx-auto px-4 mb-10">
-          <p className="text-lg text-gray-700 text-center">{product.description}</p>
+          <p className="text-xl text-gray-700 text-center">{product.description}</p>
         </div>
         {/* Models */}
         <div className="max-w-5xl mx-auto flex flex-col gap-12 px-4">
@@ -62,21 +62,22 @@ function DetailPage() {
                   className={`flex flex-col md:flex-row items-center md:items-stretch gap-6 md:gap-12 ${idx % 2 === 1 ? "md:flex-row-reverse" : ""}`}
                 >
                   {/* Model image */}
-                  <div className="flex-shrink-0 w-full md:w-1/2 flex justify-center items-center">
-                    <Image
+                  <div className="flex-shrink-0 w-full md:w-1/3 flex justify-center items-center">
+                    <img
                       src={model.image}
                       alt={model.name}
-                      width={350}
+                      width={300}
                       height={250}
                       className="rounded-lg shadow-lg object-contain bg-white"
+                      onError={e => { e.target.src = product.error_image || '/about.webp'; }}
                     />
                   </div>
                   {/* Model info */}
                   <div className="flex-1 flex flex-col justify-center bg-gray-50 rounded-lg p-6 shadow">
-                    <h3 className="text-xl font-semibold mb-2">{model.name}</h3>
+                    <h3 className="text-xl font-semibold text-[#0072ce] mb-2">{model.name}</h3>
                     <p className="mb-1"><span className="font-bold">Código:</span> {model.code}</p>
                     <p className="mb-1"><span className="font-bold">Garantía:</span> {model.warranty}</p>
-                    <p className="whitespace-pre-line"><span className="font-bold">Especificaciones:</span> {model.specifications}</p>
+                    <p className="whitespace-pre-line"><span className="font-bold">Especificaciones:</span> <br/> {model.specifications}</p>
                   </div>
                 </div>
               ))

@@ -62,7 +62,7 @@ export const metadata = {
     canonical: "https://mechnovamachines.com",
     languages: {
       en: "https://mechnovamachines.com",
-      es: "https://mechnovamachines.com/es",
+      es: "https://mechnovamachines.com/",
     },
   },
 };

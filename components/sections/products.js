@@ -80,9 +80,9 @@ function Products() {
         >
           {repeatedProducts.map((prod, idx) => (
             <Link
-              href='#products'
+              href={prod.link}
               key={prod.name + idx}
-              className="group bg-gray-100 rounded-xl shadow-md p-4 flex flex-col items-center min-w-[14rem] overflow-hidden hover:scale-95 transition-transform duration-300 cursor-pointer border border-gray-100"
+              className="group bg-gray-100 rounded-xl shadow-md p-4 flex flex-col items-center min-w-[14rem] overflow-hidden hover:scale-93 transition-transform duration-300 cursor-pointer border border-gray-100"
               onMouseEnter={handleMouseEnter}
               onMouseLeave={handleMouseLeave}
             >
@@ -105,7 +105,7 @@ function Products() {
         </div>
       </div>
       <div className="flex justify-center mt-8">
-        <Link href="#products">
+        <Link href="/products">
           <button className="px-8 py-3 bg-white text-[#0072ce] font-semibold rounded-full hover:scale-105 shadow transition-all text-xl border border-blue-100 cursor-pointer">
             {t('home.products.exploreAll')}
           </button>

@@ -72,6 +72,11 @@
                 "id": "2",
                 "name": "Motor Diesel",
                 "image": "/mechnova/products/diesel-engine/hero-diesel-engine.webp"
+            },
+            "diesel-water-pump":{
+                "id": "3",
+                "name": "Motobomba Diesel",
+                "image": "/mechnova/products/diesel-water-pump/hero-diesel-water-pump.webp"
             }
         }
     },
@@ -116,6 +121,11 @@
                 "id": "4",
                 "name": "Generador Gasolina",
                 "image": "/mechnova/products/gasoline-generator/hero-gasoline-generator.webp"
+            },
+            "gasoline-inverter":{
+                "id": "5",
+                "name": "Inversor Gasolina",
+                "image": "/mechnova/products/gasoline-inverter/hero-gasoline-inverter.webp"
             }
         }
     }

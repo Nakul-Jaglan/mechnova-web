@@ -47,28 +47,25 @@ function Segment() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           {segments.map((seg, i) => (
-            <div
-              key={i}
-              className="bg-gray-200 rounded-2xl shadow-lg overflow-hidden flex flex-col hover:scale-[1.05] transition-transform duration-300 cursor-pointer"
+            <div key={i}
+              className="bg-gray-200 rounded-2xl shadow-lg overflow-hidden flex flex-col hover:scale-[1.05] transition-transform duration-300"
             >
-                <Link href='#segments'>
-                    <div className="relative h-96 w-full">
-                        <Image
-                        src={seg.image}
-                        alt={seg.title}
-                        fill
-                        className="object-cover object-bottom"
-                        sizes="(max-width: 768px) 100vw, 33vw"
-                        priority={i === 0}
-                        />
-                    </div>
-                    <div className="p-6 flex flex-col flex-1">
-                        <h3 className="font-semibold text-2xl mb-2 text-center text-gray-900 hover:text-[#0072ce]">
-                        {seg.title}
-                        </h3>
-                        <p className="text-gray-600 text-base text-center flex-1">{seg.desc}</p>
-                    </div>
-                </Link>
+              <div className="relative h-96 w-full">
+                <Image
+                  src={seg.image}
+                  alt={seg.title}
+                  fill
+                  className="object-cover object-bottom"
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                  priority={i === 0}
+                />
+              </div>
+              <div className="p-6 flex flex-col flex-1">
+                  <h3 className="font-semibold text-2xl mb-2 text-center text-gray-900 hover:text-[#0072ce]">
+                  {seg.title}
+                  </h3>
+                  <p className="text-gray-600 text-base text-center flex-1">{seg.desc}</p>
+              </div>
             </div>
           ))}
         </div>
