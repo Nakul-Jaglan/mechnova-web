@@ -35,10 +35,11 @@ export default function HomePage() {
             <Products/>
             <Industries/>
             {/* <Social/> */}
-            <Testimonials/>
+            {/* <Testimonials/> */}
             <Faqs/>
+            
             {/* Call to Action */}
-            <section className="w-full py-16 bg-[#0072ce]">
+            {/* <section className="w-full py-16 bg-[#0072ce]">
                 <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-8">
                     <div className="text-white text-2xl md:text-3xl font-bold mb-6 md:mb-0">{t('about.cta')}</div>
                     <Link href="/contact">
@@ -47,7 +48,7 @@ export default function HomePage() {
                         </button>
                     </Link>
                 </div>
-            </section>
+            </section> */}
         </main>
         
         <footer>
