@@ -5,7 +5,7 @@ import Image from "next/image";
 const images = [
   // "/mechnova/banner/banner-m.webp",
   "/mechnova/banner/website-banner1.webp",
-  // "/mechnova/banner/website-banner2.webp",
+  "/mechnova/banner/website-banner2.webp",
   "/mechnova/banner/website-banner3.webp",
   "/mechnova/banner/website-banner4.webp",
 ];
