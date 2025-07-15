@@ -8,7 +8,7 @@
         "error_image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
         "models": [
             {
-                "code": "BCS25A-10SN",
+                "code": "MCS25A-10SN",
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -16,7 +16,7 @@
                 "specifications": "Motor : Gasolina, 2 tiempos, 25CC\nPotencia Máxima: 1.0CV\nBarra guía : 10\"\nCadena: 3/8\" x .050\"\nCapacidad tanque combustible : ml\nCapacidad tanque de aceite : ml\nMáxima revolución : por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
-                "code": "BCS42A-16SN",
+                "code": "MCS42A-16SN",
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -24,7 +24,7 @@
                 "specifications": "Motor : Gasolina, 2 tiempos, 42CC\nPotencia Máxima: 2.1CV\nBarra guía : 16\"\nCadena: 3/8\" x .050\"\nCapacidad tanque combustible : 300 ml\nCapacidad tanque de aceite : 210 ml\nMáxima revolución : 13000 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
-                "code": "BCS53A-18SN",
+                "code": "MCS53A-18SN",
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "3", 
                 "warranty": "12 Meses",
@@ -32,7 +32,7 @@
                 "specifications": "Motor : Gasolina, 2 tiempos, 50,8CC\nPotencia Máxima: 2,8CV\nBarra guía : 18\"\nCadena: .325\"Capacidad tanque combustible : 550 ml\nCapacidad tanque de aceite : 260 ml\nMáxima revolución : 12500 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
-                "code": "BCS58A-20SN",
+                "code": "MCS58A-20SN",
                 "name": "MOTOSIERRA GASOLINA",
                 "id": "4", 
                 "warranty": "12 Meses",
@@ -40,7 +40,7 @@
                 "specifications": "Motor : Gasolina, 2 tiempos, 54CC\nPotencia Máxima: 3,2CV\nBarra guía : 18\"\nCadena: .325\"\nCapacidad tanque combustible : 550 ml\nCapacidad tanque de aceite : 260 ml\nMáxima revolución : 12500 por minuto\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral"
             },
             {
-                "code": "BCSE1500A-16SN-1",
+                "code": "MCSE1500A-16SN-1",
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "5", 
                 "warranty": "12 Meses",
@@ -48,7 +48,7 @@
                 "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 1500W\nBarra guia: 16\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 15m/s"
             },
             {
-                "code": "BCSE1500A-16SN-2",
+                "code": "MCSE1500A-16SN-2",
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "6", 
                 "warranty": "12 Meses",
@@ -56,7 +56,7 @@
                 "specifications": "Motor: Eléctrico, 220V, 50/60Hz\nPotencia Máxima: 1500W\nBarra guia: 16\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
-                "code": "BCSE1800A-18SN-1",
+                "code": "MCSE1800A-18SN-1",
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "7", 
                 "warranty": "12 Meses",
@@ -64,7 +64,7 @@
                 "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 2000W\nBarra guia: 18\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
-                "code": "BCSE2000A-18SN-2",
+                "code": "MCSE2000A-18SN-2",
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "8", 
                 "warranty": "12 Meses",
@@ -72,7 +72,7 @@
                 "specifications": "Motor: Eléctrico, 220V, 60Hz\nPotencia Máxima: 2000W\nBarra guia: 18\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
-                "code": "BCSE2500A-20SN-2",
+                "code": "MCSE2500A-20SN-2",
                 "name": "MOTOSIERRA ELÉCTRICA",
                 "id": "9", 
                 "warranty": "12 Meses",
@@ -80,7 +80,7 @@
                 "specifications": "Motor: Eléctrico, 220V, 60Hz\nPotencia Máxima: 2500W\nBarra guia: 20\"\nCapacidad tanque de aceite: 120 ml\nMáxima velocidad de cadena: 13.5m/s"
             },
             {
-                "code": "BPP750A-8SN-1",
+                "code": "MPP750A-8SN-1",
                 "name": "MOTOPODA ELÉCTRICA",
                 "id": "10",
                 "warranty": "12 Meses",
@@ -88,7 +88,7 @@
                 "specifications": "Motor: Eléctrico, 110V, 50/60Hz\nPotencia Máxima: 750W\nBarra guia: 8\"\nCapacidad tanque de aceite: 80 ml\nLongitud total de 2m hasta 2,8m"
             },
             {
-                "code": "BPP750A-8SN-2",
+                "code": "MPP750A-8SN-2",
                 "name": "MOTOPODA ELÉCTRICA",
                 "id": "11",
                 "warranty": "12 Meses",
@@ -107,7 +107,7 @@
         "error_image": "/mechnova/products/hedge-trimmer/BHT600A.webp",
         "models": [
             {
-                "code": "BHT600A",
+                "code": "MHT600A",
                 "name": "CORTASETOS GASOLINA",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -126,7 +126,7 @@
         "error_image": "/mechnova/products/blower/BB43BA.webp",
         "models": [
             {
-                "code": "BB26A",
+                "code": "MB26A",
                 "name": "SOPLADOR GASOLINA",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -134,7 +134,7 @@
                 "specifications": "Motor : 25,4CC Gasolina, 2 Tempos\nPotencia Máxima : 1,0CV @ 7500Rpm\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,45 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nVolumen De Ar : 0,17M³/S Ou 612M³/Hora"
             },
             {
-                "code": "BB43BA",
+                "code": "MB43BA",
                 "name": "SOPLADOR DE MOCHILA GASOLINA",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -142,7 +142,7 @@
                 "specifications": "Motor : 42,7Cc, A Gasolina, 2 Tempos\nPotencia Máxima: 1,7CV @ 6500Rpm\nVolumen De Aire : 0,28M³/S Ou 1008 M³/Hora\nTipo De Carburador : Diafragma\nCapacidad Del Depósito : 1 Litro\nControle De Aceleração : No Punho"
             },
             {
-                "code": "BVB26A",
+                "code": "MVB26A",
                 "name": "SOPLO ASPIRADOR GASOLINA",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -161,7 +161,7 @@
         "error_image": "/mechnova/products/earth-auger/BEA43A-200.webp",
         "models":[
             {
-                "code": "BEA43A-200",
+                "code": "MEA43A-200",
                 "name": "BARRENO DE TIERRA GASOLINA",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -169,7 +169,7 @@
                 "specifications": "Motor : Gasolina, 2 Tiempos, 43CC, 1.7HP\nUno Operador\nCom taladro simples de 200 mm de diámetro"
             },
             {
-                "code": "BEA52A-200",
+                "code": "MEA52A-200",
                 "name": "BARRENO DE TIERRA GASOLINA",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -188,7 +188,7 @@
         "error_image": "/mechnova/products/lawn-mower/BLME320RA-1.webp",
         "models": [
             {
-                "code": "BLME320RA-1",
+                "code": "MLME320RA-1",
                 "name": "CORTACÉSPED ELÉCTRICO",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -196,7 +196,7 @@
                 "specifications": "Tipo De Accionamiento : Manual\nVoltage: 110V - 50/60Hz\nMotor eléctrico de 1200W potencia máxima\nFunción De Descarga : Trasera con Pick-Up\nMango :Normal\nCubierta Delantera : No"
             },
             {
-                "code": "BLME320RA-2",
+                "code": "MLME320RA-2",
                 "name": "CORTACÉSPED ELÉCTRICO",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -204,7 +204,7 @@
                 "specifications": "Tipo De Accionamiento : Manual\nVoltage: 220V - 50/60Hz\nMotor eléctrico de 1200W potencia máxima\nFunción De Descarga : Trasera con Pick-Up\nMango :Normal\nCubierta Delantera : No"
             },
             {
-                "code": "BLM430RA",
+                "code": "MLM430RA",
                 "name": "CORTACÉSPED GASOLINA",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -212,7 +212,7 @@
                 "specifications": "Tipo De Accionamiento : Manual\nFunción De Descarga : 2 En 1 Trasera Y Pick-Up\nMango : Normal\nCubierta Delantera : No\nEnganche De Limpieza De La Cubierta : No"
             },
             {
-                "code": "BLM430RTA",
+                "code": "MLM430RTA",
                 "name": "CORTACÉSPED GASOLINA",
                 "id": "4", 
                 "warranty": "12 Meses",
@@ -220,7 +220,7 @@
                 "specifications": "Tipo De Accionamiento : Manual\nFunción De Descarga : 4 En 1 Trasera, Lateral, Recogida, Recicladora\nEmpunadura : De Goma\nCubierta Delantera : Si\nEnganche De Limpieza De La Cubierta : Si"
             },
             {
-                "code": "BLM530RA",
+                "code": "MLM530RA",
                 "name": "CORTACÉSPED GASOLINA",
                 "id": "5", 
                 "warranty": "12 Meses",
@@ -228,7 +228,7 @@
                 "specifications": "Motor : 166 Cc Gasolina\nAnchura De Corte : 21\"\nAltura De Corte : 30-80 Mm (6 opciones de Ajuste Central)\nOpciones De Salida: Salida Trasera, Recogedor, Salida Lateral Y Reciclador 4 in 1\nCapacidad Del Recogedor: 70 Litros\nTipo De Propulsión: Manual\nManillar : Manillar Engomado\nRuedas : Delanteras De 8\" Y Traseras De 10\""
             },
             {
-                "code": "BLM530RTA",
+                "code": "MLM530RTA",
                 "name": "CORTACÉSPED GASOLINA",
                 "id": "6", 
                 "warranty": "12 Meses",
@@ -236,7 +236,7 @@
                 "specifications": "Motor : 166 Cc Gasolina\nAnchura De Corte : 21\"\nAltura De Corte : 20-80 Mm (8 Opcciones De Ajuste Central)\nOpciones De Salida: Salida Trasera, Recogedor, Salida Lateral Y Reciclador\nCapacidad Del Recogedor: 70 Litros\nTipo De Propulsión: Autopropulsada\nManillar : Manillar Engomado\nRuedas : Delanteras De 8\" Y Traseras De 10\""
             },
             {
-                "code": "BLM560RA",
+                "code": "MLM560RA",
                 "name": "CORTACÉSPED GASOLINA",
                 "id": "7",
                 "warranty": "12 Meses",
@@ -244,7 +244,7 @@
                 "specifications": "Motor : 166 Cc Gasolina\nAnchura De Corte : 22\nAltura De Corte : 25-75 Mm (7 Opciones De Ajuste Central)\nOpciones De Salida: Salida Trasera, Recogedor, Salida Lateral Y Reciclador\nCapacidad Del Recogedor: 65 Litros\nTipo De Propulsión: Manual\nManillar : Manillar Engomado\nRuedas : Delanteras De 8\" Y Traseras De 10\"" 
             },
             {
-                "code": "BLM560RTA",
+                "code": "MLM560RTA",
                 "name": "CORTACÉSPED GASOLINA",
                 "id": "8", 
                 "warranty": "12 Meses",
@@ -263,7 +263,7 @@
         "error_image": "/mechnova/products/brushcutter/BBC26DA.webp",
         "models": [
             {
-                "code": "BBC26DA",
+                "code": "MBC26DA",
                 "name": "DESBROZADORA GASOLINA",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -271,7 +271,7 @@
                 "specifications": "Motor : Gasolina, 2 Tiempos, 25,4CC\nPotencia Máxima: 1,0 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,7 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 mm\nManillar D"
             },
             {
-                "code": "BBC33DA",
+                "code": "MBC33DA",
                 "name": "DESBROZADORA GASOLINA",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -279,7 +279,7 @@
                 "specifications": "Motor : Gasolina, 2 Tiempos, 33,0CC\nPotencia Máxima: 1,3 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,7 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 mm\nManillar D"
             },
             {
-                "code": "BBC43A",
+                "code": "MBC43A",
                 "name": "DESBROZADORA GASOLINA",
                 "id": "3", 
                 "warranty": "12 Meses",
@@ -287,7 +287,7 @@
                 "specifications": "Motor : Gasolina, 2 Tiempos, 42,7Cc\nPotencia Máxima: 1,7 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,8 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 Mm\nManillar Ergonómico Dividido"
             },
             {
-                "code": "BBC52A",
+                "code": "MBC52A",
                 "name": "DESBROZADORA GASOLINA",
                 "id": "4", 
                 "warranty": "12 Meses",
@@ -295,7 +295,7 @@
                 "specifications": "Motor : Gasolina, 2 Tiempos, 51,6Cc\nPotencia Máxima: 2,0 Cv\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,8 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 Mm\nManillar Ergonómico Dividido"
             },
             {
-                "code": "BBC26MTA",
+                "code": "MBC26MTA",
                 "name": "DESBROZADORA MULTI FUNCIÓN GASOLINA",
                 "id": "5", 
                 "warranty": "12 Meses",
@@ -303,7 +303,7 @@
                 "specifications": "Motor : Gasolina, 2 Tiempos, 26Cc\nPotencia Máxima: 1,0 CV\nMezcla De Combustible: 40:1 Si Es Aceite Sintético Y 25:1 Si Es Aceite Mineral\nCapacidad Del Depósito: 0,7 Litros\nCarburador: Diafragma\nEscape Reforzado\nTipo De Arranque: Manual Retráctil\nDiámetro Del Tubo: 26 Mm\nManillar Ergonómico en D"
             },
             {
-                "code": "BBCE1000DA-1",
+                "code": "MBCE1000DA-1",
                 "name": "DESBROZADORA ELÉCTRICA",
                 "id": "6", 
                 "warranty": "12 Meses",
@@ -311,7 +311,7 @@
                 "specifications": "Motor : Eléctrico 220V, 60Hz\nPotencia Máxima: 1,0 kW\nManillar lop D\nTubo em acero, bipartido"
             },
             {
-                "code": "BBCE1000DA-2",
+                "code": "MBCE1000DA-2",
                 "name": "DESBROZADORA ELÉCTRICA",
                 "id": "7", 
                 "warranty": "12 Meses",
@@ -339,7 +339,7 @@
         "error_image": "/mechnova/products/fumigation/BS26BA.webp",
         "models": [
             {
-                "code": "BS26BA",
+                "code": "MS26BA",
                 "name": "PULVERIZADOR DE MOCHILA CON BOMBA DE LATÓN GASOLINA",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -347,7 +347,7 @@
                 "specifications": "Motor : 25,4CC Gasolina, 2 tempos\nPotencia Máxima: 1.0CV\nCapacidad del depósito: 0,6 litros\nCapacidad tanque : 25 litros\nPresión trabajo : 215-355 PSI\nVolumen de pulverización : 5-8 (Litros / min)\nTipo de bomba : Bomba de émbolo de alta presión\nMaterial de la bomba : Latón\nSistema de arranque : Retráctil"
             },
             {
-                "code": "BSBE18VBA-20",
+                "code": "MSBE18VBA-20",
                 "name": "PULVERIZADOR DE MOCHILA INALAMBRICO",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -366,7 +366,7 @@
         "error_image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
         "models": [
             {
-                "code": "BDG2.0ASD-60",
+                "code": "MDG2.0ASD-60",
                 "name": "GENERADOR DIESEL",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -374,7 +374,7 @@
                 "specifications": "Potencia maxima: 2.0 kVA\nPotencia nominal: 1.8 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 60Hz\nMotor: 211cc, 5HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 10 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 750 ml"
             },
             {
-                "code": "BD1.7ASD-50",
+                "code": "MD1.7ASD-50",
                 "name": "GENERADOR DIESEL",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -382,7 +382,7 @@
                 "specifications": "Potencia maxima: 1.7 kVA\nPotencia nominal: 1.5 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 50Hz\nMotor: 211cc, 5HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 10 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 750 ml"
             },
             {
-                "code": "BDG4.2ASD-60",
+                "code": "MDG4.2ASD-60",
                 "name": "GENERADOR DIESEL",
                 "id": "3", 
                 "warranty": "12 Meses",
@@ -390,7 +390,7 @@
                 "specifications": "Potencia maxima: 4.2 kVA\nPotencia nominal: 3.8 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 60Hz\nMotor: 406cc, 10HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 8 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             },
             {
-                "code": "BDG3.6ASD-50",
+                "code": "MDG3.6ASD-50",
                 "name": "GENERADOR DIESEL",
                 "id": "4", 
                 "warranty": "12 Meses",
@@ -398,7 +398,7 @@
                 "specifications": "Potencia maxima: 3.6 kVA\nPotencia nominal: 3.4 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 50Hz\nMotor: 406cc, 10HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 8 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             },
             {
-                "code": "BDG6.0ASD-60",
+                "code": "MDG6.0ASD-60",
                 "name": "GENERADOR DIESEL",
                 "id": "5", 
                 "warranty": "12 Meses",
@@ -406,7 +406,7 @@
                 "specifications": "Potencia maxima: 6.0 kVA\nPotencia nominal: 5.5 kVA\nBobina del estator: 100% AI\nVoltaje: 110V/220V Doble Voltaje - 60Hz\nMotor: 456cc, 13HP, Diesel, 4 Tiempos\nAutonomía al 50% de carga: 6 Hora\nCapacidad del tanque de combustible: 11,0 Litros\nSistema de arranque: Retráctil\nCapacidad del deposito de aceite: 1,65 Litros"
             },
             {
-                "code": "BDG5.5ASD-50",
+                "code": "MDG5.5ASD-50",
                 "name": "GENERADOR DIESEL",
                 "id": "6", 
                 "warranty": "12 Meses",
@@ -425,7 +425,7 @@
         "error_image": "/mechnova/products/diesel-engine/BDE50A.webp",
         "models": [
             {
-                "code": "BDE50A",
+                "code": "MDE50A",
                 "name": "MOTOR DE DIESEL",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -433,7 +433,7 @@
                 "specifications": "Motor : 211cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 70 mm\nPotencia nominal: 2.8kW / 3,75CV\nPotencia máxima : 3,3kW / 4,5CV\nCapacidad tanque combustible : 2,5 Litros\nCapacidad deposito aceite : 750 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
             },
             {
-                "code": "BDE70A",
+                "code": "MDE70A",
                 "name": "MOTOR DE DIESEL",
                 "id": "2", 
                 "warranty": "12 Meses",
@@ -441,7 +441,7 @@
                 "specifications": "Motor : 296cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 78 mm\nPotencia nominal: 4.0kW / 5,4CV\nPotencia máxima : 4,8kW / 6,5CV\nCapacidad tanque combustible : 3,5 Litros\nCapacidad deposito aceite : 1100 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
             },
             {
-                "code": "BDE100A",
+                "code": "MDE100A",
                 "name": "MOTOR DE DIESEL",
                 "id": "3", 
                 "warranty": "12 Meses",
@@ -449,7 +449,7 @@
                 "specifications": "Motor : 456cc, 4 Tiempos\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 88 mm\nPotencia nominal: 6.9kW / 9,3CV\nPotencia máxima : 7,8kW / 10,5CV\nCapacidad tanque combustible : 5,5 Litros\nCapacidad deposito aceite : 1650 ml\nSistema de arranque : Manual Retráctil\nArranque Manual"
             },
             {
-                "code": "BDE100EA",
+                "code": "MDE100EA",
                 "name": "MOTOR DE DIESEL",
                 "id": "3", 
                 "warranty": "12 Meses",
@@ -468,7 +468,7 @@
         "error_image": "/mechnova/products/diesel-water-pump/BDWP2x2SA.webp",
         "models": [
             {
-                "code": "BDWP2x2SA",
+                "code": "MDWP2x2SA",
                 "name": "MOTOBOMBA DIESEL",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -476,7 +476,7 @@
                 "specifications": "Tipo de bomba : Autocebante\nMotor: Diesel, 211cc\nSistema de arranque : Retráctil\nCapacidad máxima de bombeo : 22000 litros por hora\nDiámetro del succion y descarga: 2 Pulgadas x 2 pulgadas\nElevación total : 15 Metros\nAltura de succión : 7 Metros\nTamaño tanque combustible : 2,5 Litros\nArranque Manual"
             },
             {
-                "code": "BDWP3x3SA",
+                "code": "MDWP3x3SA",
                 "name": "MOTOBOMBA DIESEL",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -484,7 +484,7 @@
                 "specifications": "Tipo de bomba : Autocebante\nMotor: Diesel, 296cc\nSistema de arranque : Retráctil\nCapacidad máxima de bombeo : 35000 litros por hora\nDiámetro del succion y descarga: 3 Pulgadas x 3 pulgadas\nElevación total : 17 Metros\nAltura de succión : 7 Metros\nTamaño tanque combustible : 3,5 Litros\nArranque Manual"
             },
             {
-                "code": "BDWP2x2CA",
+                "code": "MDWP2x2CA",
                 "name": "MOTOBOMBA DIESEL",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -503,7 +503,7 @@
         "error_image": "/mechnova/products/electric-motors/BEE10HA-DS60.webp",
         "models": [
             {
-                "code": "BEE10HA-DS60",
+                "code": "MEE10HA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -511,7 +511,7 @@
                 "specifications": "Potencia: 1.0HP / 0,75kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n2 polos - alta velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE15HA-DS60",
+                "code": "MEE15HA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -519,7 +519,7 @@
                 "specifications": "Potencia: 1.5HP / 1,1kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n2 polos - alta velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE20HA-DS60",
+                "code": "MEE20HA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -527,7 +527,7 @@
                 "specifications": "Potencia: 2.0HP / 1,5kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n2 polos - alta velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE30HA-DS60",
+                "code": "MEE30HA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "4",
                 "warranty": "12 Meses",
@@ -535,7 +535,7 @@
                 "specifications": "Potencia: 3.0HP / 2,2kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n2 polos - alta velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE40HA-DS60",
+                "code": "MEE40HA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "5",
                 "warranty": "12 Meses",
@@ -543,7 +543,7 @@
                 "specifications": "Potencia: 4.0HP /3,0kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n2 polos - alta velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE10LA-DS60",
+                "code": "MEE10LA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "6",
                 "warranty": "12 Meses",
@@ -551,7 +551,7 @@
                 "specifications": "Potencia: 1.0HP / 0,75kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n4 polos - baja velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE15LA-DS60",
+                "code": "MEE15LA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "7",
                 "warranty": "12 Meses",
@@ -559,7 +559,7 @@
                 "specifications": "Potencia: 1.5HP / 1,1kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n4 polos - baja velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE20LA-DS60",
+                "code": "MEE20LA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "8",
                 "warranty": "12 Meses",
@@ -567,7 +567,7 @@
                 "specifications": "Potencia: 2.0HP / 1,5kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n4 polos - baja velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE30LA-DS60",
+                "code": "MEE30LA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "9",
                 "warranty": "12 Meses",
@@ -575,7 +575,7 @@
                 "specifications": "Potencia: 3.0HP / 2,2kW\nVoltage: 110 / 220V - 60Hz\nMonofásico\n4 polos - baja velocidad\nBobinado en cobre\nMedio par de arranque"
             },
             {
-                "code": "BEE40LA-DS60",
+                "code": "MEE40LA-DS60",
                 "name": "MOTOR ELÉCTRICO",
                 "id": "10",
                 "warranty": "12 Meses",
@@ -594,7 +594,7 @@
         "error_image": "/mechnova/products/pressure-washer/BEPW1450A1.webp",
         "models": [
             {
-                "code": "BEPW1450A1",
+                "code": "MEPW1450A1",
                 "name": "LAVADORA ELÉCTRICA",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -602,7 +602,7 @@
                 "specifications": "Motor: 1200W - 110V - 50/60Hz - motor de escobilhas\nPresión nominal: 65Bar\nPresión Max: 100Bar\nCaudal nominal: 5,5 l/min"
             },
             {
-                "code": "BEPW1450A2",
+                "code": "MEPW1450A2",
                 "name": "LAVADORA ELÉCTRICA",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -610,7 +610,7 @@
                 "specifications": "Motor: 1200W - 220V - 50/60Hz - motor de escobilhas\nPresión nominal: 65Bar\nPresión Max: 100Bar\nCaudal nominal: 5,5 l/min"
             },
             {
-                "code": "BEPW1850A1",
+                "code": "MEPW1850A1",
                 "name": "LAVADORA ELÉCTRICA",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -618,7 +618,7 @@
                 "specifications": "Motor: 1500W - 110V - 50/60Hz - motor de escobilhas\nPresión nominal: 90Bar\nPresión Max: 130Bar\nCaudal nominal: 5,5 l/min"
             },
             {
-                "code": "BEPW1850A2",
+                "code": "MEPW1850A2",
                 "name": "LAVADORA ELÉCTRICA",
                 "id": "4",
                 "warranty": "12 Meses",
@@ -626,7 +626,7 @@
                 "specifications": "Motor: 1500W - 220V - 50/60Hz - motor de escobilhas\nPresión nominal: 90Bar\nPresión Max: 130Bar\nCaudal nominal: 5,5 l/min"
             },
             {
-                "code": "BEPW2185A-1",
+                "code": "MEPW2185A-1",
                 "name": "LAVADORA ELÉCTRICA",
                 "id": "5",
                 "warranty": "12 Meses",
@@ -634,7 +634,7 @@
                 "specifications": "Motor: 1800W - 110V - 50/60Hz - motor de escobilhas\nPresión nominal: 110Bar\nPresión Max: 150Bar\nCaudal nominal: 6,0 l/min"
             },
             {
-                "code": "BEPW2185A-2",
+                "code": "MEPW2185A-2",
                 "name": "LAVADORA ELÉCTRICA",
                 "id": "6",
                 "warranty": "12 Meses",
@@ -653,7 +653,7 @@
         "error_image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
         "models": [
             {
-                "code": "BT900GA-208CC",
+                "code": "MT900GA-208CC",
                 "name": "MOTOCULTOR DE GASOLINA",
                 "id": "1", 
                 "warranty": "12 Meses",
@@ -672,7 +672,7 @@
         "error_image": "/mechnova/products/gasoline-water-pump/waterpump.webp",
         "models": [
             {
-                "code": "BWP1x1STA",
+                "code": "MWP1x1STA",
                 "name": "MOTOBOMBA GASOLINA",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -680,7 +680,7 @@
                 "specifications": "Tipo de bomba : Autocebante\nPotencia máxima : 1,3 HP, 2 tiempos\nSistema de arranque : Retráctil\nCapacidad máxima de bombeo : 8000 litros por hora\nDiámetro del succion : 1 Pulgadas\nDiámetro del descarga : 1 Pulgadas\nElevación total : 30 Metros\nAltura de succión : 8 Metros\nTamaño tanque combustible : 0,95 Litros"
             },
             {
-                "code": "BWP1.5x1.5STA",
+                "code": "MWP1.5x1.5STA",
                 "name": "MOTOBOMBA GASOLINA",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -688,7 +688,7 @@
                 "specifications": "Tipo de bomba : Autocebante\nPotencia máxima : 1,7 HP , 2 tiempos\nSistema de arranque : Retráctil\nCapacidad máxima de bombeo :12000 litros por hora\nDiámetro del succion : 1,5 Pulgadas\nDiámetro del descarga : 1,5 Pulgadas\nElevación total : 35 Metros\nAltura de succión : 8 Metros\nTamaño tanque combustible : 1,2 Litros"
             },
             {
-                "code": "BWP1.5x1.5SA",
+                "code": "MWP1.5x1.5SA",
                 "name": "MOTOBOMBA GASOLINA",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -696,7 +696,7 @@
                 "specifications": "Tipo de bomba : Autocebante\nPotencia máxima : 4,0 HP\nSistema de arranque : Retráctil\nCapacidad máxima de bombeo : 15000 litros por hora\nDiámetro del succion : 1,5 Pulgadas\nDiámetro del descarga : 4,5 Pulgadas\nElevación total : 26 Metros\nAltura de succión : 6 Metros\nTamaño tanque combustible : 2,0 Litros"
             },
             {
-                "code": "BWP2x2SA",
+                "code": "MWP2x2SA",
                 "name": "MOTOBOMBA GASOLINA",
                 "id": "4",
                 "warranty": "12 Meses",
@@ -704,7 +704,7 @@
                 "specifications": "Tipo de bomba : Autocebante\nPotencia máxima : 7,0 HP\nSistema de arranque : Retráctil\nCapacidad máxima de bombeo : 30000 litros por hora\nDiámetro del succion : 2 Pulgadas\nDiámetro del descarga : 2 Pulgadas\nElevación total : 30 Metros\nAltura de succión : 8 Metros\nTamaño tanque combustible : 3,6 Litros"
             },
             {
-                "code": "BWP3x3SA",
+                "code": "MWP3x3SA",
                 "name": "MOTOBOMBA GASOLINA",
                 "id": "5",
                 "warranty": "12 Meses",
@@ -723,7 +723,7 @@
         "error_image": "/mechnova/products/gasoline-engine/BE40A.webp",
         "models": [
             {
-                "code": "BE40A",
+                "code": "ME40A",
                 "name": "MOTOR DE GASOLINA",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -731,7 +731,7 @@
                 "specifications": "Motor : 4,0 HP, 4 Tiempos, 113cc\nTecnología : OHV, Válvulas a la cabeza\nSistema de refrigeracion : Aire\nDiámetro del cilindro : 60*40 mm\nPotencia máxima : 4 HP\nCapacidad tanque combustible : 2,0 Litros\nCapacidad deposito aceite : 350 ml\nSistema de arranque : Retráctil"
             },
             {
-                "code": "BE70A",
+                "code": "ME70A",
                 "name": "MOTOR DE GASOLINA",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -750,7 +750,7 @@
         "error_image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
         "models": [
             {
-                "code": "BG1.2AS1-60",
+                "code": "MG1.2AS1-60",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -758,7 +758,7 @@
                 "specifications": "Potencia máxima : 1,2 KW\nPotencia nominal : 1,1 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG1.2AS2-60",
+                "code": "MG1.2AS2-60",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -766,7 +766,7 @@
                 "specifications": "Potencia máxima : 1,2 KW\nPotencia nominal : 1,1 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG1.0AS1-50",
+                "code": "MG1.0AS1-50",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -774,7 +774,7 @@
                 "specifications": "Potencia máxima : 1,0 KW\nPotencia nominal : 0,9 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG1.0AS2-50",
+                "code": "MG1.0AS2-50",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "4",
                 "warranty": "12 Meses",
@@ -782,7 +782,7 @@
                 "specifications": "Potencia máxima : 1,0 KW\nPotencia nominal : 0,9 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 113cc - 4HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 9,6 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG3.0AS1-60",
+                "code": "MG3.0AS1-60",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "5",
                 "warranty": "12 Meses",
@@ -790,7 +790,7 @@
                 "specifications": "Potencia máxima : 3,0 KW\nPotencia nominal : 2,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG3.0AS2-60",
+                "code": "MG3.0AS2-60",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "6",
                 "warranty": "12 Meses",
@@ -798,7 +798,7 @@
                 "specifications": "Potencia máxima : 3,0 KW\nPotencia nominal : 2,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG2.7AS1-50",
+                "code": "MG2.7AS1-50",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "7",
                 "warranty": "12 Meses",
@@ -806,7 +806,7 @@
                 "specifications": "Potencia máxima : 2,7 KW\nPotencia nominal : 2,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG2.7AS2-50",
+                "code": "MG2.7AS2-50",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "8",
                 "warranty": "12 Meses",
@@ -814,7 +814,7 @@
                 "specifications": "Potencia máxima : 2,7 KW\nPotencia nominal : 2,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG6.5AS1-60",
+                "code": "MG6.5AS1-60",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "9",
                 "warranty": "12 Meses",
@@ -822,7 +822,7 @@
                 "specifications": "Potencia máxima : 6,5 KW\nPotencia nominal : 6,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             },
             {
-                "code": "BG6.5AS2-60",
+                "code": "MG6.5AS2-60",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "10",
                 "warranty": "12 Meses",
@@ -830,7 +830,7 @@
                 "specifications": "Potencia máxima : 6,5 KW\nPotencia nominal : 6,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             },
             {
-                "code": "BG5.8AS1-50",
+                "code": "MG5.8AS1-50",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "11",
                 "warranty": "12 Meses",
@@ -838,7 +838,7 @@
                 "specifications": "Potencia máxima : 5,8 KW\nPotencia nominal : 5,4 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 420cc - 15HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 12 Horas\nCapacidad tanque combustible : 25,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 1100 ml"
             },
             {
-                "code": "BG5.8AS2-50",
+                "code": "MG5.8AS2-50",
                 "name": "GENERADOR DE GASOLINA",
                 "id": "12",
                 "warranty": "12 Meses",
@@ -857,7 +857,7 @@
         "error_image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
         "models": [
             {
-                "code": "BG2.2AiS1-60",
+                "code": "MG2.2AiS1-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "1",
                 "warranty": "12 Meses",
@@ -865,7 +865,7 @@
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG2.2AiS2-60",
+                "code": "MG2.2AiS2-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "2",
                 "warranty": "12 Meses",
@@ -873,7 +873,7 @@
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG2.2AiS1-50",
+                "code": "MG2.2AiS1-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "3",
                 "warranty": "12 Meses",
@@ -881,7 +881,7 @@
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG2.2AiS2-50",
+                "code": "MG2.2AiS2-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "4",
                 "warranty": "12 Meses",
@@ -889,7 +889,7 @@
                 "specifications": "Potencia máxima : 2,2 KW\nPotencia nominal : 2,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 212cc - 7HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 16 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG3.7AiS1-60",
+                "code": "MG3.7AiS1-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "5",
                 "warranty": "12 Meses",
@@ -897,7 +897,7 @@
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG3.7AiS2-60",
+                "code": "MG3.7AiS2-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "6",
                 "warranty": "12 Meses",
@@ -905,7 +905,7 @@
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG3.7AiS1-50",
+                "code": "MG3.7AiS1-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "7",
                 "warranty": "12 Meses",
@@ -913,7 +913,7 @@
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG3.7AiS2-50",
+                "code": "MG3.7AiS2-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "8",
                 "warranty": "12 Meses",
@@ -921,7 +921,7 @@
                 "specifications": "Potencia máxima : 3,7 KW\nPotencia nominal : 3,5 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 223cc - 8HP / OHV, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 15 Horas\nCapacidad tanque combustible : 15,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 600 ml"
             },
             {
-                "code": "BG2.0AiSS1-60",
+                "code": "MG2.0AiSS1-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "9",
                 "warranty": "12 Meses",
@@ -929,7 +929,7 @@
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG2.0AiSS2-60",
+                "code": "MG2.0AiSS2-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "10",
                 "warranty": "12 Meses",
@@ -937,7 +937,7 @@
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG2.0AiSS1-50",
+                "code": "MG2.0AiSS1-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "11",
                 "warranty": "12 Meses",
@@ -945,7 +945,7 @@
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG2.0AiSS2-50",
+                "code": "MG2.0AiSS2-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "12",
                 "warranty": "12 Meses",
@@ -953,7 +953,7 @@
                 "specifications": "Potencia máxima : 2,0 KW\nPotencia nominal : 1,8 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 50Hz\nMotor : 79,8cc - 3HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 10 Horas\nCapacidad tanque combustible : 4,0 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG3.3AiSS1-60",
+                "code": "MG3.3AiSS1-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "13",
                 "warranty": "12 Meses",
@@ -961,7 +961,7 @@
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 60Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG3.3AiSS2-60",
+                "code": "MG3.3AiSS2-60",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "14",
                 "warranty": "12 Meses",
@@ -969,7 +969,7 @@
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 220V - 60Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG3.3AiSS1-50",
+                "code": "MG3.3AiSS1-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "15",
                 "warranty": "12 Meses",
@@ -977,7 +977,7 @@
                 "specifications": "Potencia máxima : 3,3 KW\nPotencia nominal : 3,0 KW\nBobina del estator : 100% Cobre\nVoltaje : 110V - 50Hz\nMotor : 149cc - 6.5HP, Gasolina, 4 Tiempos\nAutonomia al 50% de carga : 6,5 Horas\nCapacidad tanque combustible : 4,3 Litros\nSistema de arranque : Retráctil\nCapacidad deposito aceite : 350 ml"
             },
             {
-                "code": "BG3.3AiSS2-50",
+                "code": "MG3.3AiSS2-50",
                 "name": "GENERADOR DE GASOLINA INVERTER",
                 "id": "16",
                 "warranty": "12 Meses",
