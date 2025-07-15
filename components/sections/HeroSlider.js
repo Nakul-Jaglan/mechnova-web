@@ -48,15 +48,14 @@ export default function HeroSlider() {
   return (
     <div
       ref={sliderRef}
-      className="w-full h-[400px] flex overflow-x-auto scroll-smooth snap-x snap-mandatory relative"
+      className=" h-full flex overflow-x-auto scroll-smooth snap-x snap-mandatory "
       style={{scrollbarWidth: "none"}}
     >
       {infiniteImages.map((src, i) => (
         <div key={i} className="w-full flex-shrink-0 h-full relative snap-center">
-          <Image
+          <img
             src={src}
             alt={`Hero Slide ${(i % visibleCount) + 1}`}
-            fill
             style={{objectFit: 'cover'}}
             priority={i === visibleCount}
           />

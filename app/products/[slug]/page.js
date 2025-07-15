@@ -35,22 +35,31 @@ function DetailPage() {
       </header>
       <main className="bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] pb-12">
         {/* Hero banner */}
-        <div className="w-full h-64 md:h-80 relative mb-8">
-          <Image
+        <div className="relative w-full mb-10">
+          <img src="/mechnova/banner/banner-m.webp" alt="Productos" className="w-full h-full object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-r from-blue-900/80 to-transparent flex items-center">
+            <div className="px-8 md:px-20">
+              <h1 className="text-4xl md:text-6xl font-bold text-white mb-2">{product.name}</h1>
+              <p className="text-lg md:text-2xl text-blue-100">{product.description}</p>
+            </div>
+          </div>
+        </div>
+        {/* <div className="w-full mb-8">
+          <img
             src="/mechnova/banner/banner-m.webp"
             alt={product.name}
             fill
-            className="object-cover object-center"
+            className="object-cover"
             priority
           />
         </div>
         <div className="flex justify-center p-2">
           <h1 className="text-3xl md:text-5xl font-semibold text-[#0072ce] drop-shadow-lg">{product.name}</h1>
-        </div>
+        </div> */}
         {/* Product description */}
-        <div className="max-w-3xl mx-auto px-4 mb-10">
+        {/* <div className="max-w-3xl mx-auto px-4 mb-10">
           <p className="text-xl text-gray-700 text-center">{product.description}</p>
-        </div>
+        </div> */}
         {/* Models */}
         <div className="max-w-5xl mx-auto flex flex-col gap-12 px-4">
           {product.models && product.models.length > 0 ? (

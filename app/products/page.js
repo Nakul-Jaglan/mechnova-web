@@ -27,7 +27,7 @@ export default function ProdPage() {
       </header>
       <main className="bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] min-h-screen pb-12">
         {/* Hero Banner */}
-        <div className="relative h-64 md:h-80 w-full mb-10">
+        <div className="relative w-full mb-10">
           <img src="/mechnova/banner/banner-m.webp" alt="Productos" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-blue-900/80 to-transparent flex items-center">
             <div className="px-8 md:px-20">
