@@ -41,14 +41,11 @@ function DealerPage() {
         <Header />
       </header>
       <main className='bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff]'>
-        <section className="relative w-full h-96 flex items-center justify-center overflow-hidden mb-10">
-          <Image
-            width={1400}
-            height={400}
-            priority
+        <section className="relative w-full flex items-center justify-center overflow-hidden mb-10">
+          <img
             src="/mechnova/banner/banner-m.webp"
             alt="Become a Dealer Hero"
-            className="object-cover object-center"
+            className=" "
           />
         </section>
           

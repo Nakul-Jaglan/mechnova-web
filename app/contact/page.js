@@ -37,13 +37,11 @@ function ContactPage() {
       
       <main className="min-h-screen bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] pb-16">
         {/* Hero Section */}
-        <section className="relative w-full h-72 md:h-[420px] flex items-center justify-center overflow-hidden mb-12">
-          <Image
+        <section className="relative w-full flex items-center justify-center overflow-hidden mb-12">
+          <img
             src="/mechnova/banner/banner-m.webp"
             alt="Contact Us Hero"
-            fill
             className="object-cover object-center"
-            priority
           />
         </section>
 

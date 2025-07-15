@@ -57,7 +57,6 @@ export default function HeroSlider() {
             src={src}
             alt={`Hero Slide ${(i % visibleCount) + 1}`}
             style={{objectFit: 'cover'}}
-            priority={i === visibleCount}
           />
         </div>
       ))}
