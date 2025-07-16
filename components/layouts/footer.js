@@ -35,8 +35,8 @@ function Footer() {
         </div>
         <div className="max-w-xs">
             <h3 className="text-lg font-semibold mb-2">{t('footer.contact')}</h3>
-            <p className="text-gray-700">{t('footer.phone') || 'Phone'}: <Link href="tel:+919667515523" className="hover:text-[#005FA3]">+91 96675 15523</Link></p>
-            <p className="text-gray-700">{t('footer.email') || 'Email'}: <Link href="mailto:rahul@mechnovamachines.com" className="hover:text-[#005FA3]">rahul@mechnovamachines.com</Link></p>
+            <p className="text-gray-700">{t('footer.phone') || 'Phone'}: <Link href="tel:+919667043734" className="hover:text-[#005FA3]">+91 9667 043 734</Link></p>
+            <p className="text-gray-700">{t('footer.email') || 'Email'}: <Link href="mailto:info@mechnovamachines.com" className="hover:text-[#005FA3]">info@mechnovamachines.com</Link></p>
             <p className="text-gray-700">{t('footer.address') || 'Address'}: 2nd Floor, Plot No. 756, Udyog Vihar Phase V, Gurugram, Haryana 122015</p>
         </div>
       </div>
