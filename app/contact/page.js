@@ -46,7 +46,7 @@ function ContactPage() {
         </section>
 
         <div className="flex flex-col items-center justify-center text-center px-4 mb-8">
-          <div className="flex justify-between items-center w-full max-w-4xl">
+          <div className="flex justify-between items-center w-full">
             <div className="flex-1"></div>
             <h1 className="flex-1 text-4xl md:text-5xl font-extrabold text-[#0072ce] drop-shadow-lg">
               {t('contact.getInTouch')}
