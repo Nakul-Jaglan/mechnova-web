@@ -26,11 +26,11 @@
     "welcome": "Welcome to",
     "heroDescription": "Mechnova provides reliable outdoor equipment for homeowners, small farms, and retail buyers who need machines that perform well, last long, and are priced fairly. Each product is built with a clear purpose — to handle essential tasks with consistent performance, simple operation, and easy maintenance.",
     "about":{
-      "title": "Why",
-      "reason1": "Because not everyone needs premium machines.",
-      "reason2": "Some just need the job done — with a product that starts on time, runs smoothly, and doesn’t break the bank.",
-      "reason3": "Mechnova focuses on entry-level reliability: engines that start clean, trimmers that don’t stall, pumps that do the job — all at lower cost than overbuilt brands.",
-      "reason4": "No frills. Just real function, at the right price."
+      "title": "Why Choose",
+      "reason1": "When you rely on a machine, it should start without issues, run smoothly, and be easy to maintain.",
+      "reason2": "Mechnova focuses on real-world performance. We use proven components and straightforward designs — prioritizing what matters most to the user.",
+      "reason3": "This allows us to deliver strong value, without adding unnecessary cost or complexity.",
+      "reason4": "Customers choose Mechnova for dependable equipment that does its job — every day, every season."
     },
     "aboutSection": {
       "title": "About Us",
@@ -167,21 +167,21 @@
   "about": {
     "title": "About",
     "companyName": "Mechnova",
-    "heroDescription": "Mechnova is dedicated to powering progress in agriculture, gardening, and industry with reliable, innovative, and affordable machinery. Our mission is to empower communities and businesses worldwide with equipment that enhances productivity and sustainability.",
+    "heroDescription": "Mechnova develops outdoor equipment for agriculture, garden care, power backup, and general-purpose use.",
     "exploreProducts": "Explore Our Products",
     "ourStory": "Our Story",
-    "storyParagraph1": "Backed by years of experience in international trade and engineering, Mechnova brings a diverse portfolio of machines to market—including brush cutters, chainsaws, sprayers, engines, generators, pumps, and more. Our products are designed to meet the evolving needs of modern users, from small gardens to large-scale agro-industrial operations.",
-    "storyParagraph2": "We work closely with importers, wholesalers, and retailers to provide not just machines, but full-fledged business support—ensuring high-quality products, strong warranties, marketing assistance, and unmatched after-sales service.",
+    "storyParagraph1": "Our machines are designed for users who want practical performance, reliable operation, and long-term support — all at a fair price.",
+    "storyParagraph2": "We focus on:",
     "features": {
-      "performance": "High-performance, durable, and easy-to-use equipment",
-      "satisfaction": "Strong focus on customer satisfaction and support",
-      "innovation": "Commitment to innovation and sustainability",
-      "trusted": "Trusted by professionals and homeowners worldwide"
+      "performance": "Durable construction with tested reliability",
+      "satisfaction": "Practical features for daily use",
+      "innovation": "Low-maintenance designs",
+      "trusted": "Ongoing dealer and customer support"
     },
     "mission": "Mission",
-    "missionText": "To empower global communities with high-quality, affordable, and efficient machines that enhance productivity in agriculture, gardening, fumigation, and domestic applications—while building strong, long-term partnerships with our distribution network.",
+    "missionText": "To deliver dependable, easy-to-use machines that help people work more efficiently — in fields, gardens, workshops, and homes.",
     "vision": "Vision",
-    "visionText": "To revolutionize the way people work with land and machines by making powerful, easy-to-use, and reliable equipment accessible to everyone—from farmers to homeowners. We envision a world where productivity, sustainability, and progress go hand in hand, driven by innovation and trust in every Mechnova machine.",
+    "visionText": "To make reliable outdoor equipment more accessible across developing and cost-sensitive markets — by focusing on essential performance, lasting value, and long-term business relationships.",
     "whyChoose": "Why Choose Mechnova?",
     "quality": {
       "title": "Unmatched Quality",
