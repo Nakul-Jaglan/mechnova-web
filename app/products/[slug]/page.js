@@ -85,12 +85,12 @@ function DetailPage() {
                     <p className="mb-1"><span className="font-bold">Código:</span> {model.code}</p>
                     <p className="mb-1"><span className="font-bold">Garantía:</span> {model.warranty}</p>
                     <p className="whitespace-pre-line"><span className="font-bold">Especificaciones:</span> <br/> {model.specifications}</p>
-                    <span className="flex flex-col md:flex-row items-center mt-4 gap-4">
+                    <span className="flex flex-col md:flex-row items-start md:items-center mt-4 gap-4">
                       <Link href="/contact">
-                        <button className=" p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Solicitar Presupuesto</button>
+                        <button className="p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Solicitar Presupuesto</button>
                       </Link>
                       <Link href="tel:+919667515523">
-                        <button className="ml-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Llámanos</button>
+                        <button className="md:ml-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Llámanos</button>
                       </Link>
                     </span>
                   </div>
