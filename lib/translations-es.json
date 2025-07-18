@@ -20,7 +20,10 @@
     "address": "Dirección",
     "tagline": "Máquinas que se sienten como en casa. A un precio que apenas notarás.",
     "followUs": "Síguenos",
-    "allRightsReserved": "Todos los derechos reservados."
+    "allRightsReserved": "Todos los derechos reservados.",
+    "terms": "Términos y Condiciones",
+    "privacy": "Política de Privacidad",
+    "cookies": "Política de Cookies"
   },
   "home": {
     "welcome": "Bienvenido a",

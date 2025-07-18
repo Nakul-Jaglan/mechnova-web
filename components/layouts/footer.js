@@ -8,17 +8,17 @@ function Footer() {
   const { t } = useTranslation();
   return (
     <footer className="bg-[#E6F2FB] text-gray-900 py-10 ">
-      <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-8">
+      <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between sm:items-center items-start gap-8">
         <div className="text-center md:text-left">
 
-            <Link href="/" className="flex items-center space-x-2 mb-4">
+            <Link href="/" className="flex sm:items-center items-start space-x-2 mb-4">
                 <Image src="/logo.png" alt="MechNova Logo" width={280} height={40} />
             </Link>
             {/* <h2 className="text-2xl font-bold mb-2">MechNova</h2> */}
-            <p className="text-gray-800 max-w-xs">{t('footer.tagline') || 'Empowering innovation in mechanical engineering. Join us in shaping the future.'}</p>
+            <p className="text-gray-800 sm:items-center items-start max-w-xs">{t('footer.tagline') || 'Empowering innovation in mechanical engineering. Join us in shaping the future.'}</p>
         </div>
         <div>
-            <nav className="flex flex-row md:flex-row gap-4 md:gap-8 text-lg">
+            <nav className="flex flex-col sm:flex-row gap-4 md:gap-8 text-lg">
                 <Link href="/about" className="hover:text-[#005FA3] transition">{t('header.about')}</Link>
                 <Link href="/products" className="hover:text-[#005FA3] transition">{t('header.products')}</Link>
                 <Link href="/dealer" className="hover:text-[#005FA3] transition">{t('header.dealer')}</Link>
@@ -40,9 +40,22 @@ function Footer() {
             <p className="text-gray-700">{t('footer.address') || 'Address'}: 2nd Floor, Plot No. 756, Udyog Vihar Phase V, Gurugram, Haryana 122015</p>
         </div>
       </div>
-        <div className="border-t border-gray-300 mt-8 pt-4 px-4 mx-10 flex justify-center md:px-0">
-            <div className="text-center text-gray-700 text-base">
+        <div className="border-t border-gray-300 mt-8 pt-4 px-4 mx-10 flex flex-col md:flex-row justify-between items-center md:px-0">
+            <div className="hidden md:block"/>
+            <div className="hidden md:block"/>
+            <div className="text-center md:text-left text-gray-700 text-base mb-4 md:mb-0">
                 <div>© {new Date().getFullYear()} MechNova. {t('footer.allRightsReserved')}</div>
+            </div>
+            <div className="flex flex-row gap-2 sm:gap-4 text-sm text-gray-600">
+                <Link href="/privacy" className="hover:text-[#005FA3] transition">
+                    {t('footer.privacy') || 'Política de Privacidad'}
+                </Link>
+                <Link href="/terms" className="hover:text-[#005FA3] transition">
+                    {t('footer.terms') || 'Términos y Condiciones'}
+                </Link>
+                <Link href="/cookie" className="hover:text-[#005FA3] transition">
+                    {t('footer.cookies') || 'Política de Cookies'}
+                </Link>
             </div>
         </div>
     </footer>

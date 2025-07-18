@@ -47,13 +47,9 @@ function ContactPage() {
 
         <div className="flex flex-col items-center justify-center text-center px-4 mb-8">
           <div className="flex justify-between items-center w-full">
-            <div className="flex-1"></div>
             <h1 className="flex-1 text-4xl md:text-5xl font-extrabold text-[#0072ce] drop-shadow-lg">
               {t('contact.getInTouch')}
             </h1>
-            <div className="flex-1 flex justify-end">
-              {/* LanguageSwitcher removed */}
-            </div>
           </div>
         </div>
 
@@ -126,7 +122,7 @@ function ContactPage() {
             <h2 className="text-2xl font-bold text-[#0072ce] mb-2">{t('contact.contactInfo')}</h2>
             <div className="flex items-center gap-3 text-lg text-gray-800">
               <FaEnvelope className="text-[#0072ce]" />
-              <Link href="mailto:info@mechnovamachines.com" className="hover:underline">info@mechnovamachines.com</Link>
+              <Link href="mailto:info@mechnovamachines.com" className="hover:underline wrap-anywhere">info@mechnovamachines.com</Link>
             </div>
             <div className="flex items-center gap-3 text-lg text-gray-800">
               <FaPhoneAlt className="text-[#0072ce]" />

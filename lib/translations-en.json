@@ -20,7 +20,10 @@
     "address": "Address",
     "tagline": "Machine that feel right at home. At a price you barely notice",
     "followUs": "Follow Us",
-    "allRightsReserved": "All rights reserved."
+    "allRightsReserved": "All rights reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
   },
   "home": {
     "welcome": "Welcome to",

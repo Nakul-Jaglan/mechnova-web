@@ -71,13 +71,11 @@ function DetailPage() {
                   className={`flex flex-col md:flex-row items-center md:items-stretch gap-6 md:gap-12 ${idx % 2 === 1 ? "md:flex-row-reverse" : ""}`}
                 >
                   {/* Model image */}
-                  <div className="flex-shrink-0 w-full h-full md:w-1/3 flex justify-center items-center">
+                  <div className="flex-shrink-0 w-full h-full md:w-2/5 flex justify-center items-center">
                     <img
                       src={model.image}
                       alt={model.name}
-                      width={300}
-                      height={250}
-                      className="rounded-lg shadow-lg object-contain bg-white"
+                      className="rounded-lg shadow-lg bg-white"
                       onError={e => { e.target.src = product.error_image || '/about.webp'; }}
                     />
                   </div>
@@ -87,9 +85,9 @@ function DetailPage() {
                     <p className="mb-1"><span className="font-bold">Código:</span> {model.code}</p>
                     <p className="mb-1"><span className="font-bold">Garantía:</span> {model.warranty}</p>
                     <p className="whitespace-pre-line"><span className="font-bold">Especificaciones:</span> <br/> {model.specifications}</p>
-                    <span>
+                    <span className="flex flex-col md:flex-row items-center mt-4 gap-4">
                       <Link href="/contact">
-                        <button className="mt-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Solicitar Presupuesto</button>
+                        <button className=" p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Solicitar Presupuesto</button>
                       </Link>
                       <Link href="tel:+919667515523">
                         <button className="ml-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Llámanos</button>
@@ -104,7 +102,9 @@ function DetailPage() {
         </div>
         {/* Back link */}
         <div className="mt-16 flex justify-center">
-          <Link href="/products" className="text-blue-600 underline text-lg font-medium">Volver a productos</Link>
+          <Link href="/products" className="">
+            <button className="bg-[#0072ce] text-white text-xl font-medium p-4 rounded-xl cursor-pointer hover:scale-110 transition-all">Volver a productos</button>
+          </Link>
         </div>
       </main>
       <footer>
