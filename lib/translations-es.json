@@ -175,6 +175,14 @@
     "testimonialsHome": {
       "title": "Lo que Dicen Nuestros Clientes"
     },
+    "house": {
+      "fromTheHouseOf": "De la Casa de",
+      "parentCompany": "Empresa Matriz",
+      "hardwareDivision": "División de Herramientas",
+      "indianDivision": "División India", 
+      "visitWebsite": "Visitar Sitio Web",
+      "tagline": "Unidos por la innovación, impulsados por la excelencia. Nuestra familia de marcas ofrece soluciones integrales en ingeniería mecánica, herramientas y maquinaria especializada."
+    },
     "faqs": {
       "title": "Preguntas Frecuentes",
       "questions": [

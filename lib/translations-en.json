@@ -141,6 +141,14 @@
         }
       ]
     },
+    "house": {
+      "fromTheHouseOf": "From the House of",
+      "parentCompany": "Parent Company",
+      "hardwareDivision": "Hardware Division", 
+      "indianDivision": "Indian Division",
+      "visitWebsite": "Visit Website",
+      "tagline": "United by innovation, driven by excellence. Our family of brands delivers comprehensive solutions across mechanical engineering, hardware tools, and specialized machinery."
+    },
     "faqs": {
       "title": "Frequently Asked Questions",
       "questions": [
