@@ -35,7 +35,7 @@ function House() {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
             {t('home.house.fromTheHouseOf')}
-            <span className="block mt-2 text-cyan-400"> Bonhoeffer Machines</span>
+            {/* <span className="block mt-2 text-cyan-400"> Bonhoeffer Machines</span> */}
           </h2>
           <div className="w-24 h-1 bg-cyan-200 mx-auto rounded"></div>
         </div>
@@ -93,7 +93,7 @@ function House() {
 
         {/* Bottom Tagline */}
         <div className="text-center mt-16">
-          <p className="text-lg md:text-xl text-cyan-100 max-w-4xl mx-auto leading-relaxed">
+          <p className="text-lg md:text-xl text-cyan-100 max-w-5xl mx-auto leading-relaxed">
             {t('home.house.tagline')}
           </p>
         </div>

@@ -70,9 +70,9 @@ function Products() {
   }
 
   return (
-    <section className="w-full py-8 bg-[#0072ce]" id="products">
+    <section className="w-full py-8 bg-white" id="products">
       <div className="container mx-auto ">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-white">{t('home.products.title')}</h2>
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-gray-900">{t('home.products.title')}</h2>
         <div
           ref={sliderRef}
           className="overflow-x-hidden overflow-y-hidden scrollbar-hide flex gap-6"
@@ -106,7 +106,7 @@ function Products() {
       </div>
       <div className="flex justify-center mt-8">
         <Link href="/products">
-          <button className="px-8 py-3 bg-white text-[#0072ce] font-semibold rounded-full hover:scale-105 shadow transition-all text-xl border border-blue-100 cursor-pointer">
+          <button className="px-8 py-3 bg-[#0072ce] text-white font-semibold rounded-full hover:scale-105 shadow transition-all text-xl border border-blue-100 cursor-pointer">
             {t('home.products.exploreAll')}
           </button>
         </Link>

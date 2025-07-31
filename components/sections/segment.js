@@ -40,9 +40,9 @@ function Segment() {
   ];
 
   return (
-    <section className="w-full py-8 bg-[#0072ce]" id="segments">
+    <section className="w-full py-8 bg-white" id="segments">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-gray-100">
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-10 text-gray-900">
           {t('home.segments.title')}
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">

@@ -31,13 +31,13 @@ export default function HomePage() {
                 </div> */}
                 <Hero/>
             </div>
+            <House/>
             <Segment/>
             <About/>
             <Products/>
             <Industries/>
             {/* <Social/> */}
             {/* <Testimonials/> */}
-            <House/>
             <Faqs/>
             
             {/* Call to Action */}
