@@ -142,12 +142,13 @@
       ]
     },
     "house": {
-      "fromTheHouseOf": "Brands Powered by Bonhoeffer's Legacy",
-      "parentCompany": "Intensive Use",
-      "hardwareDivision": "Hardware Division", 
-      "indianDivision": "Frequently Use",
+      "heading": "Find Your Perfect Fit",
+      "subheading": "Meet the Brands Built for You",
+      "parentCompany": "Heavy-duty equipment made for toughest farms & construction sites.",
+      "hardwareDivision": "Versatile, precise tools trusted by builders and DIYers for every project.", 
+      "indianDivision": "Powerful, durable machines to handle your daily, demanding work.",
       "visitWebsite": "Visit Website",
-      "tagline": "From Mechnova's machines for light jobs to Bonhoeffer's powerhouse machines built for nonstop work, each brand serves a different kind of user. Stronwell is the steady choice for everyday pros, while Stevron brings precise and reliable power tools. Each brand is driven by shared values and a commitment to deeply understand and solve challenges at every level—because those who choose Bonhoeffer expect nothing less."
+      "tagline": "Wondering how these brands differ when they all come from the same Bonhoeffer family? Each one serves a unique purpose and audience—from the everyday home gardener to the heavy-duty industrial operator."
     },
     "faqs": {
       "title": "Frequently Asked Questions",

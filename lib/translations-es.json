@@ -176,12 +176,13 @@
       "title": "Lo que Dicen Nuestros Clientes"
     },
     "house": {
-      "fromTheHouseOf": "Marcas impulsadas por el legado de Bonhoeffer",
-      "parentCompany": "Empresa Matriz",
-      "hardwareDivision": "División de Herramientas",
-      "indianDivision": "División India", 
+      "heading": "Encuentra Tu Ajuste Perfecto",
+      "subheading": "Conoce las Marcas Construidas para Ti",
+      "parentCompany": "Equipos pesados diseñados para las granjas y sitios de construcción más exigentes.",
+      "hardwareDivision": "Herramientas versátiles y precisas de confianza para constructores y aficionados al bricolaje en cada proyecto.",
+      "indianDivision": "Máquinas potentes y duraderas para manejar su trabajo diario y exigente.",
       "visitWebsite": "Visitar Sitio Web",
-      "tagline": "Desde las máquinas de Mechnova para trabajos ligeros hasta las potentes máquinas de Bonhoeffer diseñadas para trabajar sin descanso, cada marca se dirige a un tipo de usuario diferente. Stronwell es la opción segura para los profesionales del día a día, mientras que Stevron ofrece herramientas eléctricas precisas y fiables. Cada marca se rige por valores compartidos y el compromiso de comprender en profundidad y resolver los retos a todos los niveles, porque quienes eligen Bonhoeffer no esperan menos."
+      "tagline": "¿Te preguntas en qué se diferencian estas marcas si todas pertenecen a la misma familia Bonhoeffer? Cada una tiene un propósito y un público específicos, desde el jardinero aficionado hasta el operador industrial pesado."
     },
     "faqs": {
       "title": "Preguntas Frecuentes",
