@@ -14,16 +14,16 @@ function House() {
       logo: "/logos/bon_letter.png"
     },
     {
-      name: "Mechnova Machines",
-      description: t('home.house.selfDivision'),
-      url: "https://mechnovamachines.com",
-      logo: "/logo.png"
-    },
-    {
       name: "Stronwell",
       description: t('home.house.indianDivision'), 
       url: "https://stronwell.com",
       logo: "/logos/stronwell_logo.png"
+    },
+    {
+      name: "Mechnova Machines",
+      description: t('home.house.selfDivision'),
+      url: "https://mechnovamachines.com",
+      logo: "/logo.png"
     }
   ]
 
