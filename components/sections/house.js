@@ -32,7 +32,7 @@ function House() {
       name: "Stevron Tools", 
       description: t('home.house.hardwareDivision'),
       url: "https://stevrontools.com",
-      logo: "/logos/stevron_logo.png"
+      logo: "/logos/stevron_black_logo.png"
     }
   ]
 
