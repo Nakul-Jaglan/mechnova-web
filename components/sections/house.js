@@ -11,7 +11,7 @@ function House() {
       name: "Bonhoeffer Machines",
       description: t('home.house.parentCompany'),
       url: "https://bonhoeffermachines.com",
-      logo: "/logos/bon_letter.png"
+      logo: "/logos/bonhoeffer_logo.png"
     },
     {
       name: "Stronwell",
