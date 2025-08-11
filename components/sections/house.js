@@ -11,7 +11,7 @@ function House() {
       name: "Bonhoeffer Machines",
       description: t('home.house.parentCompany'),
       url: "https://bonhoeffermachines.com",
-      logo: "/logos/bon_letter.png"
+      logo: "/logos/bonhoeffer_logo.png"
     },
     {
       name: "Stronwell",
@@ -32,7 +32,7 @@ function House() {
       name: "Stevron Tools", 
       description: t('home.house.hardwareDivision'),
       url: "https://stevrontools.com",
-      logo: "/logos/stevron_logo.png"
+      logo: "/logos/stevron_black_logo.png"
     }
   ]
 
