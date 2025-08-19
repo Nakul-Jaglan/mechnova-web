@@ -74,7 +74,7 @@ function Header() {
             <li><Link href="/products" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.products')}</Link></li>
             <li><Link href="/dealer" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.dealer')}</Link></li>
             <li><Link href="/contact" className="hover:text-[#3394E6]" onClick={() => setOpen(false)}>{t('header.contact')}</Link></li>
-            <li><Link href={"tel:+919667043734"} className="hover:text-[#3394E6] flex items-center space-x-2" onClick={() => setOpen(false)}><FaPhoneAlt /> <span>+91 9667 043 734</span></Link></li>
+            <li><Link href={"tel:+919667515523"} className="hover:text-[#3394E6] flex items-center space-x-2" onClick={() => setOpen(false)}><FaPhoneAlt /> <span>+91 9667 515 523</span></Link></li>
             <li>
               {/* Language Dropdown for mobile */}
               <LanguageDropdown />
