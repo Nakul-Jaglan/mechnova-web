@@ -126,7 +126,7 @@ function ContactPage() {
             </div>
             <div className="flex items-center gap-3 text-lg text-gray-800">
               <FaPhoneAlt className="text-[#0072ce]" />
-              <Link href="tel:+919667515523" className="hover:underline">+91 9667515523</Link>
+              <Link href="tel:+919995900918" className="hover:underline">+91 9995 900 918</Link>
             </div>
             <div className="flex items-center gap-3 text-lg text-gray-800">
               <FaWhatsapp className="text-[#25D366]" />
