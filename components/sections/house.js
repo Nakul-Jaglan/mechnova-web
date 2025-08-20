@@ -109,7 +109,7 @@ function House() {
           <div className="w-24 h-1 bg-cyan-200 mx-auto rounded"></div>
         </div>
 
-        <div className="flex justify-center items-center w-[30%] mx-auto">
+        <div className="flex justify-center items-center md:w-[50%] lg:w-[30%] mx-auto">
           {hard.map((company, index) => (
             <Link href={company.url} target='_blank' rel='noopener noreferrer' key={index}>
                 <div 
