@@ -126,11 +126,11 @@ function ContactPage() {
             </div>
             <div className="flex items-center gap-3 text-lg text-gray-800">
               <FaPhoneAlt className="text-[#0072ce]" />
-              <Link href="tel:+919667043734" className="hover:underline">+91 9667 043 734</Link>
+              <Link href="tel:+919995900918" className="hover:underline">+91 9995 900 918</Link>
             </div>
             <div className="flex items-center gap-3 text-lg text-gray-800">
               <FaWhatsapp className="text-[#25D366]" />
-              <Link href="https://wa.me/919667043734" target="_blank" rel="noopener noreferrer" className="hover:underline">+91 9667 043 734</Link>
+              <Link href="https://wa.me/919995900918" target="_blank" rel="noopener noreferrer" className="hover:underline">+91 9995 900 918</Link>
             </div>
             <div className="flex items-start gap-3 text-lg text-gray-800">
               <svg className="w-6 h-6 text-[#0072ce] mt-1" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a2 2 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z" /></svg>
@@ -139,7 +139,7 @@ function ContactPage() {
             <div className="flex gap-4 mt-2">
               <Link href="https://www.facebook.com/mechnovamachines" target="_blank" rel="noopener noreferrer" className="text-[#005FA3] text-2xl hover:scale-110 transition"><FaFacebook /></Link>
               <Link href="https://www.instagram.com/mechnovamachines/" target="_blank" rel="noopener noreferrer" className="text-[#E1306C] text-2xl hover:scale-110 transition"><FaInstagram /></Link>
-              <Link href="https://wa.me/919667043734" target="_blank" rel="noopener noreferrer" className="text-[#25D366] text-2xl hover:scale-110 transition"><FaWhatsapp /></Link>
+              <Link href="https://wa.me/919995900918" target="_blank" rel="noopener noreferrer" className="text-[#25D366] text-2xl hover:scale-110 transition"><FaWhatsapp /></Link>
             </div>
           </div>
         </section>
