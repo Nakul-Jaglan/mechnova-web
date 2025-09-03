@@ -1,0 +1,19 @@
+# Robots.txt for MechNova Web
+# Allow all crawlers to access all content
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mechnovamachines.com/sitemap.xml
+
+# Additional sitemaps (if needed)
+# Sitemap: https://mechnovamachines.com/sitemap-products.xml
+
+# Crawl delay (optional - adjust as needed)
+Crawl-delay: 1
+
+# Disallow specific paths if needed (uncomment if necessary)
+# Disallow: /api/
+# Disallow: /_next/
+# Disallow: /admin/

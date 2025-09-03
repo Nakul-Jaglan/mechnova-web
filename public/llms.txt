@@ -1,0 +1,79 @@
+# MechNova - Industrial Machinery & Equipment
+# https://mechnovamachines.com
+
+## About MechNova
+
+MechNova is a leading provider of industrial machinery and equipment, specializing in:
+
+- Gardening & Forestry Equipment (Chainsaws, Hedge Trimmers, Blowers, Lawn Mowers)
+- Fumigation & Spraying Equipment
+- Diesel Machinery (Generators, Engines, Water Pumps)
+- Domestic & Garden Tools (Electric Motors, Pressure Washers)
+- Agro-Industrial Equipment (Gasoline Tillers, Generators, Water Pumps)
+
+## Product Categories
+
+### Gardening & Forestry (Jardinería y Silvicultura)
+- Chainsaws (Motosierra)
+- Hedge Trimmers (Cortasetos)
+- Blowers (Soplador)
+- Earth Augers (Barreno de Tierra)
+- Lawn Mowers (Cortacésped)
+- Brush Cutters (Desbrozadora)
+- Multi-Tools (Multi Herramienta)
+
+### Fumigation Equipment
+- Knapsack Sprayers (Pulverizador de Mochila)
+
+### Diesel Machinery
+- Diesel Generators (Generador Diesel)
+- Diesel Engines (Motor Diesel)
+- Diesel Water Pumps (Motobomba Diesel)
+
+### Domestic & Garden
+- Electric Motors (Motor Eléctrico)
+- Pressure Washers (Hidrolavadora)
+
+### Agro-Industrial Equipment
+- Gasoline Tillers (Cultivador Gasolina)
+- Gasoline Water Pumps (Bomba de Agua Gasolina)
+- Gasoline Engines (Motor Gasolina)
+- Gasoline Generators (Generador Gasolina)
+- Gasoline Inverters (Inversor Gasolina)
+
+## Company Information
+
+MechNova serves various market segments including:
+- Agricultural sector
+- Forestry industry
+- Domestic gardening
+- Industrial applications
+- Fumigation services
+
+The company offers high-quality machinery and equipment with a focus on reliability, performance, and customer satisfaction.
+
+## Website Structure
+
+- Homepage: Product overview and company introduction
+- About: Company history, mission, and values
+- Products: Comprehensive catalog organized by categories
+- Contact: Customer service and inquiries
+- Dealer: Information for potential dealers and partners
+
+## Languages
+
+The website supports multiple languages:
+- Spanish (Primary)
+- English
+
+## Keywords
+
+Industrial machinery, agricultural equipment, chainsaws, generators, water pumps, garden tools, forestry equipment, diesel engines, gasoline engines, fumigation equipment, pressure washers, lawn mowers, hedge trimmers, brush cutters, earth augers, blowers, multi-tools, electric motors, tillers, inverters, MechNova, machinery supplier, industrial tools
+
+## Contact Information
+
+For inquiries about products, dealership opportunities, or customer support, please visit our contact page at https://mechnovamachines.com/contact
+
+## Last Updated
+
+September 3, 2025
