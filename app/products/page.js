@@ -12,7 +12,7 @@ function ProductCard({ categoryKey, productKey, product }) {
     <div className="bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-4 flex flex-col items-center text-center">
       <img src={product.image} alt={product.name} className="w-full h-40 object-contain mb-4 rounded" onError={e => e.target.src='/about.webp'} />
       <h3 className="font-bold text-lg text-gray-900 mb-2">{product.name}</h3>
-      <Link href={`/products/${productKey}`} className="mt-auto inline-block bg-[#0072ce] text-white px-4 py-2 rounded-lg font-semibold hover:bg-blue-600 transition">{t('productsPage.exploreModels')}</Link>
+      <Link href={`/products/${productKey}`} className="mt-auto inline-block bg-[#0072ce] text-white px-4 py-2 rounded-lg font-semibold hover:bg-blue-600 transition">{t('home.productsPage.exploreModels')}</Link>
     </div>
   )
 }
@@ -36,8 +36,8 @@ export default function ProdPage() {
           <img src="/mechnova/banner/banner-m.webp" alt="Productos" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-blue-900/80 to-transparent flex items-center">
             <div className="px-8 md:px-20">
-              <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">{t('productsPage.title')} <span className="bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent"></span></h1>
-              <p className="text-lg md:text-2xl text-blue-100">{t('productsPage.subtitle')}</p>
+              <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">{t('home.productsPage.title')} <span className="bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent"></span></h1>
+              <p className="text-lg md:text-2xl text-blue-100">{t('home.productsPage.subtitle')}</p>
             </div>
           </div>
         </div>
