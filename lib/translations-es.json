@@ -71,6 +71,11 @@
       "title": "Nuestros productos estrella",
       "exploreAll": "Explorar todos los Productos"
     },
+    "productsPage": {
+      "title": "Nuestros Productos",
+      "subtitle": "Descubre nuestra gama profesional",
+      "exploreModels": "Explorar Modelos"
+    },
     "industries": {
       "title": "Industrias que Servimos",
       "agriculture": {
