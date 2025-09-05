@@ -8,18 +8,38 @@
     "category": "agro-industrial",
     "hero_image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp",
     "banner_image": "/mechnova/banner/banner-m.webp",
-    "warranty": "12 meses",
-    "warrantyEn": "12 months",
-    "leaflet_images": {
-      "left": "/testing/MT900GA-208CC-LEFT.jpg",
-      "right": "/testing/MT900GA-208CC-RIGHT.jpg"
-    }, 
+    "warranty": "6 meses",
+    "warrantyEn": "6 months",
     "models": [
       {
         "code": "MT900GA-208CC",
         "name": "Motocultor de Gasolina MT900GA-208CC",
         "nameEn": "Gasoline Tiller MT900GA-208CC",
         "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+        "leaflet_image":  "/testing/MT900GA-208CC.jpg",
+        "specifications": "Motor: 208cc, 4 tiempos, gasolina\nPotencia: 7HP\nAncho de trabajo: 36 cm\nProfundidad máxima: 20 cm\nCapacidad del tanque: 3.6L\nPeso: 45 kg\nSistema de arranque: Manual retráctil",
+        "specificationsEn": "Engine: 208cc, 4-stroke, gasoline\nPower: 7HP\nWorking width: 36 cm\nMaximum depth: 20 cm\nTank capacity: 3.6L\nWeight: 45 kg\nStarting system: Manual recoil",
+        "features": [
+          "Motor de gasolina de 4 tiempos de alta eficiencia",
+          "Transmisión por correa para mayor durabilidad",
+          "Manillar ajustable para mayor comodidad",
+          "Ruedas neumáticas para fácil transporte",
+          "Fresas de acero templado para mayor resistencia"
+        ],
+        "featuresEn": [
+          "High efficiency 4-stroke gasoline engine",
+          "Belt transmission for greater durability",
+          "Adjustable handlebar for greater comfort",
+          "Pneumatic wheels for easy transport",
+          "Tempered steel tines for greater resistance"
+        ]
+      },
+      {
+        "code": "MT900G-208CC",
+        "name": "Motocultor de Gasolina MT900G-208CC",
+        "nameEn": "Gasoline Tiller MT900G-208CC",
+        "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+        "leaflet_image":  "/testing/MT900G-208CC.jpg",
         "specifications": "Motor: 208cc, 4 tiempos, gasolina\nPotencia: 7HP\nAncho de trabajo: 36 cm\nProfundidad máxima: 20 cm\nCapacidad del tanque: 3.6L\nPeso: 45 kg\nSistema de arranque: Manual retráctil",
         "specificationsEn": "Engine: 208cc, 4-stroke, gasoline\nPower: 7HP\nWorking width: 36 cm\nMaximum depth: 20 cm\nTank capacity: 3.6L\nWeight: 45 kg\nStarting system: Manual recoil",
         "features": [

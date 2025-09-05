@@ -46,7 +46,7 @@ function Header() {
         <div className="text-xl flex flex-row items-center space-x-4">
           <Link href={"tel:+919995900918"} className="hover:text-[#3394E6] flex items-center space-x-2">
             <FaPhoneAlt className="text-white sm:text-black p-2 sm:p-0 text-4xl sm:text-xl rounded-full sm:rounded-none bg-[#0072ce] sm:bg-transparent" />
-            <span className="hidden md:inline">+91 9995 900 918</span>
+            <span className="hidden md:inline">+91 9995900918</span>
           </Link>
           {/* Language Dropdown for desktop */}
           <div className="hidden sm:inline">

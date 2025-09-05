@@ -160,7 +160,7 @@ export default function ProductSlugPage() {
                         <Link href="/contact">
                           <button className="p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Solicitar Presupuesto</button>
                         </Link>
-                        <Link href="tel:+919667515523">
+                        <Link href="tel:+919995900918">
                           <button className="md:ml-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Llámanos</button>
                         </Link>
                       </span>

@@ -657,7 +657,15 @@
                 "code": "MT900GA-208CC",
                 "name": "MOTOCULTOR DE GASOLINA",
                 "id": "1", 
-                "warranty": "12 Meses",
+                "warranty": "6 Meses",
+                "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+                "specifications": "Motor : Gasolina, 4 Tiempos, 212CC\nMotocultor de Arado\nManillar Adjustable em Altura y Giro\nAncho de Corte Hasta 900 mm\nProfundidad de Arado de Hasta 100 mm\nCon Velocidad hacia Adelante y hacia Atrás\nCapacidad del Tanque de Combustible: 3,6 Litros\nTransmisión por Caja de Transmisión, com PTO\nArranque Manual Retráctil"
+            },
+            {
+                "code": "MT900G-208CC",
+                "name": "MOTOCULTOR DE GASOLINA",
+                "id": "2", 
+                "warranty": "6 Meses",
                 "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
                 "specifications": "Motor : Gasolina, 4 Tiempos, 212CC\nMotocultor de Arado\nManillar Adjustable em Altura y Giro\nAncho de Corte Hasta 900 mm\nProfundidad de Arado de Hasta 100 mm\nCon Velocidad hacia Adelante y hacia Atrás\nCapacidad del Tanque de Combustible: 3,6 Litros\nTransmisión por Caja de Transmisión, com PTO\nArranque Manual Retráctil"
             }
