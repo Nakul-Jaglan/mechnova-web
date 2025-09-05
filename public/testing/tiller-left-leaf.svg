@@ -1,0 +1,24 @@
+<!-- This is a placeholder for tiller-left-leaf.avif -->
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" fill="#f3f4f6"/>
+  <rect width="380" height="580" x="10" y="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#374151">MECHNOVA</text>
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6b7280">Gasoline Tiller MT900GA-208CC</text>
+  
+  <!-- Product Image Placeholder -->
+  <rect width="280" height="200" x="60" y="120" fill="#e5e7eb" stroke="#d1d5db" stroke-width="2"/>
+  <text x="200" y="230" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#9ca3af">Product Image</text>
+  
+  <!-- Specifications -->
+  <text x="30" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Key Specifications:</text>
+  <text x="30" y="410" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• Engine: 208cc, 4-stroke</text>
+  <text x="30" y="430" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• Power: 7HP</text>
+  <text x="30" y="450" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• Working Width: 36 cm</text>
+  <text x="30" y="470" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• Weight: 45 kg</text>
+  
+  <!-- Features -->
+  <text x="30" y="510" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">Features:</text>
+  <text x="30" y="530" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• High efficiency 4-stroke engine</text>
+  <text x="30" y="550" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• Adjustable handlebar</text>
+  <text x="30" y="570" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">• Pneumatic wheels</text>
+</svg>

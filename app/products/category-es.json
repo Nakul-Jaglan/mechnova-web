@@ -6,42 +6,49 @@
             "chainsaw":{
                 "id": "1",
                 "name": "Motosierra",
+                "detail": "no",
                 "image": "/mechnova/products/chainsaw/hero-chainsaw.webp"
             },
 
             "hedge-trimmer":{
                 "id": "2",
                 "name": "Cortasetos",
+                "detail": "no",
                 "image": "/mechnova/products/hedge-trimmer/hero-hedge-trimmer.webp"
             },
 
             "blower":{
                 "id": "3",
                 "name": "Soplador",
+                "detail": "no",
                 "image": "/mechnova/products/blower/hero-blower.webp"
             },
 
             "earth-auger":{
                 "id": "4",
                 "name": "Barreno de Tierra",
+                "detail": "no",
                 "image": "/mechnova/products/earth-auger/hero-earth-auger.webp"
             },
 
             "lawn-mower":{
                 "id": "5",
                 "name": "Cortacésped",
+                "detail": "no",
                 "image": "/mechnova/products/lawn-mower/hero-lawn-mower.webp"
             },
 
             "brushcutter":{
                 "id": "6",
                 "name": "Desbrozadora",
+                "detail": "no",
                 "image": "/mechnova/products/brushcutter/hero-brushcutter.webp"
             },
 
             "multi-tool":{
                 "id": "7",
                 "name": "Multi Herramienta",
+                "detail": "no",
                 "image": "/mechnova/products/multi-tool/hero-multi-tool.webp"
             }
         }
@@ -54,6 +61,7 @@
             "knapsack-sprayer":{
                 "id": "1",
                 "name": "Pulverizador de Mochila",
+                "detail": "no",
                 "image": "/mechnova/products/fumigation/hero-sprayer.webp"
             }
         }
@@ -66,16 +74,19 @@
             "diesel-generator":{
                 "id": "1",
                 "name": "Generador Diesel",
+                "detail": "no",
                 "image": "/mechnova/products/diesel-generator/hero-diesel-generator.webp"
             },
             "diesel-engine":{
                 "id": "2",
                 "name": "Motor Diesel",
+                "detail": "no",
                 "image": "/mechnova/products/diesel-engine/hero-diesel-engine.webp"
             },
             "diesel-water-pump":{
                 "id": "3",
                 "name": "Motobomba Diesel",
+                "detail": "no",
                 "image": "/mechnova/products/diesel-water-pump/hero-diesel-water-pump.webp"
             }
         }
@@ -88,11 +99,13 @@
             "electric-motor":{
                 "id": "1",
                 "name": "Motor Eléctrico",
+                "detail": "no",
                 "image": "/mechnova/products/electric-motors/hero-electric-motor.webp"
             },
             "pressure-washer":{
                 "id": "2",
                 "name": "Hidrolavadora",
+                "detail": "no",
                 "image": "/mechnova/products/pressure-washer/hero-pressure-washer.webp"
             }
         }
@@ -105,26 +118,31 @@
             "gasoline-tiller":{
                 "id": "1",
                 "name": "Cultivador Gasolina",
+                "detail": "yes",
                 "image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp"
             },
             "gasoline-water-pump":{
                 "id": "2",
                 "name": "Bomba de Agua Gasolina",
+                "detail": "no",
                 "image": "/mechnova/products/gasoline-water-pump/hero-gasoline-water-pump.webp"
             },
             "gasoline-engine":{
                 "id": "3",
                 "name": "Motor Gasolina",
+                "detail": "no",
                 "image": "/mechnova/products/gasoline-engine/hero-gasoline-engine.webp"
             },
             "gasoline-generator":{
                 "id": "4",
                 "name": "Generador Gasolina",
+                "detail": "no",
                 "image": "/mechnova/products/gasoline-generator/hero-gasoline-generator.webp"
             },
             "gasoline-inverter":{
                 "id": "5",
                 "name": "Inversor Gasolina",
+                "detail": "no",
                 "image": "/mechnova/products/gasoline-inverter/hero-gasoline-inverter.webp"
             }
         }

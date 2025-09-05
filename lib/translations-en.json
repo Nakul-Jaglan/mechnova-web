@@ -70,7 +70,14 @@
     "productsPage": {
       "title": "Our Products",
       "subtitle": "Discover our professional range",
-      "exploreModels": "Explore Models"
+      "exploreModels": "Explore Models",
+      "requestQuote": "Request Quote",
+      "callUs": "Call Us",
+      "specifications": "Specifications",
+      "keyFeatures": "Key Features",
+      "applications": "Applications",
+      "frequentlyAskedQuestions": "Frequently Asked Questions",
+      "backToProducts": "Back to Products"
     },
     "industries": {
       "title": "Industries We Serve",

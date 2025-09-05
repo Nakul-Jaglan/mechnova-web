@@ -74,7 +74,14 @@
     "productsPage": {
       "title": "Nuestros Productos",
       "subtitle": "Descubre nuestra gama profesional",
-      "exploreModels": "Explorar Modelos"
+      "exploreModels": "Explorar Modelos",
+      "requestQuote": "Solicitar Cotización",
+      "callUs": "Llámanos",
+      "specifications": "Especificaciones",
+      "keyFeatures": "Características Principales",
+      "applications": "Aplicaciones",
+      "frequentlyAskedQuestions": "Preguntas Frecuentes",
+      "backToProducts": "Volver a Productos"
     },
     "industries": {
       "title": "Industrias que Servimos",

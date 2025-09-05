@@ -648,6 +648,7 @@
         "id": "1",
         "name": "Motocultor de Gasolina",
         "category": "agro-industrial",
+        "detail": "yes",
         "description": "Cultivadores de gasolina para preparación de suelos",
         "hero_image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp",
         "error_image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",

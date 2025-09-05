@@ -1,0 +1,74 @@
+{
+  "gasoline-tiller": {
+    "id": "1",
+    "name": "Motocultor de Gasolina",
+    "nameEn": "Gasoline Tiller",
+    "description": "Cultivadores de gasolina para preparación de suelos",
+    "descriptionEn": "Gasoline tillers for soil preparation",
+    "category": "agro-industrial",
+    "hero_image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp",
+    "banner_image": "/mechnova/banner/banner-m.webp",
+    "warranty": "12 meses",
+    "warrantyEn": "12 months",
+    "leaflet_images": {
+      "left": "/testing/MT900GA-208CC-LEFT.jpg",
+      "right": "/testing/MT900GA-208CC-RIGHT.jpg"
+    }, 
+    "models": [
+      {
+        "code": "MT900GA-208CC",
+        "name": "Motocultor de Gasolina MT900GA-208CC",
+        "nameEn": "Gasoline Tiller MT900GA-208CC",
+        "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+        "specifications": "Motor: 208cc, 4 tiempos, gasolina\nPotencia: 7HP\nAncho de trabajo: 36 cm\nProfundidad máxima: 20 cm\nCapacidad del tanque: 3.6L\nPeso: 45 kg\nSistema de arranque: Manual retráctil",
+        "specificationsEn": "Engine: 208cc, 4-stroke, gasoline\nPower: 7HP\nWorking width: 36 cm\nMaximum depth: 20 cm\nTank capacity: 3.6L\nWeight: 45 kg\nStarting system: Manual recoil",
+        "features": [
+          "Motor de gasolina de 4 tiempos de alta eficiencia",
+          "Transmisión por correa para mayor durabilidad",
+          "Manillar ajustable para mayor comodidad",
+          "Ruedas neumáticas para fácil transporte",
+          "Fresas de acero templado para mayor resistencia"
+        ],
+        "featuresEn": [
+          "High efficiency 4-stroke gasoline engine",
+          "Belt transmission for greater durability",
+          "Adjustable handlebar for greater comfort",
+          "Pneumatic wheels for easy transport",
+          "Tempered steel tines for greater resistance"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué tipo de combustible utiliza este motocultor?",
+        "questionEn": "What type of fuel does this tiller use?",
+        "answer": "Este motocultor utiliza gasolina sin plomo de 87 octanos o superior. El motor es de 4 tiempos, por lo que NO requiere mezcla de aceite con la gasolina.",
+        "answerEn": "This tiller uses unleaded gasoline of 87 octane or higher. The engine is 4-stroke, so it does NOT require oil mixed with gasoline."
+      },
+      {
+        "question": "¿Cuál es el ancho de trabajo máximo?",
+        "questionEn": "What is the maximum working width?",
+        "answer": "El ancho de trabajo es de 36 cm, ideal para trabajos en espacios medianos y huertos familiares.",
+        "answerEn": "The working width is 36 cm, ideal for medium spaces and family gardens."
+      },
+      {
+        "question": "¿Qué mantenimiento requiere?",
+        "questionEn": "What maintenance does it require?",
+        "answer": "Mantenimiento básico incluye: cambio de aceite cada 25 horas de uso, limpieza del filtro de aire, revisión de bujías y lubricación de puntos móviles según manual del usuario.",
+        "answerEn": "Basic maintenance includes: oil change every 25 hours of use, air filter cleaning, spark plug inspection, and lubrication of moving parts according to user manual."
+      },
+      {
+        "question": "¿Incluye garantía?",
+        "questionEn": "Does it include warranty?",
+        "answer": "Sí, incluye garantía de 12 meses por defectos de fabricación. La garantía cubre motor, transmisión y componentes principales.",
+        "answerEn": "Yes, it includes a 12-month warranty for manufacturing defects. The warranty covers engine, transmission, and main components."
+      },
+      {
+        "question": "¿Es adecuado para terrenos duros?",
+        "questionEn": "Is it suitable for hard terrain?",
+        "answer": "Sí, con su motor de 7HP y fresas de acero templado, puede trabajar eficientemente en terrenos compactados y duros.",
+        "answerEn": "Yes, with its 7HP engine and tempered steel tines, it can work efficiently on compacted and hard terrain."
+      }
+    ]
+  }
+}

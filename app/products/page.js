@@ -1,7 +1,8 @@
 "use client"
 import Footer from '@/components/layouts/footer'
 import Header from '@/components/layouts/header'
-import categoryData from './category.json'
+import categoryDataEs from './category-es.json'
+import categoryDataEn from './category-en.json'
 import Link from 'next/link'
 import { useTranslation } from '@/lib/useTranslation'
 
@@ -18,7 +19,10 @@ function ProductCard({ categoryKey, productKey, product }) {
 }
 
 export default function ProdPage() {
-  const { t } = useTranslation()
+  const { t, locale } = useTranslation()
+  
+  // Conditionally load category data based on language
+  const categoryData = locale === 'en' ? categoryDataEn : categoryDataEs
   
   // Convert categoryData to array and sort by id
   const categories = Object.entries(categoryData)

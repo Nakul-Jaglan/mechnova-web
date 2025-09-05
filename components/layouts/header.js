@@ -11,7 +11,7 @@ function Header() {
   const { t } = useTranslation();
   return (
     <>
-      <div className="flex items-center justify-between p-4 bg-[#E6F2FB] text-gray-900 relative">
+      <div className="fixed flex items-center justify-between p-4 bg-[#E6F2FB] text-gray-900 w-full z-50 shadow-xl">
         <div className="flex flex-row items-center space-x-4">
           <Link href="/" >
             <Image

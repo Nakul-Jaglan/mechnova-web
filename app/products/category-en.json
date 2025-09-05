@@ -1,0 +1,140 @@
+{
+    "gardening-forestry": {
+        "id": "1",
+        "name": "Gardening and Forestry",
+        "products": {
+            "chainsaw": {
+                "id": "1",
+                "name": "Chainsaw",
+                "detail": "no",
+                "image": "/mechnova/products/chainsaw/hero-chainsaw.webp"
+            },
+            "hedge-trimmer": {
+                "id": "2",
+                "name": "Hedge Trimmer",
+                "detail": "no",
+                "image": "/mechnova/products/hedge-trimmer/hero-hedge-trimmer.webp"
+            },
+            "blower": {
+                "id": "3",
+                "name": "Blower",
+                "detail": "no",
+                "image": "/mechnova/products/blower/hero-blower.webp"
+            },
+            "earth-auger": {
+                "id": "4",
+                "name": "Earth Auger",
+                "detail": "no",
+                "image": "/mechnova/products/earth-auger/hero-earth-auger.webp"
+            },
+            "lawn-mower": {
+                "id": "5",
+                "name": "Lawn Mower",
+                "detail": "no",
+                "image": "/mechnova/products/lawn-mower/hero-lawn-mower.webp"
+            },
+            "brushcutter": {
+                "id": "6",
+                "name": "Brushcutter",
+                "detail": "no",
+                "image": "/mechnova/products/brushcutter/hero-brushcutter.webp"
+            },
+            "multi-tool": {
+                "id": "7",
+                "name": "Multi Tool",
+                "detail": "no",
+                "image": "/mechnova/products/multi-tool/hero-multi-tool.webp"
+            }
+        }
+    },
+    "fumigation": {
+        "id": "2",
+        "name": "Fumigation",
+        "products": {
+            "knapsack-sprayer": {
+                "id": "1",
+                "name": "Knapsack Sprayer",
+                "detail": "no",
+                "image": "/mechnova/products/fumigation/hero-sprayer.webp"
+            }
+        }
+    },
+    "diesel-machines": {
+        "id": "3",
+        "name": "Diesel Machines",
+        "products": {
+            "diesel-generator": {
+                "id": "1",
+                "name": "Diesel Generator",
+                "detail": "no",
+                "image": "/mechnova/products/diesel-generator/hero-diesel-generator.webp"
+            },
+            "diesel-engine": {
+                "id": "2",
+                "name": "Diesel Engine",
+                "detail": "no",
+                "image": "/mechnova/products/diesel-engine/hero-diesel-engine.webp"
+            },
+            "diesel-water-pump": {
+                "id": "3",
+                "name": "Diesel Water Pump",
+                "detail": "no",
+                "image": "/mechnova/products/diesel-water-pump/hero-diesel-water-pump.webp"
+            }
+        }
+    },
+    "domestic": {
+        "id": "4",
+        "name": "Home and Garden",
+        "products": {
+            "electric-motor": {
+                "id": "1",
+                "name": "Electric Motor",
+                "detail": "no",
+                "image": "/mechnova/products/electric-motors/hero-electric-motor.webp"
+            },
+            "pressure-washer": {
+                "id": "2",
+                "name": "Pressure Washer",
+                "detail": "no",
+                "image": "/mechnova/products/pressure-washer/hero-pressure-washer.webp"
+            }
+        }
+    },
+    "agro-industrial": {
+        "id": "5",
+        "name": "Agro-Industrial",
+        "products": {
+            "gasoline-tiller": {
+                "id": "1",
+                "name": "Gasoline Tiller",
+                "detail": "yes",
+                "image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp"
+            },
+            "gasoline-water-pump": {
+                "id": "2",
+                "name": "Gasoline Water Pump",
+                "detail": "no",
+                "image": "/mechnova/products/gasoline-water-pump/hero-gasoline-water-pump.webp"
+            },
+            "gasoline-engine": {
+                "id": "3",
+                "name": "Gasoline Engine",
+                "detail": "no",
+                "image": "/mechnova/products/gasoline-engine/hero-gasoline-engine.webp"
+            },
+            "gasoline-generator": {
+                "id": "4",
+                "name": "Gasoline Generator",
+                "detail": "no",
+                "image": "/mechnova/products/gasoline-generator/hero-gasoline-generator.webp"
+            },
+            "gasoline-inverter": {
+                "id": "5",
+                "name": "Gasoline Inverter",
+                "detail": "no",
+                "image": "/mechnova/products/gasoline-inverter/hero-gasoline-inverter.webp"
+            }
+        }
+    }
+}
