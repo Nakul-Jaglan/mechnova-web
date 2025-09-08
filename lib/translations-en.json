@@ -80,6 +80,13 @@
       "frequentlyAskedQuestions": "Frequently Asked Questions",
       "backToProducts": "Back to Products"
     },
+    "chat": {
+      "title": "MechNova Assistant",
+      "subtitle": "How can we help you?",
+      "openChat": "Open chat",
+      "needHelp": "Need help? Chat with us!",
+      "loading": "Loading chat..."
+    },
     "industries": {
       "title": "Industries We Serve",
       "agriculture": {

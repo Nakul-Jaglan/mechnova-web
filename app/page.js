@@ -24,6 +24,7 @@ export default function HomePage() {
         </header>
 
         <main>
+            <div className="block" style={{ height: '4.5em' }} aria-hidden="true" />
             {/* Language Switcher positioned over the hero section */}
             <div className="relative">
                 {/* <div className="absolute top-4 right-4 z-10">

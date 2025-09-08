@@ -41,6 +41,7 @@ function DealerPage() {
         <Header />
       </header>
       <main className='bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff]'>
+        <div className="block" style={{ height: '4.5em' }} aria-hidden="true" />
         <section className="relative w-full flex items-center justify-center overflow-hidden mb-10">
           <img
             src="/mechnova/banner/banner-m.webp"

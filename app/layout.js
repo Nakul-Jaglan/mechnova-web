@@ -1,6 +1,7 @@
 import { Exo_2 } from "next/font/google";
 import "./globals.css";
 import { TranslationProvider } from "@/lib/useTranslation";
+import ChatbaseWidget from "@/components/ChatbaseWidget";
 
 const exo2 = Exo_2({
   variable: "--font-exo-2",
@@ -71,7 +72,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={exo2.variable}>
       <body>
-        <TranslationProvider>{children}</TranslationProvider>
+        <TranslationProvider>
+          {children}
+          <ChatbaseWidget />
+        </TranslationProvider>
       </body>
     </html>
   );

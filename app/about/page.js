@@ -15,6 +15,7 @@ function AboutPage() {
         </header>
 
         <main className="bg-white min-h-screen">
+            <div className="block" style={{ height: '4.5em' }} aria-hidden="true" />
             {/* Hero Section */}
             <section className="w-full bg-white py-16 md:py-24">
                 <div className="container mx-auto px-4 flex flex-col md:flex-row items-center gap-12">

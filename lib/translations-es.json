@@ -84,6 +84,13 @@
       "frequentlyAskedQuestions": "Preguntas Frecuentes",
       "backToProducts": "Volver a Productos"
     },
+    "chat": {
+      "title": "Asistente MechNova",
+      "subtitle": "¿Cómo podemos ayudarte?",
+      "openChat": "Abrir chat",
+      "needHelp": "¿Necesitas ayuda? ¡Chatea con nosotros!",
+      "loading": "Cargando chat..."
+    },
     "industries": {
       "title": "Industrias que Servimos",
       "agriculture": {

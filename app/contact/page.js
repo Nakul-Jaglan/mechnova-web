@@ -36,6 +36,7 @@ function ContactPage() {
       </header>
       
       <main className="min-h-screen bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] pb-16">
+        <div className="block" style={{ height: '4.5em' }} aria-hidden="true" />
         {/* Hero Section */}
         <section className="relative w-full flex items-center justify-center overflow-hidden mb-12">
           <img

@@ -120,7 +120,7 @@ export default function ProductSlugPage() {
     return (
       <>
         <Header />
-        <main className="bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] pb-12">
+        <main className="bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] pb-12 ">
           {/* Hero banner */}
           <div className="relative w-full mb-10">
             <img src="/mechnova/banner/banner-m.webp" alt="Productos" className="w-full h-full object-cover" />
@@ -192,6 +192,7 @@ export default function ProductSlugPage() {
       <>
         <Header />
         <main className="bg-gradient-to-br from-[#E6F2FB] to-[#cbe7ff] min-h-screen pb-12">
+        <div className="block" style={{ height: '4.5em' }} aria-hidden="true" />
         {/* Hero Banner */}
         <div className="relative w-full mb-10">
           <img 

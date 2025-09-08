@@ -49,6 +49,7 @@ export default function ModelDetailPage() {
   return (
     <>
       <Header />
+      <div className="block" style={{ height: '4.5em' }} aria-hidden="true" />
       <main className="min-h-screen bg-gray-50">
         {/* Banner */}
         <div className="relative w-full mb-8">
