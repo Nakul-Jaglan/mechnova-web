@@ -82,7 +82,16 @@
       "keyFeatures": "Características Principales",
       "applications": "Aplicaciones",
       "frequentlyAskedQuestions": "Preguntas Frecuentes",
-      "backToProducts": "Volver a Productos"
+      "backToProducts": "Volver a Productos",
+      "productNotFound": "Producto no encontrado",
+      "productNotAvailable": "Esta información del producto no está disponible.",
+      "code": "Código:",
+      "warranty": "Garantía:",
+      "specificationsLabel": "Especificaciones:",
+      "noModelsAvailable": "No hay modelos disponibles para este producto.",
+      "backToProductsButton": "Volver a productos",
+      "availableModels": "Modelos Disponibles",
+      "chooseFromSelection": "Elige de nuestra selección de modelos profesionales"
     },
     "chat": {
       "title": "Asistente MechNova",

@@ -78,7 +78,16 @@
       "keyFeatures": "Key Features",
       "applications": "Applications",
       "frequentlyAskedQuestions": "Frequently Asked Questions",
-      "backToProducts": "Back to Products"
+      "backToProducts": "Back to Products",
+      "productNotFound": "Product not found",
+      "productNotAvailable": "This product information is not available.",
+      "code": "Code:",
+      "warranty": "Warranty:",
+      "specificationsLabel": "Specifications:",
+      "noModelsAvailable": "No models available for this product.",
+      "backToProductsButton": "Back to products",
+      "availableModels": "Available Models",
+      "chooseFromSelection": "Choose from our selection of professional models"
     },
     "chat": {
       "title": "MechNova Assistant",

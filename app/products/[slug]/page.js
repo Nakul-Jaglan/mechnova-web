@@ -102,10 +102,10 @@ export default function ProductSlugPage() {
         <main className="min-h-screen bg-gray-50 flex items-center justify-center">
           <div className="text-center">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              Producto no encontrado
+              {t('home.productsPage.productNotFound')}
             </h2>
             <p className="text-gray-600 mb-6">
-              This product information is not available.
+              {t('home.productsPage.productNotAvailable')}
             </p>
             <Link href="/products" className="text-[#0072ce] hover:text-blue-700 font-medium">
               ← {t('home.productsPage.backToProducts')}
@@ -155,28 +155,28 @@ export default function ProductSlugPage() {
                     {/* Model info */}
                     <div className="flex-1 flex flex-col justify-center bg-gray-50 rounded-lg p-6 shadow">
                       <h3 className="text-xl font-semibold text-[#0072ce] mb-2">{model.name}</h3>
-                      <p className="mb-1"><span className="font-bold">Código:</span> {model.code}</p>
-                      <p className="mb-1"><span className="font-bold">Garantía:</span> {model.warranty}</p>
-                      <p className="whitespace-pre-line"><span className="font-bold">Especificaciones:</span> <br/> {model.specifications}</p>
+                      <p className="mb-1"><span className="font-bold">{t('home.productsPage.code')}</span> {model.code}</p>
+                      <p className="mb-1"><span className="font-bold">{t('home.productsPage.warranty')}</span> {model.warranty}</p>
+                      <p className="whitespace-pre-line"><span className="font-bold">{t('home.productsPage.specificationsLabel')}</span> <br/> {model.specifications}</p>
                       <span className="flex flex-col md:flex-row items-start md:items-center mt-4 gap-4">
                         <Link href="/contact">
-                          <button className="p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Solicitar Presupuesto</button>
+                          <button className="p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">{t('home.productsPage.requestQuote')}</button>
                         </Link>
                         <Link href="tel:+919995900918">
-                          <button className="md:ml-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">Llámanos</button>
+                          <button className="md:ml-4 p-2 bg-[#0072ce] text-gray-100 text-lg rounded-lg cursor-pointer hover:bg-blue-600 hover:scale-110 transition">{t('home.productsPage.callUs')}</button>
                         </Link>
                       </span>
                     </div>
                   </div>
                 ))
             ) : (
-              <div className="text-center text-gray-500">No hay modelos disponibles para este producto.</div>
+              <div className="text-center text-gray-500">{t('home.productsPage.noModelsAvailable')}</div>
             )}
           </div>
           {/* Back link */}
           <div className="mt-16 flex justify-center">
             <Link href="/products" className="">
-              <button className="bg-[#0072ce] text-white text-xl font-medium p-4 rounded-xl cursor-pointer hover:scale-110 transition-all">Volver a productos</button>
+              <button className="bg-[#0072ce] text-white text-xl font-medium p-4 rounded-xl cursor-pointer hover:scale-110 transition-all">{t('home.productsPage.backToProductsButton')}</button>
             </Link>
           </div>
         </main>
@@ -218,10 +218,10 @@ export default function ProductSlugPage() {
         <div className="max-w-7xl mx-auto px-4 md:px-8">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold text-[#0072ce] text-center mb-2">
-              Available Models
+              {t('home.productsPage.availableModels')}
             </h2>
             <p className="text-gray-600 text-center">
-              Choose from our selection of professional models
+              {t('home.productsPage.chooseFromSelection')}
             </p>
           </div>
 
