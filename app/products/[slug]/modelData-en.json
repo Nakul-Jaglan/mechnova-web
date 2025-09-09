@@ -1,0 +1,998 @@
+{
+    "chainsaw":{
+        "id": "1",
+        "name": "Chainsaw",
+        "description": "Professional chainsaws for cutting and pruning",
+        "category": "gardening-forestry",
+        "hero_image": "/mechnova/banner/banner-m.webp",
+        "error_image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+        "models": [
+            {
+                "code": "MCS25A-10SN",
+                "name": "GASOLINE CHAINSAW",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Engine: Gasoline, 2-stroke, 25CC\nMaximum Power: 1.0HP\nGuide Bar: 10\"\nChain: 3/8\" x .050\"\nFuel Tank Capacity: ml\nOil Tank Capacity: ml\nMaximum RPM: per minute\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil"
+            },
+            {
+                "code": "MCS42A-16SN",
+                "name": "GASOLINE CHAINSAW",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Engine: Gasoline, 2-stroke, 42CC\nMaximum Power: 2.1HP\nGuide Bar: 16\"\nChain: 3/8\" x .050\"\nFuel Tank Capacity: 300 ml\nOil Tank Capacity: 210 ml\nMaximum RPM: 13000 per minute\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil"
+            },
+            {
+                "code": "MCS53A-18SN",
+                "name": "GASOLINE CHAINSAW",
+                "id": "3", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Engine: Gasoline, 2-stroke, 50.8CC\nMaximum Power: 2.8HP\nGuide Bar: 18\"\nChain: .325\"\nFuel Tank Capacity: 550 ml\nOil Tank Capacity: 260 ml\nMaximum RPM: 12500 per minute\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil"
+            },
+            {
+                "code": "MCS58A-20SN",
+                "name": "GASOLINE CHAINSAW",
+                "id": "4", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCS25A-10SN.webp",
+                "specifications": "Engine: Gasoline, 2-stroke, 54CC\nMaximum Power: 3.2HP\nGuide Bar: 18\"\nChain: .325\"\nFuel Tank Capacity: 550 ml\nOil Tank Capacity: 260 ml\nMaximum RPM: 12500 per minute\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil"
+            },
+            {
+                "code": "MCSE1500A-16SN-1",
+                "name": "ELECTRIC CHAINSAW",
+                "id": "5", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
+                "specifications": "Motor: Electric, 110V, 50/60Hz\nMaximum Power: 1500W\nGuide Bar: 16\"\nOil Tank Capacity: 120 ml\nMaximum Chain Speed: 15m/s"
+            },
+            {
+                "code": "MCSE1500A-16SN-2",
+                "name": "ELECTRIC CHAINSAW",
+                "id": "6", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
+                "specifications": "Motor: Electric, 220V, 50/60Hz\nMaximum Power: 1500W\nGuide Bar: 16\"\nOil Tank Capacity: 120 ml\nMaximum Chain Speed: 13.5m/s"
+            },
+            {
+                "code": "MCSE1800A-18SN-1",
+                "name": "ELECTRIC CHAINSAW",
+                "id": "7", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
+                "specifications": "Motor: Electric, 110V, 50/60Hz\nMaximum Power: 2000W\nGuide Bar: 18\"\nOil Tank Capacity: 120 ml\nMaximum Chain Speed: 13.5m/s"
+            },
+            {
+                "code": "MCSE2000A-18SN-2",
+                "name": "ELECTRIC CHAINSAW",
+                "id": "8", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
+                "specifications": "Motor: Electric, 220V, 60Hz\nMaximum Power: 2000W\nGuide Bar: 18\"\nOil Tank Capacity: 120 ml\nMaximum Chain Speed: 13.5m/s"
+            },
+            {
+                "code": "MCSE2500A-20SN-2",
+                "name": "ELECTRIC CHAINSAW",
+                "id": "9", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BCSE1500A-16SN-110V.webp",
+                "specifications": "Motor: Electric, 220V, 60Hz\nMaximum Power: 2500W\nGuide Bar: 20\"\nOil Tank Capacity: 120 ml\nMaximum Chain Speed: 13.5m/s"
+            },
+            {
+                "code": "MPP750A-8SN-1",
+                "name": "ELECTRIC POLE PRUNER",
+                "id": "10",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BPPE750A-8SN.webp",
+                "specifications": "Motor: Electric, 110V, 50/60Hz\nMaximum Power: 750W\nGuide Bar: 8\"\nOil Tank Capacity: 80 ml\nTotal Length: 2m to 2.8m"
+            },
+            {
+                "code": "MPP750A-8SN-2",
+                "name": "ELECTRIC POLE PRUNER",
+                "id": "11",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/chainsaw/BPPE750A-8SN.webp",
+                "specifications": "Motor: Electric, 220V, 50/60Hz\nMaximum Power: 750W\nGuide Bar: 8\"\nOil Tank Capacity: 80 ml\nTotal Length: 2m to 2.8m"
+            }
+        ]
+    },
+
+    "hedge-trimmer":{
+        "id": "2",
+        "name": "Hedge Trimmer",
+        "category": "gardening-forestry",
+        "description": "Professional hedge trimmers for gardening and landscaping",
+        "hero_image": "/mechnova/products/hedge-trimmer/hero-hedge-trimmer.webp",
+        "error_image": "/mechnova/products/hedge-trimmer/BHT600A.webp",
+        "models": [
+            {
+                "code": "MHT600A",
+                "name": "GASOLINE HEDGE TRIMMER",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/hedge-trimmer/BHT600A.webp",
+                "specifications": "Engine: 26CC, Gasoline, 2-Stroke\nMaximum Power: 1.0HP\nBlade Length: 600 mm\nDouble Action Cutting"
+            }
+        ]
+    },
+
+    "blower":{
+        "id": "3",
+        "name": "Blower",
+        "category": "gardening-forestry",
+        "description": "Powerful blowers for cleaning",
+        "hero_image": "/mechnova/products/blower/hero-blower.webp",
+        "error_image": "/mechnova/products/blower/BB43BA.webp",
+        "models": [
+            {
+                "code": "MB26A",
+                "name": "GASOLINE BLOWER",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/blower/BB26A.webp",
+                "specifications": "Engine: 25.4CC Gasoline, 2-Stroke\nMaximum Power: 1.0HP @ 7500RPM\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.45 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nAir Volume: 0.17m³/s or 612m³/hour"
+            },
+            {
+                "code": "MB43BA",
+                "name": "GASOLINE BACKPACK BLOWER",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/blower/BB43BA.webp",
+                "specifications": "Engine: 42.7CC, Gasoline, 2-Stroke\nMaximum Power: 1.7HP @ 6500RPM\nAir Volume: 0.28m³/s or 1008 m³/hour\nCarburetor Type: Diaphragm\nTank Capacity: 1 Liter\nThrottle Control: On Handle"
+            },
+            {
+                "code": "MVB26A",
+                "name": "GASOLINE BLOW-VAC",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/blower/BVB26A.webp",
+                "specifications": "Engine: 25.4CC Gasoline, 2-Stroke\nMaximum Power: 1.0HP @ 7500RPM\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.45 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nAir Volume: 0.17m³/s or 612m³/hour"
+            }
+        ]
+    },
+
+    "earth-auger":{
+        "id": "4",
+        "name": "Earth Auger",
+        "category": "gardening-forestry",
+        "description": "Earth augers for hole drilling",
+        "hero_image": "/mechnova/products/earth-auger/hero-earth-auger.webp",
+        "error_image": "/mechnova/products/earth-auger/BEA43A-200.webp",
+        "models":[
+            {
+                "code": "MEA43A-200",
+                "name": "GASOLINE EARTH AUGER",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/earth-auger/BEA43A-200.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 43CC, 1.7HP\nOne Operator\nWith single drill 200 mm diameter"
+            },
+            {
+                "code": "MEA52A-200",
+                "name": "GASOLINE EARTH AUGER",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/earth-auger/BEA52A-200.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 52CC, 2.0HP\nOne Operator\nWith single drill 200 mm diameter"
+            }
+        ]
+    },
+
+    "lawn-mower":{
+        "id": "5",
+        "name": "Lawn Mower",
+        "category": "gardening-forestry",
+        "description": "Professional lawn mowers for lawn maintenance",
+        "hero_image": "/mechnova/products/lawn-mower/hero-lawn-mower.webp",
+        "error_image": "/mechnova/products/lawn-mower/BLME320RA-1.webp",
+        "models": [
+            {
+                "code": "MLME320RA-1",
+                "name": "ELECTRIC LAWN MOWER",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLME320RA-1.webp",
+                "specifications": "Drive Type: Manual\nVoltage: 110V - 50/60Hz\nElectric motor 1200W maximum power\nDischarge Function: Rear with Pick-Up\nHandle: Standard\nFront Cover: No"
+            },
+            {
+                "code": "MLME320RA-2",
+                "name": "ELECTRIC LAWN MOWER",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLME320RA-2.webp",
+                "specifications": "Drive Type: Manual\nVoltage: 220V - 50/60Hz\nElectric motor 1200W maximum power\nDischarge Function: Rear with Pick-Up\nHandle: Standard\nFront Cover: No"
+            },
+            {
+                "code": "MLM430RA",
+                "name": "GASOLINE LAWN MOWER",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLM430RA.webp",
+                "specifications": "Drive Type: Manual\nDischarge Function: 2 in 1 Rear and Pick-Up\nHandle: Standard\nFront Cover: No\nDeck Cleaning Attachment: No"
+            },
+            {
+                "code": "MLM430RTA",
+                "name": "GASOLINE LAWN MOWER",
+                "id": "4", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLM430RTA.webp",
+                "specifications": "Drive Type: Manual\nDischarge Function: 4 in 1 Rear, Side, Collection, Mulching\nHandle: Rubber Grip\nFront Cover: Yes\nDeck Cleaning Attachment: Yes"
+            },
+            {
+                "code": "MLM530RA",
+                "name": "GASOLINE LAWN MOWER",
+                "id": "5", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLM530RTA.webp",
+                "specifications": "Engine: 166CC Gasoline\nCutting Width: 21\"\nCutting Height: 30-80mm (6 Central Adjustment Options)\nDischarge Options: Rear Discharge, Collection, Side Discharge and Mulching 4 in 1\nCollection Capacity: 70 Liters\nPropulsion Type: Manual\nHandlebar: Rubber Handlebar\nWheels: Front 8\" and Rear 10\""
+            },
+            {
+                "code": "MLM530RTA",
+                "name": "GASOLINE LAWN MOWER",
+                "id": "6", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLM530RTA.webp",
+                "specifications": "Engine: 166CC Gasoline\nCutting Width: 21\"\nCutting Height: 20-80mm (8 Central Adjustment Options)\nDischarge Options: Rear Discharge, Collection, Side Discharge and Mulching\nCollection Capacity: 70 Liters\nPropulsion Type: Self-Propelled\nHandlebar: Rubber Handlebar\nWheels: Front 8\" and Rear 10\""
+            },
+            {
+                "code": "MLM560RA",
+                "name": "GASOLINE LAWN MOWER",
+                "id": "7",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLM560RA.webp",
+                "specifications": "Engine: 166CC Gasoline\nCutting Width: 22\"\nCutting Height: 25-75mm (7 Central Adjustment Options)\nDischarge Options: Rear Discharge, Collection, Side Discharge and Mulching\nCollection Capacity: 65 Liters\nPropulsion Type: Manual\nHandlebar: Rubber Handlebar\nWheels: Front 8\" and Rear 10\"" 
+            },
+            {
+                "code": "MLM560RTA",
+                "name": "GASOLINE LAWN MOWER",
+                "id": "8", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/lawn-mower/BLM560RTA.webp",
+                "specifications": "Engine: 166CC Gasoline\nCutting Width: 22\"\nCutting Height: 25-75mm (7 Central Adjustment Options)\nDischarge Options: Rear Discharge, Collection, Side Discharge and Mulching\nCollection Capacity: 65 Liters\nPropulsion Type: Self-Propelled\nHandlebar: Rubber Handlebar\nWheels: Front 8\" and Rear 10\""
+            }
+        ]
+    },
+
+    "brushcutter":{
+        "id": "6",
+        "name": "Brush Cutter",
+        "category": "gardening-forestry",
+        "description": "Professional brush cutters for vegetation management",
+        "hero_image": "/mechnova/products/brushcutter/hero-brushcutter.webp",
+        "error_image": "/mechnova/products/brushcutter/BBC26DA.webp",
+        "models": [
+            {
+                "code": "MBC26DA",
+                "name": "GASOLINE BRUSH CUTTER",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBC26DA.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 25.4CC\nMaximum Power: 1.0HP\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.7 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nShaft Diameter: 26 mm\nD-Handle"
+            },
+            {
+                "code": "MBC33DA",
+                "name": "GASOLINE BRUSH CUTTER",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBC33DA.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 33.0CC\nMaximum Power: 1.3HP\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.7 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nShaft Diameter: 26 mm\nD-Handle"
+            },
+            {
+                "code": "MBC43A",
+                "name": "GASOLINE BRUSH CUTTER",
+                "id": "3", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBC43A.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 42.7CC\nMaximum Power: 1.7HP\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.8 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nShaft Diameter: 26mm\nErgonomic Split Handlebar"
+            },
+            {
+                "code": "MBC52A",
+                "name": "GASOLINE BRUSH CUTTER",
+                "id": "4", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBC52A.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 51.6CC\nMaximum Power: 2.0HP\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.8 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nShaft Diameter: 26mm\nErgonomic Split Handlebar"
+            },
+            {
+                "code": "MBC26MTA",
+                "name": "MULTI-FUNCTION GASOLINE BRUSH CUTTER",
+                "id": "5", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBC26MTA.webp",
+                "specifications": "Engine: Gasoline, 2-Stroke, 26CC\nMaximum Power: 1.0HP\nFuel Mix: 40:1 for Synthetic Oil and 25:1 for Mineral Oil\nTank Capacity: 0.7 Liters\nCarburetor: Diaphragm\nReinforced Exhaust\nStarting Type: Manual Recoil\nShaft Diameter: 26mm\nErgonomic D-Handle"
+            },
+            {
+                "code": "MBCE1000DA-1",
+                "name": "ELECTRIC BRUSH CUTTER",
+                "id": "6", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBCE1000DA-1.webp",
+                "specifications": "Motor: Electric 110V, 60Hz\nMaximum Power: 1.0kW\nLoop D-Handle\nSteel shaft, split design"
+            },
+            {
+                "code": "MBCE1000DA-2",
+                "name": "ELECTRIC BRUSH CUTTER",
+                "id": "7", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/brushcutter/BBCE1000DA-2.webp",
+                "specifications": "Motor: Electric 220V, 60Hz\nMaximum Power: 1.4kW\nLoop D-Handle\nSteel shaft, split design"
+            }
+        ]
+    },
+
+    "multi-tool":{
+        "id": "7",
+        "name": "Multi Tool",
+        "category": "gardening-forestry",
+        "description": "Multifunctional tool for gardening",
+        "hero_image": "/mechnova/products/multi-tool/hero-multi-tool.webp",
+        "models": []
+    },
+
+    "knapsack-sprayer":{
+        "id": "1",
+        "name": "Knapsack Sprayer",
+        "category": "fumigation",
+        "description": "Professional sprayers for fumigation and pest control",
+        "hero_image": "/mechnova/products/fumigation/hero-sprayer.webp",
+        "error_image": "/mechnova/products/fumigation/BS26BA.webp",
+        "models": [
+            {
+                "code": "MS26BA",
+                "name": "GASOLINE BACKPACK SPRAYER WITH BRASS PUMP",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/fumigation/BS26BA.webp",
+                "specifications": "Engine: 25.4CC Gasoline, 2-stroke\nMaximum Power: 1.0HP\nFuel tank capacity: 0.6 liters\nTank capacity: 25 liters\nWorking pressure: 215-355 PSI\nSpray volume: 5-8 (Liters/min)\nPump type: High pressure plunger pump\nPump material: Brass\nStarting system: Recoil"
+            },
+            {
+                "code": "MSBE18VBA-20",
+                "name": "CORDLESS BACKPACK SPRAYER",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/fumigation/BSBE18VBA-20.webp",
+                "specifications": "Battery: 18V Lithium-Ion - 4.0Ah\nCharger: 110~220V\nTank capacity: 20 liters\nSpray volume: 2.8 (Liters/min)\nPump type: Automatic pump"
+            }
+        ]
+    },
+
+    "diesel-generator":{
+        "id": "1",
+        "name": "Diesel Generator",
+        "category": "diesel-machines",
+        "description": "Diesel generators for industrial and commercial applications",
+        "hero_image": "/mechnova/products/diesel-generator/hero-diesel-generator.webp",
+        "error_image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+        "models": [
+            {
+                "code": "MDG2.0ASD-60",
+                "name": "DIESEL GENERATOR",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+                "specifications": "Maximum power: 2.0 kVA\nRated power: 1.8 kVA\nStator coil: 100% Copper\nVoltage: 110V/220V Dual Voltage - 60Hz\nEngine: 211cc, 5HP, Diesel, 4-Stroke\nRuntime at 50% load: 10 Hours\nFuel tank capacity: 11.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 750 ml"
+            },
+            {
+                "code": "MD1.7ASD-50",
+                "name": "DIESEL GENERATOR",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+                "specifications": "Maximum power: 1.7 kVA\nRated power: 1.5 kVA\nStator coil: 100% Copper\nVoltage: 110V/220V Dual Voltage - 50Hz\nEngine: 211cc, 5HP, Diesel, 4-Stroke\nRuntime at 50% load: 10 Hours\nFuel tank capacity: 11.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 750 ml"
+            },
+            {
+                "code": "MDG4.2ASD-60",
+                "name": "DIESEL GENERATOR",
+                "id": "3", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+                "specifications": "Maximum power: 4.2 kVA\nRated power: 3.8 kVA\nStator coil: 100% Copper\nVoltage: 110V/220V Dual Voltage - 60Hz\nEngine: 406cc, 10HP, Diesel, 4-Stroke\nRuntime at 50% load: 8 Hours\nFuel tank capacity: 11.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1.65 Liters"
+            },
+            {
+                "code": "MDG3.6ASD-50",
+                "name": "DIESEL GENERATOR",
+                "id": "4", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+                "specifications": "Maximum power: 3.6 kVA\nRated power: 3.4 kVA\nStator coil: 100% Copper\nVoltage: 110V/220V Dual Voltage - 50Hz\nEngine: 406cc, 10HP, Diesel, 4-Stroke\nRuntime at 50% load: 8 Hours\nFuel tank capacity: 11.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1.65 Liters"
+            },
+            {
+                "code": "MDG6.0ASD-60",
+                "name": "DIESEL GENERATOR",
+                "id": "5", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+                "specifications": "Maximum power: 6.0 kVA\nRated power: 5.5 kVA\nStator coil: 100% Copper\nVoltage: 110V/220V Dual Voltage - 60Hz\nEngine: 456cc, 13HP, Diesel, 4-Stroke\nRuntime at 50% load: 6 Hours\nFuel tank capacity: 11.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1.65 Liters"
+            },
+            {
+                "code": "MDG5.5ASD-50",
+                "name": "DIESEL GENERATOR",
+                "id": "6", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-generator/BDG2.0ASD-60.webp",
+                "specifications": "Maximum power: 5.5 kVA\nRated power: 5.0 kVA\nStator coil: 100% Copper\nVoltage: 110V/220V Dual Voltage - 50Hz\nEngine: 456cc, 13HP, Diesel, 4-Stroke\nRuntime at 50% load: 6 Hours\nFuel tank capacity: 11.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1.65 Liters"
+            }
+        ]
+    },
+
+    "diesel-engine":{
+        "id": "2",
+        "name": "Diesel Engine",
+        "category": "diesel-machines",
+        "description": "Powerful and reliable diesel engines for high-demand applications",
+        "hero_image": "/mechnova/products/diesel-engine/hero-diesel-engine.webp",
+        "error_image": "/mechnova/products/diesel-engine/BDE50A.webp",
+        "models": [
+            {
+                "code": "MDE50A",
+                "name": "DIESEL ENGINE",
+                "id": "1", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-engine/BDE50A.webp",
+                "specifications": "Engine: 211cc, 4-Stroke\nCooling system: Air\nCylinder diameter: 70 mm\nRated power: 2.8kW / 3.75HP\nMaximum power: 3.3kW / 4.5HP\nFuel tank capacity: 2.5 Liters\nOil reservoir capacity: 750 ml\nStarting system: Manual Recoil\nManual Start"
+            },
+            {
+                "code": "MDE70A",
+                "name": "DIESEL ENGINE",
+                "id": "2", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-engine/BDE70A.webp",
+                "specifications": "Engine: 296cc, 4-Stroke\nCooling system: Air\nCylinder diameter: 78 mm\nRated power: 4.0kW / 5.4HP\nMaximum power: 4.8kW / 6.5HP\nFuel tank capacity: 3.5 Liters\nOil reservoir capacity: 1100 ml\nStarting system: Manual Recoil\nManual Start"
+            },
+            {
+                "code": "MDE100A",
+                "name": "DIESEL ENGINE",
+                "id": "3", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-engine/BDE100A.webp",
+                "specifications": "Engine: 456cc, 4-Stroke\nCooling system: Air\nCylinder diameter: 88 mm\nRated power: 6.9kW / 9.3HP\nMaximum power: 7.8kW / 10.5HP\nFuel tank capacity: 5.5 Liters\nOil reservoir capacity: 1650 ml\nStarting system: Manual Recoil\nManual Start"
+            },
+            {
+                "code": "MDE100EA",
+                "name": "DIESEL ENGINE",
+                "id": "3", 
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-engine/BDE100EA.webp",
+                "specifications": "Engine: 456cc, 4-Stroke\nCooling system: Air\nCylinder diameter: 88 mm\nRated power: 6.9kW / 9.3HP\nMaximum power: 7.8kW / 10.5HP\nFuel tank capacity: 5.5 Liters\nOil reservoir capacity: 1650 ml\nStarting system: Electric / Manual Recoil\nElectric Start"
+            }
+        ]
+    },
+
+    "diesel-water-pump":{
+        "id": "3",
+        "name": "Diesel Water Pump",
+        "category": "diesel-machines",
+        "description": "Diesel water pumps for irrigation and drainage",
+        "hero_image": "/mechnova/products/diesel-water-pump/hero-diesel-water-pump.webp",
+        "error_image": "/mechnova/products/diesel-water-pump/BDWP2x2SA.webp",
+        "models": [
+            {
+                "code": "MDWP2x2SA",
+                "name": "DIESEL WATER PUMP",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-water-pump/BDWP2x2SA.webp",
+                "specifications": "Pump type: Self-priming\nEngine: Diesel, 211cc\nStarting system: Recoil\nMaximum pumping capacity: 22000 liters per hour\nSuction and discharge diameter: 2 inches x 2 inches\nTotal lift: 15 Meters\nSuction height: 7 Meters\nFuel tank size: 2.5 Liters\nManual Start"
+            },
+            {
+                "code": "MDWP3x3SA",
+                "name": "DIESEL WATER PUMP",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-water-pump/BDWP3x3SA.webp",
+                "specifications": "Pump type: Self-priming\nEngine: Diesel, 296cc\nStarting system: Recoil\nMaximum pumping capacity: 35000 liters per hour\nSuction and discharge diameter: 3 inches x 3 inches\nTotal lift: 17 Meters\nSuction height: 7 Meters\nFuel tank size: 3.5 Liters\nManual Start"
+            },
+            {
+                "code": "MDWP2x2CA",
+                "name": "DIESEL WATER PUMP",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/diesel-water-pump/BDWP2x2CA.webp",
+                "specifications": "Pump type: Self-priming\nEngine: Diesel, 396cc\nStarting system: Recoil\nMaximum pumping capacity: 25000 liters per hour\nSuction and discharge diameter: 2 inches x 2 inches\nTotal lift: 70 Meters\nSuction height: 5 Meters\nFuel tank size: 3.5 Liters\nManual start"
+            }
+        ]
+    },
+
+    "electric-motor":{
+        "id": "1",
+        "name": "Electric Motor",
+        "category": "domestic",
+        "description": "Electric motors for domestic and industrial use",
+        "hero_image": "/mechnova/products/electric-motors/hero-electric-motor.webp",
+        "error_image": "/mechnova/products/electric-motors/BEE10HA-DS60.webp",
+        "models": [
+            {
+                "code": "MEE10HA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE10HA-DS60.webp",
+                "specifications": "Power: 1.0HP / 0.75kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n2 poles - high speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE15HA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE15HA-DS60.webp",
+                "specifications": "Power: 1.5HP / 1.1kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n2 poles - high speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE20HA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE20HA-DS60.webp",
+                "specifications": "Power: 2.0HP / 1.5kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n2 poles - high speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE30HA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "4",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE30HA-DS60.webp",
+                "specifications": "Power: 3.0HP / 2.2kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n2 poles - high speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE40HA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "5",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE40HA-DS60.webp",
+                "specifications": "Power: 4.0HP / 3.0kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n2 poles - high speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE10LA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "6",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE10LA-DS60.webp",
+                "specifications": "Power: 1.0HP / 0.75kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n4 poles - low speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE15LA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "7",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE15LA-DS60.webp",
+                "specifications": "Power: 1.5HP / 1.1kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n4 poles - low speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE20LA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "8",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE20LA-DS60.webp",
+                "specifications": "Power: 2.0HP / 1.5kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n4 poles - low speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE30LA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "9",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE30LA-DS60.webp",
+                "specifications": "Power: 3.0HP / 2.2kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n4 poles - low speed\nCopper wound\nMedium starting torque"
+            },
+            {
+                "code": "MEE40LA-DS60",
+                "name": "ELECTRIC MOTOR",
+                "id": "10",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/electric-motors/BEE40LA-DS60.webp",
+                "specifications": "Power: 4.0HP / 3.0kW\nVoltage: 110 / 220V - 60Hz\nSingle phase\n4 poles - low speed\nCopper wound\nMedium starting torque"
+            }
+        ]
+    },
+
+    "pressure-washer":{
+        "id": "2",
+        "name": "Electric Pressure Washer",
+        "category": "domestic",
+        "description": "Electric pressure washers for high-pressure cleaning",
+        "hero_image": "/mechnova/products/pressure-washer/hero-pressure-washer.webp",
+        "error_image": "/mechnova/products/pressure-washer/BEPW1450A1.webp",
+        "models": [
+            {
+                "code": "MEPW1450A1",
+                "name": "ELECTRIC PRESSURE WASHER",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/pressure-washer/BEPW1450A1.webp",
+                "specifications": "Motor: 1200W - 110V - 50/60Hz - brush motor\nRated pressure: 65Bar\nMax pressure: 100Bar\nRated flow: 5.5 l/min"
+            },
+            {
+                "code": "MEPW1450A2",
+                "name": "ELECTRIC PRESSURE WASHER",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/pressure-washer/BEPW1450A2.webp",
+                "specifications": "Motor: 1200W - 220V - 50/60Hz - brush motor\nRated pressure: 65Bar\nMax pressure: 100Bar\nRated flow: 5.5 l/min"
+            },
+            {
+                "code": "MEPW1850A1",
+                "name": "ELECTRIC PRESSURE WASHER",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/pressure-washer/BEPW1850A1.webp",
+                "specifications": "Motor: 1500W - 110V - 50/60Hz - brush motor\nRated pressure: 90Bar\nMax pressure: 130Bar\nRated flow: 5.5 l/min"
+            },
+            {
+                "code": "MEPW1850A2",
+                "name": "ELECTRIC PRESSURE WASHER",
+                "id": "4",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/pressure-washer/BEPW1850A2.webp",
+                "specifications": "Motor: 1500W - 220V - 50/60Hz - brush motor\nRated pressure: 90Bar\nMax pressure: 130Bar\nRated flow: 5.5 l/min"
+            },
+            {
+                "code": "MEPW2185A-1",
+                "name": "ELECTRIC PRESSURE WASHER",
+                "id": "5",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/pressure-washer/BEPW2185A-1.webp",
+                "specifications": "Motor: 1800W - 110V - 50/60Hz - brush motor\nRated pressure: 110Bar\nMax pressure: 150Bar\nRated flow: 6.0 l/min"
+            },
+            {
+                "code": "MEPW2185A-2",
+                "name": "ELECTRIC PRESSURE WASHER",
+                "id": "6",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/pressure-washer/BEPW2185A-2.webp",
+                "specifications": "Motor: 1800W - 220V - 60Hz - Brush type\nRated pressure: 110Bar\nMax pressure: 150Bar\nRated flow: 6.0 l/min"
+            }
+        ]
+    },
+
+    "gasoline-tiller":{
+        "id": "1",
+        "name": "Gasoline Tiller",
+        "category": "agro-industrial",
+        "detail": "yes",
+        "description": "Gasoline tillers for soil preparation",
+        "hero_image": "/mechnova/products/gasoline-tiller/hero-gasoline-tiller.webp",
+        "error_image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+        "models": [
+            {
+                "code": "MT900GA-208CC",
+                "name": "GASOLINE TILLER",
+                "id": "1", 
+                "warranty": "6 Months",
+                "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+                "specifications": "Engine: Gasoline, 4-Stroke, 212CC\nTillage Cultivator\nHandlebar Adjustable in Height and Rotation\nCutting Width Up to 900 mm\nTillage Depth Up to 100 mm\nWith Forward and Reverse Speed\nFuel Tank Capacity: 3.6 Liters\nTransmission by Gearbox, with PTO\nManual Recoil Start"
+            },
+            {
+                "code": "MT900G-208CC",
+                "name": "GASOLINE TILLER",
+                "id": "2", 
+                "warranty": "6 Months",
+                "image": "/mechnova/products/gasoline-tiller/BT900GA-208CC.webp",
+                "specifications": "Engine: Gasoline, 4-Stroke, 212CC\nTillage Cultivator\nHandlebar Adjustable in Height and Rotation\nCutting Width Up to 900 mm\nTillage Depth Up to 100 mm\nWith Forward and Reverse Speed\nFuel Tank Capacity: 3.6 Liters\nTransmission by Gearbox, with PTO\nManual Recoil Start"
+            }
+        ]
+    },
+
+    "gasoline-water-pump":{
+        "id": "2",
+        "name": "Gasoline Water Pump",
+        "category": "agro-industrial",
+        "description": "Gasoline water pumps for irrigation and drainage",
+        "hero_image": "/mechnova/products/gasoline-water-pump/hero-gasoline-water-pump.webp",
+        "error_image": "/mechnova/products/gasoline-water-pump/waterpump.webp",
+        "models": [
+            {
+                "code": "MWP1x1STA",
+                "name": "GASOLINE WATER PUMP",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-water-pump/BWP1x1STA.webp",
+                "specifications": "Pump type: Self-priming\nMaximum power: 1.3 HP, 2-stroke\nStarting system: Recoil\nMaximum pumping capacity: 8000 liters per hour\nSuction diameter: 1 inch\nDischarge diameter: 1 inch\nTotal lift: 30 Meters\nSuction height: 8 Meters\nFuel tank size: 0.95 Liters"
+            },
+            {
+                "code": "MWP1.5x1.5STA",
+                "name": "GASOLINE WATER PUMP",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-water-pump/BWP1.5x1.5STA.webp",
+                "specifications": "Pump type: Self-priming\nMaximum power: 1.7 HP, 2-stroke\nStarting system: Recoil\nMaximum pumping capacity: 12000 liters per hour\nSuction diameter: 1.5 inches\nDischarge diameter: 1.5 inches\nTotal lift: 35 Meters\nSuction height: 8 Meters\nFuel tank size: 1.2 Liters"
+            },
+            {
+                "code": "MWP1.5x1.5SA",
+                "name": "GASOLINE WATER PUMP",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-water-pump/BWP1.5x1.5SA.webp",
+                "specifications": "Pump type: Self-priming\nMaximum power: 4.0 HP\nStarting system: Recoil\nMaximum pumping capacity: 15000 liters per hour\nSuction diameter: 1.5 inches\nDischarge diameter: 4.5 inches\nTotal lift: 26 Meters\nSuction height: 6 Meters\nFuel tank size: 2.0 Liters"
+            },
+            {
+                "code": "MWP2x2SA",
+                "name": "GASOLINE WATER PUMP",
+                "id": "4",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-water-pump/BWP2x2SA.webp",
+                "specifications": "Pump type: Self-priming\nMaximum power: 7.0 HP\nStarting system: Recoil\nMaximum pumping capacity: 30000 liters per hour\nSuction diameter: 2 inches\nDischarge diameter: 2 inches\nTotal lift: 30 Meters\nSuction height: 8 Meters\nFuel tank size: 3.6 Liters"
+            },
+            {
+                "code": "MWP3x3SA",
+                "name": "GASOLINE WATER PUMP",
+                "id": "5",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-water-pump/BWP3x3SA.webp",
+                "specifications": "Pump type: Self-priming\nMaximum power: 7.0 HP\nStarting system: Recoil\nMaximum pumping capacity: 55000 liters per hour\nSuction diameter: 3 inches\nDischarge diameter: 3 inches\nTotal lift: 28 Meters\nSuction height: 8 Meters\nFuel tank size: 3.6 Liters"
+            }
+        ]
+    },
+
+    "gasoline-engine":{
+        "id": "3",
+        "name": "Gasoline Engine",
+        "category": "agro-industrial",
+        "description": "Gasoline engines for agricultural and industrial applications",
+        "hero_image": "/mechnova/products/gasoline-engine/hero-gasoline-engine.webp",
+        "error_image": "/mechnova/products/gasoline-engine/BE40A.webp",
+        "models": [
+            {
+                "code": "ME40A",
+                "name": "GASOLINE ENGINE",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-engine/BE40A.webp",
+                "specifications": "Engine: 4.0 HP, 4-Stroke, 113cc\nTechnology: OHV, Overhead Valves\nCooling system: Air\nCylinder diameter: 60*40 mm\nMaximum power: 4 HP\nFuel tank capacity: 2.0 Liters\nOil reservoir capacity: 350 ml\nStarting system: Recoil"
+            },
+            {
+                "code": "ME70A",
+                "name": "GASOLINE ENGINE",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-engine/BE70A.webp",
+                "specifications": "Engine: 7.0 HP, 4-Stroke, 210cc\nTechnology: OHV, Overhead Valves\nCooling system: Air\nCylinder diameter: 70*54 mm\nMaximum power: 7 HP\nFuel tank capacity: 3.6 Liters\nOil reservoir capacity: 600 ml\nStarting system: Recoil"
+            }
+        ]
+    },
+    
+    "gasoline-generator": {
+        "id": "4",
+        "name": "Gasoline Generator",
+        "category": "agro-industrial",
+        "description": "Gasoline generators for domestic and industrial use",
+        "hero_image": "/mechnova/products/gasoline-generator/hero-gasoline-generator.webp",
+        "error_image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
+        "models": [
+            {
+                "code": "MG1.2AS1-60",
+                "name": "GASOLINE GENERATOR",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
+                "specifications": "Maximum power: 1.2 KW\nNominal power: 1.1 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 113cc - 4HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 9.6 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG1.2AS2-60",
+                "name": "GASOLINE GENERATOR",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
+                "specifications": "Maximum power: 1.2 KW\nNominal power: 1.1 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 113cc - 4HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 9.6 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG1.0AS1-50",
+                "name": "GASOLINE GENERATOR",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
+                "specifications": "Maximum power: 1.0 KW\nNominal power: 0.9 KW\nStator coil: 100% Copper\nVoltage: 110V - 50Hz\nEngine: 113cc - 4HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 9.6 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG1.0AS2-50",
+                "name": "GASOLINE GENERATOR",
+                "id": "4",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG1.2AS1-60.webp",
+                "specifications": "Maximum power: 1.0 KW\nNominal power: 0.9 KW\nStator coil: 100% Copper\nVoltage: 220V - 50Hz\nEngine: 113cc - 4HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 9.6 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG3.0AS1-60",
+                "name": "GASOLINE GENERATOR",
+                "id": "5",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 3.0 KW\nNominal power: 2.8 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG3.0AS2-60",
+                "name": "GASOLINE GENERATOR",
+                "id": "6",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 3.0 KW\nNominal power: 2.8 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG2.7AS1-50",
+                "name": "GASOLINE GENERATOR",
+                "id": "7",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 2.7 KW\nNominal power: 2.5 KW\nStator coil: 100% Copper\nVoltage: 110V - 50Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG2.7AS2-50",
+                "name": "GASOLINE GENERATOR",
+                "id": "8",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 2.7 KW\nNominal power: 2.5 KW\nStator coil: 100% Copper\nVoltage: 220V - 50Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG6.5AS1-60",
+                "name": "GASOLINE GENERATOR",
+                "id": "9",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 6.5 KW\nNominal power: 6.0 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 420cc - 15HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 25.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1100 ml"
+            },
+            {
+                "code": "MG6.5AS2-60",
+                "name": "GASOLINE GENERATOR",
+                "id": "10",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 6.5 KW\nNominal power: 6.0 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 420cc - 15HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 25.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1100 ml"
+            },
+            {
+                "code": "MG5.8AS1-50",
+                "name": "GASOLINE GENERATOR",
+                "id": "11",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 5.8 KW\nNominal power: 5.4 KW\nStator coil: 100% Copper\nVoltage: 110V - 50Hz\nEngine: 420cc - 15HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 25.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1100 ml"
+            },
+            {
+                "code": "MG5.8AS2-50",
+                "name": "GASOLINE GENERATOR",
+                "id": "12",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-generator/BG3.0AS1-60.webp",
+                "specifications": "Maximum power: 5.8 KW\nNominal power: 5.4 KW\nStator coil: 100% Copper\nVoltage: 220V - 50Hz\nEngine: 420cc - 15HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 12 Hours\nFuel tank capacity: 25.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 1100 ml"
+            }
+        ]
+    },
+
+    "gasoline-inverter": {
+        "id": "5",
+        "name": "Gasoline Inverter Generator",
+        "category": "agro-industrial",
+        "description": "Gasoline inverter generators for stable and efficient power.",
+        "hero_image": "/mechnova/products/gasoline-inverter/hero-gasoline-inverter.webp",
+        "error_image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+        "models": [
+            {
+                "code": "MG2.2AiS1-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "1",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 2.2 KW\nNominal power: 2.0 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 16 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG2.2AiS2-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "2",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 2.2 KW\nNominal power: 2.0 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 16 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG2.2AiS1-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "3",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 2.2 KW\nNominal power: 2.0 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 16 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG2.2AiS2-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "4",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 2.2 KW\nNominal power: 2.0 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 212cc - 7HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 16 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG3.7AiS1-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "5",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 3.7 KW\nNominal power: 3.5 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 223cc - 8HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 15 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG3.7AiS2-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "6",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 3.7 KW\nNominal power: 3.5 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 223cc - 8HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 15 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG3.7AiS1-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "7",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 3.7 KW\nNominal power: 3.5 KW\nStator coil: 100% Copper\nVoltage: 110V - 50Hz\nEngine: 223cc - 8HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 15 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG3.7AiS2-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "8",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.2AiS1-60.webp",
+                "specifications": "Maximum power: 3.7 KW\nNominal power: 3.5 KW\nStator coil: 100% Copper\nVoltage: 220V - 50Hz\nEngine: 223cc - 8HP / OHV, Gasoline, 4-Stroke\nAutonomy at 50% load: 15 Hours\nFuel tank capacity: 15.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 600 ml"
+            },
+            {
+                "code": "MG2.0AiSS1-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "9",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
+                "specifications": "Maximum power: 2.0 KW\nNominal power: 1.8 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 79.8cc - 3HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 10 Hours\nFuel tank capacity: 4.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG2.0AiSS2-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "10",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
+                "specifications": "Maximum power: 2.0 KW\nNominal power: 1.8 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 79.8cc - 3HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 10 Hours\nFuel tank capacity: 4.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG2.0AiSS1-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "11",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
+                "specifications": "Maximum power: 2.0 KW\nNominal power: 1.8 KW\nStator coil: 100% Copper\nVoltage: 110V - 50Hz\nEngine: 79.8cc - 3HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 10 Hours\nFuel tank capacity: 4.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG2.0AiSS2-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "12",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG2.0AiSS1-60.webp",
+                "specifications": "Maximum power: 2.0 KW\nNominal power: 1.8 KW\nStator coil: 100% Copper\nVoltage: 220V - 50Hz\nEngine: 79.8cc - 3HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 10 Hours\nFuel tank capacity: 4.0 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG3.3AiSS1-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "13",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
+                "specifications": "Maximum power: 3.3 KW\nNominal power: 3.0 KW\nStator coil: 100% Copper\nVoltage: 110V - 60Hz\nEngine: 149cc - 6.5HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 6.5 Hours\nFuel tank capacity: 4.3 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG3.3AiSS2-60",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "14",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
+                "specifications": "Maximum power: 3.3 KW\nNominal power: 3.0 KW\nStator coil: 100% Copper\nVoltage: 220V - 60Hz\nEngine: 149cc - 6.5HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 6.5 Hours\nFuel tank capacity: 4.3 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG3.3AiSS1-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "15",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
+                "specifications": "Maximum power: 3.3 KW\nNominal power: 3.0 KW\nStator coil: 100% Copper\nVoltage: 110V - 50Hz\nEngine: 149cc - 6.5HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 6.5 Hours\nFuel tank capacity: 4.3 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            },
+            {
+                "code": "MG3.3AiSS2-50",
+                "name": "GASOLINE INVERTER GENERATOR",
+                "id": "16",
+                "warranty": "12 Months",
+                "image": "/mechnova/products/gasoline-inverter/BG3.3AiSS1-60.webp",
+                "specifications": "Maximum power: 3.3 KW\nNominal power: 3.0 KW\nStator coil: 100% Copper\nVoltage: 220V - 50Hz\nEngine: 149cc - 6.5HP, Gasoline, 4-Stroke\nAutonomy at 50% load: 6.5 Hours\nFuel tank capacity: 4.3 Liters\nStarting system: Recoil\nOil reservoir capacity: 350 ml"
+            }
+        ]
+    }
+}

@@ -8,7 +8,8 @@ import Link from 'next/link'
 import categoryDataEs from '../category-es.json'
 import categoryDataEn from '../category-en.json'
 import detailedModelData from './detailedModelData.json'
-import modelData from './modelData.json'
+import modelDataEn from './modelData-en.json'
+import modelDataEs from './modelData-es.json'
 
 function ModelCard({ slug, model }) {
   const { t } = useTranslation()
@@ -69,7 +70,8 @@ export default function ProductSlugPage() {
         setIsDetailedProduct(true)
         setOldProductData(null)
       } else {
-        // For regular products, use the old modelData structure
+        // For regular products, use the old modelData structure based on language
+        const modelData = locale === 'en' ? modelDataEn : modelDataEs
         const oldProduct = modelData[slug]
         if (oldProduct) {
           // Check if the old product also has detail: "yes", then prioritize new view
