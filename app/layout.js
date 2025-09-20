@@ -10,11 +10,14 @@ const exo2 = Exo_2({
 });
 
 export const metadata = {
-  title: "Mechnova | Agricultural Machinery & Equipment Supplier",
+  title: {
+    default: "Mechnova | Agricultural Machinery & Equipment Supplier",
+    template: "%s | Mechnova"
+  },
   description:
     "Mechnova is a leading supplier of agricultural, gardening, and industrial machinery: brush cutters, chainsaws, sprayers, engines, generators, water pumps, and more. Reliable, innovative, and affordable equipment for farmers, landscapers, and professionals.",
   keywords:
-    "agricultural machinery, farm equipment, brush cutter, chainsaw, sprayer, generator, engine, water pump, gardening tools, Mechnova, agroindustrial, India, Colombia, Mexico, Peru, Guatemala",
+    "agricultural machinery, farm equipment, brush cutter, chainsaw, sprayer, generator, engine, water pump, gardening tools, Mechnova, agroindustrial, India, Colombia, Mexico, Peru, Guatemala, maquinaria agrícola, equipos agrícolas, desbrozadora, motosierra, fumigadora, generador, motor, bomba de agua",
   authors: [{ name: "Mechnova Machines", url: "https://mechnovamachines.com" }],
   openGraph: {
     title: "Mechnova | Agricultural Machinery & Equipment Supplier",
@@ -65,6 +68,10 @@ export const metadata = {
       en: "https://mechnovamachines.com",
       es: "https://mechnovamachines.com/",
     },
+  },
+  other: {
+    "title:es": "Mechnova | Proveedor de Maquinaria y Equipos Agrícolas",
+    "description:es": "Mechnova es un proveedor líder de maquinaria agrícola, de jardinería e industrial: desbrozadoras, motosierras, fumigadoras, motores, generadores, bombas de agua y más. Equipos confiables, innovadores y asequibles para agricultores, paisajistas y profesionales.",
   },
 };
 

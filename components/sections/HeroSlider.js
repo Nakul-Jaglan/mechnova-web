@@ -1,22 +1,34 @@
 "use client";
 import { useEffect, useRef } from "react";
 import Image from "next/image";
+import { useTranslation } from '@/lib/useTranslation';
 
 const images = [
-  // "/mechnova/banner/banner-m.webp",
   "/mechnova/banner/website-banner1.webp",
   "/mechnova/banner/website-banner2.webp",
   "/mechnova/banner/website-banner3.webp",
   "/mechnova/banner/website-banner4.webp",
 ];
 
+const EnglishImages = [
+  "/mechnova/banner/english-website-banner1.webp",
+  "/mechnova/banner/english-website-banner2.webp",
+  "/mechnova/banner/english-website-banner3.webp",
+  "/mechnova/banner/english-website-banner4.webp",
+];
+
 export default function HeroSlider() {
+  const { locale } = useTranslation();
   const sliderRef = useRef(null);
   const indexRef = useRef(0);
+  
+  // Select images based on language
+  const selectedImages = locale === 'en' ? EnglishImages : images;
+  
   // Duplicate images for infinite effect
-  const infiniteImages = [...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images, ...images];
+  const infiniteImages = [...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages, ...selectedImages];
   const total = infiniteImages.length;
-  const visibleCount = images.length;
+  const visibleCount = selectedImages.length;
 
   useEffect(() => {
     if (!sliderRef.current) return;
@@ -43,7 +55,7 @@ export default function HeroSlider() {
       }
     }, 2000);
     return () => clearInterval(interval);
-  }, []);
+  }, [selectedImages, visibleCount, total]); // Added dependencies for when images change
 
   return (
     <div
